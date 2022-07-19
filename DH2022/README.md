@@ -1,5 +1,12 @@
 # DH2022: Digital Humanities conference
 
+- [Introduction](#introduction)
+- [Installation and setup](#installation)
+- [Download data](#download-data)
+- [Credits and re-use terms](#credits-and-re-use-terms)
+
+## Introduction
+
 We have prepared two sets of tutorials for the DH2022 conference:
 - [ocr_with_w2v](ocr_with_w2v): Fuzzy string matching and ranking between OCR queries and a set of candidates.
 - [libyan_gazetteer](libyan_gazetteer): Toponym matching and ranking between:
