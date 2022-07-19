@@ -25,9 +25,16 @@ pip install DeezyMatch
 * Install other dependencies:
 
 ```bash
-pip install "thefuzz[speedup]"
+pip install "thefuzz"
 pip install "gensim"
 pip install "nltk"
 ```
+
+:warning: (optional) You can also install `thefuzz[speedup]` which provides a 4-10x speedup in String Matching (reference: https://github.com/seatgeek/thefuzz):
+
+```bash
+pip install "thefuzz[speedup]"
+```
+
 
 ## Download data
