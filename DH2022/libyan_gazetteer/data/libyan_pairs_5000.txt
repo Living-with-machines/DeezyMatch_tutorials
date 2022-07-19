@@ -1,0 +1,5000 @@
+Qārat ash Shīḩ	Qārat ash Shīḩ	TRUE
+Bi'r al Humayra'	Bi'r al Humayra'	TRUE
+Ra's Qararat al Hufrah	Qamāsīyah	FALSE
+Bi’r Sabīkah	Bi'r Sabikah	TRUE
+Qararat Umm al `Alam	Qarārat Umm al ‘Alam	TRUE
+Hawsh Warid	Wādī Tabārak	FALSE
+Shi`ab Aman al Jidari	Dūjāl	FALSE
+Qārat Ein Scilleme	Bi’r al Ballā‘ah	FALSE
+Wadi al Ghazi	Wadi al Ghazi	TRUE
+Muzayri` `Uraybi	Muzayri‘ ‘Uraybī	TRUE
+Bi'r al Huraykat	Bi'r al Huraykat	TRUE
+Ad Dīsah	وادي أم الرتم البتيراء	FALSE
+Qarat Tifdisat	Qārat Tifdisat	TRUE
+‘Ayn Abū ‘Ayyād	Wadi al Fajj	FALSE
+Abyār al Khalīţah	Qārat ar Rabā’i‘	FALSE
+Widyān aţ Ţayr	قارة الشوش	FALSE
+Balţāt Muḩammad	Kharrūbat ar Raghārīgh	FALSE
+Wādī al Ma‘qid	Wādī al Ma‘qid	TRUE
+Baltat al Arham	Balţat al Arḩām	TRUE
+Wadi al Karmusah	Wādī al Karmūsah	TRUE
+Tuwayyilat an Nusf	Wadi al Ma'ilah	FALSE
+Wādī al ‘Aţīfī	Khashm al Maşīdah	FALSE
+Wādī al Qaddīd	Wadi al Qaddid	TRUE
+Wadi al Huwayshiyah	Mintaqat `Umar	FALSE
+Shu`bat al `Asn al Ahmar	Shu`bat al `Asn al Ahmar	TRUE
+At Tawamah	Bi’r ash Shubruq	FALSE
+Bi’r Tinābūkā	Bi’r Tinābūkā	TRUE
+Ramlat Zalţan	Wadi Silas	FALSE
+Ra's `Alaq	Wādī as Sa‘ā’idīyah	FALSE
+Bi'r Sabikah	Bi'r Sabikah	TRUE
+Al Qirbājīyah	Al Qirbājīyah	TRUE
+Bi’r Bū Baţīnah	Saniyat ad Daffan	FALSE
+Washkat az Zurzūr	Washkat az Zurzur	TRUE
+Ra's Qalib `Aziz	Bi'r Shafarzin	FALSE
+Wādī Ghurfat Khayr	Wādī Ghurfat Khayr	TRUE
+Ţarīq al ‘Awjā’	Ţarīq al ‘Awjā’	TRUE
+Bi'r Zimam	Wadi Kawm al Baghl	FALSE
+Qar`at Wakumi	Qar‘at Wākūmī	TRUE
+Ḩaqfat al Ghayţ	Haqfat al Ghayt	TRUE
+Awlad Khalifah	Awlād Khalīfah	TRUE
+Wadi Munabbih	Qabilat at Tarar	FALSE
+Sawani Fassanu	Sawānī Fassānū	TRUE
+`Ayn az Zahrah	Ra’s al Manāstīr	FALSE
+Qabilat Analim	Qabīlat Anālīm	TRUE
+‘Ilwat Qirmīdah	‘Ilwat Qirmīdah	TRUE
+Ma‘ţan Sīdī Bin Nūr	Lawdh Jum`ah	FALSE
+Bi’r al Fākhirī	Bi’r al Fākhirī	TRUE
+Bi'r al Ghurabah	Bi’r al Ghurābah	TRUE
+Wadi Imzattah	Wādī Imzattah	TRUE
+Saniyat al Bu'ayrah	Wādī Ţās	FALSE
+Wādī al Bayḑā’	Wādī al Bayḑā’	TRUE
+Ghawţ al Qurḑāb	Wadi Umm al `Izam	FALSE
+شعبة السد	Bi'r al `Iyari	FALSE
+Ma`tan al `Udiyah	Thamad az Zawiyah	FALSE
+Ghawt Laqnu	Burayqat aḑ Ḑab‘	FALSE
+Wadi Umm Dab`ah	قارة الشريفية	FALSE
+Akibdan Afzahar	Wadi as Sudani	FALSE
+Wādī al Mashāyikh	Qulayb Bu as Su`ud	FALSE
+Wādī al U‘aywij	Wādī al U‘aywij	TRUE
+Shu‘bat Umm al ‘Arjam	Shu‘bat Umm al ‘Arjam	TRUE
+Bi'r al Baqariyah	Zawiyat Bisharah	FALSE
+Mājin Sa‘īd	Mājin Sa‘īd	TRUE
+Malqa at Turuq	رأس الفرافيط	FALSE
+Wādī al Jidārī	Wadi al Jidari	TRUE
+Bu Hamadi	Qarārat al Muqarba‘	FALSE
+Qarārat Bū al Jūd	Qararat Bu al Jud	TRUE
+Wādī al Ḩuwaysh	Wadi al Huwaysh	TRUE
+An Nāz̧ūrah	Bi'r ad Dulaywah	FALSE
+Bani Wazir	Ramlat al Wigh	FALSE
+Shu‘bat al Maḩāmīd	Shu`bat al Mahamid	TRUE
+Wadi Za`zuk	Wādī Islūlū	FALSE
+`Ulaym as Sarr	`Ulaym as Sarr	TRUE
+‘Ayn Abū ‘Ayyād	‘Ayn Abū ‘Ayyād	TRUE
+Wāw al Kabīr	Wāw al Kabīr	TRUE
+وادي سيلاس	Tandimmirah	FALSE
+Qārat ash Sha‘wī	Al Khurayjāt	FALSE
+Wādī al Kahf	Ferdj Ouaberane	FALSE
+Qararat as Suwayqilah	Ra's Bu Ghattas	FALSE
+Zulayţāt al Ghazāl	Ra’s al Kaḩlah	FALSE
+Qabilat al Halfa'	بئر الكازوزية	FALSE
+Adh Dhakir	‘Aqīrat al Ḩuraykāt	FALSE
+جبل محمد	وادي تنزفت	FALSE
+دور مرادة	Kaliyusha Reef	FALSE
+Bi’r Bū Sha‘rāyah	وادي زكير	FALSE
+‘Ayn al Battār	‘Ayn al Battār	TRUE
+Tumu Mountains	Tumu Mountains	TRUE
+Sāniyat al Ḩamrā’	Saniyat al Hamra'	TRUE
+Bi’r Quwaydir	Bi'r Quwaydir	TRUE
+Minţaqat al Mahajjah	Al Haniyah	FALSE
+Bi'r Mahjun	Bi'r Mahjun	TRUE
+Bi'r al Wati'ah	Jabal Bu al Hayran	FALSE
+Ramlat ar Rakhmāt	Ramlat ar Rakhmāt	TRUE
+Wādī Maqrāwah	Wadi Maqrawah	TRUE
+Ḩaqfat Māziq	Wādī al Ma‘āmīr	FALSE
+Shu‘bat al Ākhirah	Shu‘bat al Ākhirah	TRUE
+Minqar at Tashhim	Wādī Maqarr	FALSE
+Zahr Umm az Zayf	Saniyat al Khafif	FALSE
+Raqabat Shārib	Wādī Bū Udhun	FALSE
+وادي المهبول	‘Arqub Sayḩ aţ Ţawīl	FALSE
+Wādī Bin Kharfītah	Zahr ash Shuqaytah	FALSE
+Al Buţayţimah	عوينات زهير	FALSE
+Bi'r an Nyal	As Suwayrāt	FALSE
+Ghawt Bu Sudayrah	Ghawţ Bū Sudayrah	TRUE
+Wādī ad Dīsah	Abyar Fuzayr	FALSE
+Shaţīb al Ghiryān	Shaţīb al Ghiryān	TRUE
+Wadi Sarir	Wādī Sarīr	TRUE
+Kaf al Bayqalah	Al Quşay‘ah	FALSE
+Wadi in Ilobu	Wadi in Ilobu	TRUE
+Wādī Zu’ānah	Wādī Zu’ānah	TRUE
+Wādī ash Shu‘bah	Wadi ash Shu`bah	TRUE
+Qararat ad Duhaym	Qarārat ad Duhaym	TRUE
+Hisyan Ziqzaw	وادي القريات	FALSE
+Qaryat al Maghāribah	Qaryat al Maghāribah	TRUE
+Saqiyat Hasy an Nakhlah	Saqiyat Hasy an Nakhlah	TRUE
+Bi’r Bazzū	Abyar Sidi Khayr Allah	FALSE
+Wādī Bin Hindī	Wadi Bin Hindi	TRUE
+Wādī al Khurayşāt	Wadi al Khuraysat	TRUE
+Wadi Ma`zuzah	Wādī Ma‘zūzah	TRUE
+Saqifat Batrunah	Saqifat Batrunah	TRUE
+Khashm al Bal‘azī	Wādī Umm ar Rawāḩil	FALSE
+Wadi as Suwayniyah	Wādī as Suwaynīyah	TRUE
+Saqīfat Kharāb as Sadd	Qārat al Milḩ	FALSE
+Ra’s as Sidrah	Ra’s as Sidrah	TRUE
+القاف الشرقي	القاف الشرقي	TRUE
+Wadi al Muratrit	وادي الداوون	FALSE
+Wadi al `Arabiyah	Bi'r al Habib	FALSE
+Mintaqat al Bumbah	Qabīlat Ţayyib al Ism	FALSE
+Mājin Bū Şafīyah	Majin Bu Safiyah	TRUE
+Minţaqat Shakhnū	AnNasamah	FALSE
+Dūr ash Shi‘āb as Sūd	Dūr ash Shi‘āb as Sūd	TRUE
+Qabilat al Khitnah	Qabīlat al Khitnah	TRUE
+Akībḑan Afz̧aḩār	Akibdan Afzahar	TRUE
+Qar`at Shilsh	Wāsīn	FALSE
+Wādī as Sitrah	Ḩaţīyat al Jaghbūb	FALSE
+Bi'r Halazin	Bi’r Ḩalāzīn	TRUE
+`Ard Dur al Muwaqqaf	Qarat al `Iyabiyah	FALSE
+Al Khaţīţah	Al Khaţīţah	TRUE
+Shaţīb as Sāniyah	Shaţīb as Sāniyah	TRUE
+Ra's Meghi Madua	المقطة	FALSE
+‘Urqūb Huwaydāt ‘Ayyād	Minqar Ruhayyim	FALSE
+‘Aqīrāt al ‘Abd	‘Aqīrāt al ‘Abd	TRUE
+Wādī Quwayrāt aţ Ţarīq	Wadi Quwayrat at Tariq	TRUE
+Khashm az Zaydan	Khashm az Zaydan	TRUE
+Wadi al `Alimah	Wādī al ‘Alīmah	TRUE
+Khashm Rīshah	Khashm Rishah	TRUE
+دور البدادة	As Sudaniyah	FALSE
+Mintaqat Ra's al Hilal	Dur al Qar`ah	FALSE
+Venice Neighborhood	Bi’r an Naghrah	FALSE
+Kurkurah Bay	Kurkūrah Bay	TRUE
+Jabal Zaltan	Jabal Zaltan	TRUE
+Bi’r Qirwād	Bi’r Qirwād	TRUE
+Al Harūj al Aswad	Al Haruj al Aswad	TRUE
+Qarārat aţ Ţulfāḩī	Qararat at Tulfahi	TRUE
+Qabilat Takut	Wādī Qar‘t Mūsá	FALSE
+Edeba	Hasy Iferfes	FALSE
+Bi’r ash Shayābīn	Bi'r ash Shayabin	TRUE
+Bi’r aţ Ţūbah	Murayqib an Na‘ām	FALSE
+Al Jazīrah	Al Jazirah	TRUE
+Ḩaqfat al Miḩqan	Ḩaqfat al Miḩqan	TRUE
+Funqul	Mashhad al Qaşīr	FALSE
+Marawah	رملة طويل الملح	FALSE
+Bi'r `Abd ar Rahim	Wadi al Kha'ib	FALSE
+Wadi Laftutah	Mintaqat an Nu`mani	FALSE
+‘Ayn aş Şīrīyah	Aḑ Ḑabghīyāt	FALSE
+Al Hasy al Hamra'	Al Ḩasy al Ḩamrā’	TRUE
+Ard al Madaniyah	Ard al Madaniyah	TRUE
+Ra's Ziziyah	Ra's Ziziyah	TRUE
+سبخة المقطة	سبخة المقطة	TRUE
+Baladīyat Ajdābiyah	Marsa Bu al `Ifrit	FALSE
+وادي شعبات القنطرة	Wudayy ad Dumran	FALSE
+Al Bumbah	Al Bumbah	TRUE
+Ra's al Khadim	Qiblah	FALSE
+Mājin al Umbāshī	Jabal Bu `Aqilah	FALSE
+Wadi al Qahim	Wadi al Qahim	TRUE
+Daf‘ Wādī Lāşūfah	Ghawt ath Thalm	FALSE
+وادي الخرجة	`Ayn al `Ujul	FALSE
+Bi'r al Khawr	Wādī Jārīz	FALSE
+Qabilat Awlad Bin Ahmad	Qabīlat Awlād Bin Aḩmad	TRUE
+سانية الكمور	سانية الكمور	TRUE
+Z̧ahr al Jisr	Wādī Bū Şanab	FALSE
+Ra's al Ma`iz	Ra's al Ma`iz	TRUE
+Qaryat Awlā Bin Shayyah	Qaryat Awlā Bin Shayyah	TRUE
+Qabīlat Maqtalah	Qabilat Maqtalah	TRUE
+‘Ayn Qiţār	Qārat al Mukharram	FALSE
+Qabīlat al ‘Abānāt	غوط الظل	FALSE
+`Ayn at Turk	‘Ayn at Turk	TRUE
+شعبية الجفرة	Wadi `Ali	FALSE
+Bi'r ar Rasim	Wādī Qulayyah	FALSE
+Sabkhat al Jahr	Wadi in Toggen	FALSE
+Wādī al Qarī	Minqar Bur`um	FALSE
+Qabilat al Hashshan	Qabilat al Hashshan	TRUE
+Zahrat Umm an Nashf	Z̧ahrat Umm an Nashf	TRUE
+Wādī Umm al Ghanā’im	Wādī Umm al Ghanā’im	TRUE
+Ḩaqfat ad Durbāk	Qaryat al Barakat	FALSE
+Qar‘āt al Ḩabashī	Qar`at al Habashi	TRUE
+Wādī as Sūnīyah	Qabilat ar Rawashidiyah	FALSE
+Bi'r Qatish	Bi'r Qatish	TRUE
+Khurmat ar Rashādah	Bi’r Qiddīd	FALSE
+Bi’r Bū an Nāshikī	Saniyat ash Sharif	FALSE
+Wādī al Kibr	بئر عمر	FALSE
+Al Battaniyah	Abyar az Zawzat	FALSE
+طويل مسعودة	`Aqirat al Khadim	FALSE
+Wadi Sahl an Nar	Wadi Sahl an Nar	TRUE
+Mājin ‘Abd ar Raḩīm Jawād	Bi’r Amāsīn	FALSE
+Bi’r Harharah	Bi'r Harharah	TRUE
+Shu`bat Bu al Aqhaf	Wādī Ḩallūf	FALSE
+Qaryat Şarkhah	Wadi Tafist	FALSE
+Balţat al Ḩimārayn	`Ilwat al Mushraf	FALSE
+Thamad `A'ilat Mubarak	Bi’r ad Dār	FALSE
+Jabal Jarmah	Qanţarat as Sūq	FALSE
+Wādī Umm al ‘Iljān	Wadi Tin Quwayma	FALSE
+Jazīrat Mişrātah	وادي مثاب	FALSE
+Bi’r al Mu‘ayqil	Bi’r al Mu‘ayqil	TRUE
+Al Mutrad	Ra’s Zūtī	FALSE
+Wādī Fulayqān	Wādī aş Şafīyah al Bikrah	FALSE
+Abyār ash Shuwayrif	Abyār ash Shuwayrif	TRUE
+Shu`bat Abu Sa`dah	Jawf al Maţār	FALSE
+Wadi Umm al Qirab	Wādī Barāţis	FALSE
+Bi'r Qilad	Wādī an Ni‘āj	FALSE
+Abyar al `Uqaylah	Abyār al ‘Uqaylah	TRUE
+Ţawīl Bin Sharīf	Wādī ‘Ayt Ḩusayn	FALSE
+Wadi al Wadah	Wadi al Wadah	TRUE
+Al Qarah al Hamra'	Al Qārah al Ḩamrā’	TRUE
+Al Maslūlah	Bi’r Zā’id	FALSE
+Ma‘ţan Talghazah	Ma‘ţan Talghazah	TRUE
+Al Ghurayfah	Ghawţ Karkar	FALSE
+Ghawt al Mu`allim	وادي النقد	FALSE
+Bi’r ‘Ayt Shinnīb	Bi'r `Ayt Shinnib	TRUE
+Wādī Sarwīl	Ra’s Quwayf al Būmah	FALSE
+Umm al Bum	Umm al Bum	TRUE
+Bi’r al Khalīţah	Bi'r al Khalitah	TRUE
+Awlad Khalaf Allah	غوط الجرارية	FALSE
+Wadi al Kabir	Wadi al Kabir	TRUE
+سبخة الملح	Ghawt al Mu`tarid	FALSE
+Bi'r Turman	Bi’r Ţurmān	TRUE
+Ru’ūs Daf‘ Izqū	Wadi Zawah	FALSE
+وادي فياس	‘Ayn Lālī	FALSE
+Shu`bat ar Ruday`ah	Shu`bat ar Ruday`ah	TRUE
+Ra's Mashhad Battar	النويبات	FALSE
+Al Khuff	Ra's Lanuf	FALSE
+Wādī Bū Suqayf	Ra's al Mu`tarid	FALSE
+Ḩasy Dambābah	Bi’r Qarrūm	FALSE
+Kubat ad Dahy	Kubat ad Dahy	TRUE
+Kūbāt Ghazālah	Kūbāt Ghazālah	TRUE
+Mintaqat al Ajwaz	Minţaqat al Ajwāz	TRUE
+Bāb al Mashārif	Ra's Khuraybish	FALSE
+أجدابية	ﺑﻠﺪﻴﺔ أجدابية	TRUE
+Ra's Hajari	Ra's Hajari	TRUE
+Marwat Mazātah	Marwat Mazātah	TRUE
+Dūjāl	Ash Shiyāb	FALSE
+Qulayb al Aswad	Bi'r al Maqtuf	FALSE
+Tammat ad Dablah	رأس قرية القصر	FALSE
+Mintaqat Maziz	غوط الدفة	FALSE
+Wadi as Suwayniyah	Mintaqat `Urayyif	FALSE
+Abyār Abū Qaşabah	Wādī Sāqāwah	FALSE
+Ghawt al Masani`	قارة الكرى	FALSE
+Wadi Ibrahim	Wādī Ibrāhīm	TRUE
+Shaţīb az Zuhayrī	Bi’r al ‘Alaqah	FALSE
+Qar‘at al Khabiyah	Qar‘at al Khabiyah	TRUE
+Wādī Bū al Hudūm	Wadi Bu al Hudum	TRUE
+Bi’r Bū Mas‘ūd	Wādī Shīhān	FALSE
+Ki`am	Bi'r al Hanhuf	FALSE
+Wādī al ‘Ayn	Wadi al `Ayn	TRUE
+Diyar al Qadhdhafi	Diyār al Qadhdhāfī	TRUE
+Baltat an Nimr	Bi'r Quraywi	FALSE
+Wādī ash Shuqūqah	Wadi ash Shuquqah	TRUE
+Shaţīb ar Rukn	Shatib ar Rukn	TRUE
+Qaryat al Wuqayyāt	Qaryat al Wuqayyat	TRUE
+Wādī Umm al Qurūn	Wādī Umm al Qurūn	TRUE
+Bi’r ash Sha‘lālīyah	Bi'r ash Sha`laliyah	TRUE
+Bi’r an Nāmūs	Majin Ghawt ar Raml	FALSE
+حطية قعوني	Sāniyat Mabrīkah	FALSE
+Dur al Maylak	Dūr al Maylak	TRUE
+Ghawt al Muraytibah	Ghawţ al Murayţībah	TRUE
+Jawf aḑ Ḑab‘	دور الكلبة	FALSE
+Wadi al Kuraymah	Wādī al Kuraymah	TRUE
+Wādī in Aramas	Wādī in Aramas	TRUE
+وادي الحلوفة	‘Ayn Zuwayyah	FALSE
+Dur al Afran	Dūr al Afrān	TRUE
+Bin Zablah Mintaqat	Wādī Dakākīn Bū Ḩaqf	FALSE
+وادي القود	وادي القود	TRUE
+Bu ash Sharaf al Kabir	Bu ash Sharaf al Kabir	TRUE
+Wādī Bū Udhun	Wādī Bū Udhun	TRUE
+Ghitan al Hafizat	Ghīţān al Ḩafīz̧āt	TRUE
+Qūr al Matāqī	Zahr `Umayran	FALSE
+Qabilat Qaryat `Ama'im	Sāqiyat al Bi’ār	FALSE
+Ghawt al Hawiyah	Ma`tan Najm	FALSE
+Wadi al Magharah	Wādī al Maghārah	TRUE
+Shu‘bat aş Şārī	Mabruk	FALSE
+Wadi Maqrid as Samih	Wadi al Fi'san	FALSE
+Wādī al Jaḩīdī	Wadi al Jahidi	TRUE
+Ghawţ al Bāb	Ghawţ al Bāb	TRUE
+Wādī aş Şawma‘ah	Wadi as Sawma`ah	TRUE
+Maqāhī	Wādī Ghaşarāt	FALSE
+Wādī Sawāqī al Mājin	Qasr Libiya	FALSE
+بئر عيلة مصباح	بئر عائلة مصباح	TRUE
+Wadi al `Ufayn	Wādī al ‘Ufayn	TRUE
+Bi'r `Abd an Nabi	Bi’r al Maşbagh	FALSE
+Ra's al Mudawwarah	قبو السويرات	FALSE
+Daqqat al Hurayshat	Daqqat al Hurayshat	TRUE
+‘Aqīrat an Naq‘	Ra's Abu Qurayn	FALSE
+قارة الظلمان	Bi’r Sabīyah	FALSE
+Ra's al Qudayh	Bi’r Wāsīq	FALSE
+Abyar Makhraq	Wādī al Khaţţārah	FALSE
+Wadi Tilal	Wadi Tilal	TRUE
+قرارات السور	قرارات السور	TRUE
+Zahrat at Talhiyah	Wādī Wāmis	FALSE
+Qārat Bū Quffah	Qarat Bu Quffah	TRUE
+Ţarīq Fazzān	Khawr aţ Ţalīyah	FALSE
+Daffat ad Dabab	Daffat ad Dabab	TRUE
+Wadi al Kahf	Wadi al Kahf	TRUE
+Al Qarah al Bayda'	Wādī al ‘Aqar	FALSE
+Ra's al Qubbah	Ra's al Qubbah	TRUE
+Wādī Manīsīr	وادي قرماط	FALSE
+Wādī Lūshām	Bi'r Dufan	FALSE
+An Nawfaliyah	Shaţīb Ḩaqf Nīnā	FALSE
+بئر أبو الخنفس	بئر أبو الخنفس	TRUE
+Bi'r al Fuqaha'	Wādī Bin Qurād	FALSE
+Ru’ūs al Marghanīyah	Ru'us al Marghaniyah	TRUE
+Wadi al `Unsulah	Wādī an Ni‘āj	FALSE
+وادي الطرفاوي	Mudawwarāt ad Dushsh	FALSE
+Qur al Futtah	Qūr al Fuţţaḩ	TRUE
+Bi’r Bū al Aḩmar	Bi'r Bu al Ahmar	TRUE
+خشم المداس	‘Aqīrat al Jarrārī	FALSE
+Wadi al Masamir	Wādī al Masāmīr	TRUE
+Sabkhat Umm Liḩyah	Qa`rat al Mahmal	FALSE
+القيقب	Wādī Mānū	FALSE
+Minţaqat ar Ramlīyah	Minţaqat ar Ramlīyah	TRUE
+Al Kuwaymah	Kawm al Hallab	FALSE
+Khashm Umm Qurād	Umm al Ma‘rūf	FALSE
+Wadi al Qital	Bi'r al Jirmah	FALSE
+`Uruq Gharsah	Ra's Abu Zamilah	FALSE
+Raqabat Sukaynīyah	Raqabat Sukaynīyah	TRUE
+Ghadir as Safa	Ghadir as Safa	TRUE
+Wādī al Qinţār	Wadi al Qintar	TRUE
+Ra’s Tamallalt	Ra's Tamallalt	TRUE
+أشاب الغزين	أشاب الغزين	TRUE
+Ra’s az Zabs	Ra's az Zabs	TRUE
+Dūr Bū al Ḩuḑayrīyāt	Wadi Bu Raniyah	FALSE
+Suwayḩāt al Kūlāl	Suwayhat al Kulal	TRUE
+Bi’r Madhākīr	Bi’r Madhākīr	TRUE
+Wadi ar Ruqayyiqah	Wadi ar Ruqayyiqah	TRUE
+وادي عين إيبغويد	Ramlat Bu ash Shaykh	FALSE
+Mirad al Munsalam	Bi’r Jīmī	FALSE
+Ramlat `Aqarib	Ramlat `Aqarib	TRUE
+Wadi Birkah	Bi'r al Jamali	FALSE
+Wadi al Listatah	Wudayyāt aţ Ţalḩah	FALSE
+Bi’r Ţāhir Maḩbūbah	Dur al Abraq	FALSE
+أبيار الصغيرة	أبيار الصغيرة	TRUE
+Ghawţ al Qiryāţīyah	Ghawt al Qiryatiyah	TRUE
+Surman	Surman	TRUE
+Wanzarik	Wanzarik	TRUE
+Wādī al Muzayri‘	Mintaqat Mubashshir	FALSE
+Dūr al Abraq	Wadi Mashyukhah	FALSE
+دور الشيح	Al Qawafil	FALSE
+Bi'r al Minqash	Qaryat al Habarah	FALSE
+Raqabat az Zamārīr	Wādī Jafnayn	FALSE
+Wadi al Mushayzibi	Ḩasy an Nakhlah	FALSE
+Qabilat Bahus	Shaţīb Thalāthīn	FALSE
+Wādī al Karm	Ghawţ Bikhāţirī	FALSE
+Mudīrīyat Kābāw	Mudīrīyat Kābāw	TRUE
+Ra’s al Abwāb	Ra’s al Abwāb	TRUE
+Minţaqat Qubūr al Furaykh	Qubur as Sultan	FALSE
+ظهر الهرمات	Dūr Shāqāmah	FALSE
+Wādī al Muqaytilah	Wadi al Muqaytilah	TRUE
+غوط المعلم	غوط المعلم	TRUE
+Khurmat az Zirr	Shatib Sumaydah	FALSE
+Bi’r al Ḩatīwah	Bi'r al Hatiwah	TRUE
+Ma`tan al Majhur	Ma`tan al Majhur	TRUE
+Wādī Timsān	Wādī Timsān	TRUE
+Tariq al `Uwayliyah	Tariq al `Uwayliyah	TRUE
+قرارة المتجبية	Qam`un	FALSE
+Sawānī al ‘Urayq	Sawani al `Urayq	TRUE
+Qararat as Samhudiyah	Sarīr al Miḩqan	FALSE
+Wudayyāt al Ḩadd	Wudayyāt al Ḩadd	TRUE
+‘Ayn Sakfah	Khurmat al Busaylah	FALSE
+Ghawt as Sutrah	Bi’r Maḩānī	FALSE
+`Ayn Bu Zayyah	`Ayn Bu Zayyah	TRUE
+Saniyat Umm al `Ulbah	Wadi Maskukah	FALSE
+Qaryat Sidi Khalifah	Ḩalq Şāliḩ	FALSE
+Farshat as Sabtah	Farshat as Sabţah	TRUE
+Wadi Ghazal	Wādī Ghazāl	TRUE
+Bi’r al Karmūsah	Bi’r al Karmūsah	TRUE
+Thamad Rijl al Butayra'	`Ayn al `Uwaynat	FALSE
+عمارات السيرتي	عمارات السيرتي	TRUE
+Harf as Sayfi	Wādī ar Raḩbah	FALSE
+`Aqirat Kuraymah	`Aqirat Kuraymah	TRUE
+Qarat Bu al Hajal	Mafraq Bi’r ‘Ayyād	FALSE
+Bi’r Bū Bulaylīţah	Bi’r Bū Bulaylīţah	TRUE
+Z̧ahr al Ghabaḩ	Shu`bat as Sanam	FALSE
+Wādī al Khannāq	Wadi al Khannaq	TRUE
+Shaţīb Ḩamīdah	وادي الغز	FALSE
+Wadi Arfad	Wādī Arfād	TRUE
+Ar Ruşayfah	Ar Ruşayfah	TRUE
+Qarārat al Faras	Qararat al Faras	TRUE
+Ra's at Tuwayyil	Ra's at Tuwayyil	TRUE
+Sāniyat Raḩmah	Abyār Qalb Mushāḑī	FALSE
+Bu’ayr Tilid	Saqīfat al Khuwayr	FALSE
+Shaţīb Bū Faḑīlah	Shaţīb Bū Faḑīlah	TRUE
+Thamad al Kha`ib	Thamad al Kha`ib	TRUE
+Baltat al Maqtu`	Khashm Bu Shakkakah	FALSE
+Shu`bat as Sufah	Bi'r Shalghudah	FALSE
+Wadi Jawf al `Ubayd	Wadi Jawf al `Ubayd	TRUE
+Al Babsa	Al Babsa	TRUE
+Baltat an Nimr	Bi’r al Ḩafyān	FALSE
+Qarat `Abd as Samad	Qārat ‘Abd aş Şamad	TRUE
+Bi'r Ghandalis	Zahrat al Kandarah	FALSE
+دور أمهات اللبد	Jibal al Waji`ah	FALSE
+Wādī al Muraţriţ	Wadi al Muratrit	TRUE
+Ard ash Sha`fah	Bi’r as Surayrīq	FALSE
+Minqār Mīlād	Ifafane Tehad	FALSE
+بئر المجدوبية	بئر المجدوبية	TRUE
+Ma‘ţan Tubaylibah	Wādī aţ Ţānūnīyah	FALSE
+Qaryat Ra's ath Thumah	وادي زناد	FALSE
+Ra’s al Mudawwarah	Ra’s al Mudawwarah	TRUE
+Wadi Bu al Farsh	`Ilwat at Tays	FALSE
+Qabīlat az Zayāyinah	Qabīlat az Zayāyinah	TRUE
+Shaţīb adh Dhibbānah	Shaţīb adh Dhibbānah	TRUE
+Al Qatrun	Al Qatrun	TRUE
+As Salmani ash Sharqi	Qabilat ash Shuraydat	FALSE
+قرارة نقب الطين	Ra’s Abū Siţām	FALSE
+Wadi as Satl	Birqāyat Sīdī Ghiyān	FALSE
+وادي دفع النويات	Qar‘āt Sharīd	FALSE
+Thaniyat al Kabirah	Qūr Kurb as Satītī	FALSE
+Qulayb al Muqayniş	Qulayb al Muqaynis	TRUE
+Wādī Bū Ri’ālah	Sabkhat Khalilah	FALSE
+Ţawīl Mas‘ūdah	Ţawīl Mas‘ūdah	TRUE
+Bi'r adh Dhikar	Bi’r adh Dhikār	TRUE
+Wādī al Mahya‘	Sabkhat Sawf al Jin	FALSE
+Saqīfat al Gharābāt	Wamis	FALSE
+`Aqirat ash Sha`fah	Qabīlat Muqāqirah	FALSE
+Bi’r Sadandū	Bi’r Sadandū	TRUE
+Minţaqat al Masā‘īd	Bi'r `A'ilat an Najjar	FALSE
+Wadi Umm Sabtah	Wādī Umm Sabtah	TRUE
+Al Humaymat	Wādī ‘Aynayn aţ Ţalḩ	FALSE
+الحي الصناعي	الحي الصناعي	TRUE
+Quray`at al Jalaghimah	Quray‘at al Jalāghimah	TRUE
+Minţaqat al Maḩārim	Bi'r al A`waj	FALSE
+Wudayy al ‘Arfaj	Bi’r Ra’s al ‘Uqāb	FALSE
+Haqfat al Kawakhi	Wādī al ‘Uţlī	FALSE
+Wadi az Zabbuzah	Wadi az Zabbuzah	TRUE
+Ra’s al Qaţţār	Ra’s al Qaţţār	TRUE
+Wadi ad Durayqah	Wadi ad Durayqah	TRUE
+`Urqub al Mahbis	`Urqub al Mahbis	TRUE
+Sarīr Umm ‘Alā’	Sawānī Umm al Ḩajal	FALSE
+Widyan al Lasiq	Widyān al Lāşiq	TRUE
+Raqabat al Fakhar	Raqabat al Fakhar	TRUE
+Wadi Daf` Qani	Wadi Daf` Qani	TRUE
+Wādī ar Rummān	Wadi ar Rumman	TRUE
+Qaryat `Ayn al Kabir	Qaryat `Ayn al Kabir	TRUE
+Ghawţ ar Ratam	Ghawt ar Ratam	TRUE
+Quwayrāt Sadā’id al Ḩasan	Quwayrat Sada'id al Hasan	TRUE
+Aḩqāf al Jabbārāt	أبيار أنتلات	FALSE
+Wadi Bi'r al Ghanam	Qabīlat al Jaddā’imīyah	FALSE
+Jabal ash Sharif	Jabal ash Sharīf	TRUE
+Qararat at Tuwakiniyah	Qarārat at Tuwākinīyah	TRUE
+Sabkhat Karkūrah	Wādī Qirrīm	FALSE
+Shatib al Qitt	Wādī Tamām	FALSE
+`Urqub al `Ilm	`Urqub al `Ilm	TRUE
+Qarārat Shakk	Qarārat Shakk	TRUE
+بئر حريز الفوقي	As Sawdāyah	FALSE
+Qaşr al Fawqānī	Qasr al Fawqani	TRUE
+Jārid Bāzīnah	Jarid Bazinah	TRUE
+Bi’r Shu‘aydān	Minţaqat ar Rijl	FALSE
+Kouri Bougoudi	Kouri Bougoudi	TRUE
+Bi’r Umm al ‘Iz̧ām	Tilat	FALSE
+Qararat Ways	Al Lamamish	FALSE
+Wadi Shazuf	وادي دينار	FALSE
+Tariq ad Da'iri al 'Awwal	Tariq ad Da'iri al 'Awwal	TRUE
+Qabilat al Khasha'irah	Qabilat al Khasha'irah	TRUE
+Marsá ar Raḩá	Marsá ar Raḩá	TRUE
+Lawlab al Jīfah	Lawlab al Jīfah	TRUE
+Bi’r al ‘Adlī	Bi'r al `Adli	TRUE
+Mintaqat al Murrah	قرارة أم عطيلة	FALSE
+Bi'r al Bishriyah	Jabal Irnūbāy	FALSE
+`Urqub al Ibil	Bi’r Bū Karmah	FALSE
+Rūrāyat al Bāzūzī	Rūrāyat al Bāzūzī	TRUE
+Shu‘bat Ţā’ishah	Bi'r az Zabu	FALSE
+Bi’r Dūfān	Bi'r Dufan	TRUE
+رأس أعبيد	‘Ayn al Julūlāt	FALSE
+Wadi Sidi `Awn	Ra’s Zallāf	FALSE
+‘Urqūb al Ḩalīb	Qarat Umm al Gharaniq	FALSE
+تويوا	Al Juwaybīyah	FALSE
+Shatib al Khayrish	Bi’r ad Duwayrāt	FALSE
+Bi’r ar Ramāmiḑah	Bi’r ar Ramāmiḑah	TRUE
+Qabīlat Barakāt al Māḑī	Ghadir Umm al Makhasir	FALSE
+Bayy al Kha'ib	جبل محمد	FALSE
+Wadi Lawfah	محافظة البطنان	FALSE
+`Aqilat al Khurash	Thamad al Jarāminah	FALSE
+Al Barrānī	Al Barrānī	TRUE
+Wādī al Fujayj	Wādī al Fujayj	TRUE
+Abyar as Sababil	Wādī al Qarī‘ah	FALSE
+Majin Qirinnah	Al Banātī	FALSE
+Marqab ‘Abd al Ḩamīd	Marqab `Abd al Hamid	TRUE
+Qarat al Bakkush	Qārat al Bakkūsh	TRUE
+Wādī al Barbīs	Wadi al Barbis	TRUE
+Abyār Bū Ta‘mīr	Abyar Bu Ta`mir	TRUE
+Sawānī Shahāwī	Wādī Umm Ḑab‘ah	FALSE
+Shu`bat Rafi`	Wadi Bu Talhah	FALSE
+Bi’r aş Şuway‘ī al Ghā’ib	Bi'r as Suway`i al Gha'ib	TRUE
+Wādī al Maḩrūqah	Wadi al Mahruqah	TRUE
+Qararat ar Rumaylah	Qararat ar Rumaylah	TRUE
+Abū ‘Affān	Al Maqta`	FALSE
+Khashm al Adyab	Bi’r Muḩammad ‘Ammār	FALSE
+Ma‘ţan ash Shā’ibah	Qabīlat Lāghāt	FALSE
+Wādī Umm Rukbah	Wadi Umm Rukbah	TRUE
+Shu‘bat al ‘Azzābīyah	Shu‘bat al ‘Azzābīyah	TRUE
+Bi’r Daf‘at al Miqrāḑ	Bi'r Daf`at al Miqrad	TRUE
+Sulūk Īslān	Bū Mushayfah	FALSE
+وادي جوف الحمار	وادي جوف الحمار	TRUE
+Qabilat al Qumay`at	Wādī al Jahr	FALSE
+Wādī Gharghār	Wādī Gharghār	TRUE
+Wadi Hashash	Wadi Hashash	TRUE
+سيح النسا	Sīrat ‘Ajībah	FALSE
+Wadi al Qari`ah	Bi’r Ḩaqfat aş Şanyūr	FALSE
+Qararat as Sur	قرارة بن سهبان	FALSE
+Al Khashab	Saniyat Masaklu	FALSE
+Ra’s Bībal	Sarīr as Sab‘ah	FALSE
+Al Qiz̧āmah	قرارة الطلحة	FALSE
+Wādī Umm al Qirab	Wādī Umm al Qirab	TRUE
+Bi’r al Ḩājj Sālim	Bi’r al Ḩājj Sālim	TRUE
+Bi’r ‘Akkārah	Bi'r `Akkarah	TRUE
+Wādī Tāshaţ	Wadi Tashat	TRUE
+شعبية الزاوية	وادي الجبائرة	FALSE
+Bi'r al Mu`ayqil	Bi’r al Mu‘ayqil	TRUE
+Al Hadāri‘ah	Al Hadari`ah	TRUE
+Ghawt al Quray`ah	Minţaqat al Ḩumayrah	FALSE
+Wadi at Talhah	Wadi at Talhah	TRUE
+Qabilat Jabbur	Bi’r Badr	FALSE
+Wādī ath Thu‘aybīn	Wadi ath Thu`aybin	TRUE
+Wārmās	جبانة	FALSE
+عقيرة بو حزينة	Ḩuţayţāt al Fawzīyah	FALSE
+بئر الطويل	بئر الطويل	TRUE
+Quwayrat ar Ra`awiyah	Wadi Bu Wushaykah	FALSE
+‘Ayn Umm Harī	`Ayn Umm Hari	TRUE
+Wādī al Ḩamām	Wādī al Ḩamām	TRUE
+Thamad al Murayrāt	Bi’r Bū Buraykah	FALSE
+Ţawīl ar Ratamah	Ţawīl ar Ratamah	TRUE
+Bi'r al Mufawwaz	Bi’r al Mufawwaz	TRUE
+‘Ayn Ḩwār	`Ayn Hwar	TRUE
+Ra’s Bū Qarīr	Ra's Bu Qarir	TRUE
+Qabīlat al Kabārīn	Bi'r Awlad Ziyadah	FALSE
+Wādī al Khurb	Wādī al Khurb	TRUE
+Shaţīb ar Rijl	Ḩurayshah	FALSE
+Sabkhat al Kharrūbah	Hawa Shaqq al Ghurab	FALSE
+Saniyat al Qadi	Saniyat al Qadi	TRUE
+Bi’r al Washkah	Bi’r al Washkah	TRUE
+Wadi Lam`ah	Wādī Lam‘ah	TRUE
+Ghawt al Bayda'	Bi’r al Murrah	FALSE
+Bi'r Bu Karmah	Abyār Qirqāb	FALSE
+Abyar Mahziyah	Mallahat az Zaghwaniyah	FALSE
+Wadi al Jilf	Wadi al Jilf	TRUE
+بئر حقفة كريمة	بئر حقفة كريمة	TRUE
+Bi'r ash Shiyyab	Ash Shūshah	FALSE
+Ţarīq Talghazah	Ţarīq Talghazah	TRUE
+Aqar al `Atabah	Aqar al `Atabah	TRUE
+Jabal al Lallah	Jabal al Lallah	TRUE
+Ţawīl al Qadīm	Ţawīl al Qadīm	TRUE
+Qārat Sa‘d	Qārat Sa‘d	TRUE
+Shaţīb al Ghūlah	Shu`bat Qantirar	FALSE
+Wādī al Abyār	Wādī al Abyār	TRUE
+Ghawţ al Ḩamām	Ghawţ al Ḩamām	TRUE
+رؤوس المخارم	Abyar al Qattarah	FALSE
+Umm Furhūd	Wādī as Sīrah	FALSE
+رأس العنق	قليب الملح	FALSE
+Raqabat al Khirāf	Tariq Masturah	FALSE
+Ra’s al Laḩāliḩah	Ra's al Lahalihah	TRUE
+Abyār al ‘Iqāl	Al Masufiyin	FALSE
+Zawiyat Umm Rukbah	Zawiyat Umm Rukbah	TRUE
+Wadi Taqarabu	Wadi Taqarabu	TRUE
+Thamad Ḩassān	Thamad Hassan	TRUE
+Habīţ al Baqarah	Ghawt Listus	FALSE
+Tariq al Qirdabiyah	Al Mulay`ib	FALSE
+Ḩallāb Bū Nadīsh	Qarat al Lifah	FALSE
+‘Ayn al Waşīf	Bi'r al Khubiyah	FALSE
+Wadi Zunnarah	Wadi Zunnarah	TRUE
+Shāri‘ Jamāl ‘Abd an Nāşir	Bi'r al Qatafah	FALSE
+Wadi Mindas	Bi'r al Athlah	FALSE
+Jawf al ‘Uqāb	Bi'r Yusuf Yamin	FALSE
+Khushaym Wadi ar Ratam	Khushaym Wādī ar Ratam	TRUE
+Ţarīq Talghazah	ذراع دموم	FALSE
+Wādī al Mashhad	Ghawt Mas`adah	FALSE
+Jawf an Nakhilah	Qarārat az Za‘tarīyah	FALSE
+Az̧ Z̧ahr al Abyaḑ	Quwayrat Tabu	FALSE
+Ash Shaqārinah	Ash Shaqārinah	TRUE
+‘Aqīrat al Mushaqqaq	Al `Aql	FALSE
+Fezzan	Minqar Khurmat Fazzan	FALSE
+Sāniyat Umm al ‘Ulbah	Saniyat Umm al `Ulbah	TRUE
+Qar‘āt Ḩajar	Jazirat Misratah	FALSE
+Wadi al Karamis	Wādī al Karāmīs	TRUE
+Sayḩ al Ghāzī	Buhayrat Ziyadah	FALSE
+Wadi Uri Dross	Wādī Uri Dross	TRUE
+Mu`askar Jalu	Mu‘askar Jālū	TRUE
+Jaddat Jabiyah Hirz	Jāddat Jābiyah Ḩirz	TRUE
+Qarār az Za‘ūţī	Khashm al Ḩarīqah	FALSE
+Kaf Ghan	Kaf Ghan	TRUE
+Wadi at Talhiyah	Wadi at Talhiyah	TRUE
+وادي ورورق	Bi'r Ra`biyah	FALSE
+Qarārat al Ḩamādah	Qararat al Hamadah	TRUE
+Wādī Kinshah	Dūr Bū ‘Azūm	FALSE
+Sawani al Murabbahah	Sawani al Murabbahah	TRUE
+Bi'r Hawiyat Qaddurah	Qabilat al Maraghni	FALSE
+Qaryat Jarrufah	An Nafkh al Aḩmar	FALSE
+Bi'r Haqfat as Sanyur	Bi’r Ḩaqfat aş Şanyūr	TRUE
+سقيفة الأبيرق	Ghadīr Umm al Makhāşir	FALSE
+Shu‘bat al Banāt	Bi'r Abu `Ujaylah Hanin	FALSE
+Al Mukhayzinat	Al Mukhayzināt	TRUE
+Ḩaqfat ‘Ayt Qulaywān	وادي تكنتان سينقطة	FALSE
+وادي عية الذنيبة	Bi’r Zā’id	FALSE
+Qaryat az Zahiri	Mudīrīyat Umm ar Rizam	FALSE
+Sarir Ibn `Afin	Billah	FALSE
+Ra’s al Khalīqah	‘Aqīrāt ar Ratmā’	FALSE
+Wādī Mukaymin ar Rawāj	Sāqiyat ar Rayyānī	FALSE
+Qararat Bin `Abd Allah	Ra's Mariqah	FALSE
+طويل الملح	Wadi az Zubaywah	FALSE
+Djebel Ati	Shatib al Balla`ah	FALSE
+Musran al Jata	Musran al Jata	TRUE
+برج العقرب	Sawani al Bayda'	FALSE
+As Sabiri ash Sharqi	Bi'r Bu adh Dhibban	FALSE
+زاوية المنستير	Wadi Shuraytil	FALSE
+Wadi Tutah	Bi’r Shalghūdah	FALSE
+Lajwá	Lajwá	TRUE
+Wadi ash Shuwaytir	وادي أم الرتم	FALSE
+وادي القطارة	Wādī al Khaţţārah	FALSE
+Qabīlat Mashāwinah	‘Ayn Umm Rukaybah	FALSE
+Sayḩ aţ Ţāriqī	Ash Shawish	FALSE
+Qabīlat az Zarībah	Qabīlat az Zarībah	TRUE
+Wādī Umm al Afrān	Wādī Umm al Afrān	TRUE
+Bi’r an Nashū‘	Bi’r an Nashū‘	TRUE
+Al Madīnah al Wāqifah	Al Madinah al Waqifah	TRUE
+Zahr Sumaydah	Zahr Sumaydah	TRUE
+Wadi Haqfat at Tayr	Wādī Ḩaqfat aţ Ţayr	TRUE
+دفة جفالة	Wadi as Sanab	FALSE
+Bi'r Nazwat Himarayn	Bi’r Nazwat Ḩimārayn	TRUE
+وادي وشيتاتة	وادي وشيتاتة	TRUE
+Sbitat	Mintaqat al Qari`ah	FALSE
+Minţaqat al Gharīqah	Minţaqat al Gharīqah	TRUE
+Wadi al Qa`r	Wadi al Qa`r	TRUE
+ماجن عبد الواحد	Qabilat al Kararitah	FALSE
+وادي أم الجداري السوكنة	Wadi Qadhdhaf ad Dam	FALSE
+الحمادة الحمراء	Qarārāt as Sūr	FALSE
+Ghawt Burtaqitu	Ghawţ Burtaqītū	TRUE
+Saqifat al Quwaytinat	Saqīfat al Quwayţīnāt	TRUE
+‘Ayn al Jarsūn	`Ayn al Jarsun	TRUE
+بئر الزماريز	بئر الزماريز	TRUE
+Mintaqat Battumah	Qabīlat Awlād Abū Şuḩayyirah	FALSE
+Abyar Qirqab	Wadi al Jahfah	FALSE
+Wādī ash Shuqaylīf	Wādī ash Shuqaylīf	TRUE
+Minqar ash Shush	Buwaytat al `Awaqir	FALSE
+Buhayrat Umm al Fa'r	Buḩayrat Umm al Fa’r	TRUE
+Wādī Bū Shumaylah	Wadi Bu Shumaylah	TRUE
+Mintaqat Umm al Baqil	Minţaqat Umm al Bāqil	TRUE
+Ad Dawrānīyah	Shushat al `Abd	FALSE
+Qārat Bū Dhuhaybah	Khurmat Umm al Baqar	FALSE
+Bi'r Khalid	هابط البقر	FALSE
+دور أم الملح	Balţat al Lawlab	FALSE
+Dannūn	Jabal al `Izaz	FALSE
+وادي العقيب	Al ‘Azīzīyah	FALSE
+Tashīrash	Ra's Shu`bat Hudhud	FALSE
+Bi’r Shumaykh	Wādī Baqqār	FALSE
+Barq an Nuşf	Wudayy al Jidari	FALSE
+رؤوس المخارم	روس المخارم	TRUE
+Ghawţ al Karmīn	Ra’s Bū Musāfir	FALSE
+Wādī Bībāş	Ra’s al Hilāl	FALSE
+Ţarīq ‘Azīzah	Tariq `Azizah	TRUE
+Bi'r Bu Tawil	سواني بودجاجة	FALSE
+Wādī al Kūf	Wādī al Kūf	TRUE
+Ramlat ar Rakhmat	Bi’r al Qaydīyah	FALSE
+Sayh ar Rughaywi	Qārat Miḩqan	FALSE
+Wadi al Mira'	Wādī al Mirā’	TRUE
+Qulayb al Hayyābīyah	قرية الصباية	FALSE
+Mirad Mas`ud	Al Qarah	FALSE
+Fisqiyat Umm ad Daffah	بئر أبو معافص	FALSE
+Al Baydan	Al Bayḑān	TRUE
+Qaryat al Ajbāb	Qaryat al Ajbab	TRUE
+Kaf al Barqah	Qarat Bin Ghadaqah	FALSE
+Wādī al Mafşal	Wadi al Mafsal	TRUE
+Balkhayr	Bālkhayr	TRUE
+Qabīlat az Zuwaytīnah	Wadi Taskwah	FALSE
+Qarārat Bū al Qāsim	Bi’r ‘Udyān	FALSE
+أم شويل	Z̧ahr ar Rumayl	FALSE
+Abyar Umm Subaybighah	Abyār Umm Şubaybīghah	TRUE
+خشم التمريات	Wādī al Qirqāb	FALSE
+وادي الأنجيل	Qarat Umm `Ala'	FALSE
+Wadi al Jilf	Mājin Shu‘bat az Zayyānīyah	FALSE
+Wadi al Matbakh	Z̧ahr Afyāl	FALSE
+Wādī Icosamen	Abyār ash Shuwayrif	FALSE
+وادي نينة	Wādī Ḩalq aḑ Ḑab‘	FALSE
+Wadi Isrul	Wadi Isrul	TRUE
+`Urqub Milhan	Wādī at Turūnzah	FALSE
+`Ayn al Ghazal	`Ayn al Ghazal	TRUE
+Abyār al Balā ‘Izzīyah	Abyar al Bala `Izziyah	TRUE
+Wadi Umm ad Dalalil	Wādī Umm aḑ Ḑalālīl	TRUE
+Ghawt al Karmihi	Ghawt al Karmihi	TRUE
+Wādī Bū Daqīsah	Wādī Bū Daqīsah	TRUE
+Tawil al Qanadi	Bi'r al Hatu	FALSE
+Saqīfat Quşay‘āt	Saqīfat Quşay‘āt	TRUE
+Wadi Qar`at al Martum	Wadi Qar`at al Martum	TRUE
+Wādī al ‘Uwaynah	Jibāl al Qaţţār	FALSE
+‘Ayn ad Dabbūsīyah	‘Ayn ad Dabbūsīyah	TRUE
+وادي ودان	Sawani at Tinah	FALSE
+Harf al `Ajili	Harf al `Ajili	TRUE
+`Ayn ash Shahwah	Bi'r al Jufaliyah	FALSE
+Shari` al Jamahiriyah	طبقة	FALSE
+Ghawţ al Ḩasan	Bi'r ad Darqush	FALSE
+Wādī al ‘It‘it	B'ir az Zamariz	FALSE
+`Irq Zawzam	`Irq Zawzam	TRUE
+Bi'r Ifartas	Bi'r Ifartas	TRUE
+Qar`at Bin `Ayqu	Qar‘at Bin ‘Ayqū	TRUE
+Mājin ar Raţā’ibīyah	Mājin ar Raţā’ibīyah	TRUE
+Darb al Makhsar	Wādī Abū al Khirfān	FALSE
+Bi’r al Aḩmar	Bi'r al Ahmar	TRUE
+Shu‘bat al Jandal	Shu`bat al Jandal	TRUE
+قبر جيرة	Umm Furhud	FALSE
+Bi’r ash Shaqshāq	Bi'r al `Arabi	FALSE
+Qārat al Ḩinsh	Qarat al Hinsh	TRUE
+Ra’s Munabbih	Ra's Munabbih	TRUE
+Saqifat Khurayjah	Saqifat Khurayjah	TRUE
+Mawājin aş Şurayşir	Mawājin aş Şurayşir	TRUE
+Bi’r al Quţ‘ī	Bi’r al Quţ‘ī	TRUE
+Wadi al Qubiyah	Abyar Ahmad at Tayyib	FALSE
+Wādī Zaqqār	Wadi Zaqqar	TRUE
+Sha`ith	Qaryat Ra’s Abū Ḩammār	FALSE
+Bi'r al `Adli	Wadi al Qusayyir	FALSE
+Kaf al Matkiyah	Kāf al Matkīyah	TRUE
+Shaţīb as Sayyid ‘Abd Allāh	Ma‘ţan Sīdī Bin Nūr	FALSE
+Magid	Qārat al Khuşş	FALSE
+Gore Toulli	مجدر الأبيض	FALSE
+زازمت	زازمت	TRUE
+Bi’r al Māliḩah	Bi'r al Malihah	TRUE
+Qārat al ‘Awjā’	Qarat al `Awja'	TRUE
+Al Mantará	Al Mantará	TRUE
+Al Mashāsī	Al Mashasi	TRUE
+Ar Rūmīyah	Ar Rumiyah	TRUE
+قعرات المحيج	Bi'r as Suway`i al Gha'ib	FALSE
+Bi'r Bu Halfayah	Bi’r Bū Ḩalfāyah	TRUE
+Wadi an Narman	Wadi an Narman	TRUE
+Bi’r al Fākhirīyah	Ghawţ Shībū	FALSE
+Qararat al Athl	Qarārat al Athl	TRUE
+Bi’r al Almān	Wudayy Bu al Amin	FALSE
+Ash Shu‘bah al Bayḑā’	Wādī al Ḩarash	FALSE
+Qararat al Falazlaz	Qarārat al Falazlaz	TRUE
+قرية دف المليحة	Wādī Umm ar Ratam	FALSE
+Quwayrāt Zanīqirān	Quwayrāt Zanīqirān	TRUE
+أبو علي	أبو علي	TRUE
+Wadi al Kamamin	Wādī ar Rukab	FALSE
+Saqīfat Bayāḑ	Abu Ghannush	FALSE
+Qaryat at Tanasiyah	Wādī Bāb	FALSE
+إنتلختا	Bi’r az̧ Z̧ubayyah	FALSE
+Bi'r Hadut	Bi’r Ḩadūt	TRUE
+Qabilat al Ma`afinah	Qabīlat al Ma‘āfinah	TRUE
+Qabīlat Z̧ahrat ‘Ubaydah	Qabilat Zahrat `Ubaydah	TRUE
+Bi’r Jum‘at Ḩunaysh	Wādī Bāqān	FALSE
+Ra's Umm Nasir	Qabilat Qamatah	FALSE
+Bi’r ash Shadūs	Bi'r Mazuzah	FALSE
+Shu`bat ar Ruday`ah al Kabirah	Wadi as Sutayrah	FALSE
+Minqar Ra`i Ruhih	Wādī Talūlah	FALSE
+Qaţ‘āyat al Yahūdī	Wādī Taluaut	FALSE
+Ra's al Khuwaymah	Tarāmhī al Ḩājj	FALSE
+بئر قرميدة	Z̧ahrat aḑ Ḑab‘	FALSE
+‘Urqūb Tulūbā	Abyar Sudayrah	FALSE
+Wādī al Ḩimār	Wadi al Himar	TRUE
+Ar Ra’s al Aḩmar	Ash Shammākh	FALSE
+Wādī al Kharrūbah	Wadi al Kharrubah	TRUE
+Wādī Umm al Qindīl	Wadi Umm al Qindil	TRUE
+Sīdī Sālim	Dayr Karīmah	FALSE
+Shaţīb al ‘Adasah	Wadi Qabru	FALSE
+Ghawt as Sababil	Sayḩ Bū Ra’s	FALSE
+غريبيل	Abyar ash Shuwayrif	FALSE
+Bi’r ‘Ubaydah	Bi'r `Ubaydah	TRUE
+Tawil al Mahmud	Shu`bat Qantirar	FALSE
+Raqabat Shu`aydan	Abyār al ‘Iqāl	FALSE
+Kāf Sayḩ Aḩmad	وادي أوزارق	FALSE
+Wadi al Kashalifah	Wādī az Zirdāb	FALSE
+Qūr al Makhārim	Qur al Makharim	TRUE
+Jabal al Aḩrār	Bi’r Awlād Bakkār	FALSE
+جبل أوسيد	جبل أوسيد	TRUE
+Wadi Jirtiblis	Wadi Jirtiblis	TRUE
+Majin Mahall Makhruqah	قرارة السويح	FALSE
+Ma‘ţan Bū Maydah	Ma‘ţan Bū Maydah	TRUE
+Bi’r ash Shutaywīyah	Bi’r ash Shutaywīyah	TRUE
+Bi'r at Tawati	Bi’r at Tawātī	TRUE
+‘Ayn al Aşfar	‘Ayn al Aşfar	TRUE
+Rurayat as Sitrah	Ghurdat Fumm al Ghurd	FALSE
+Wadi al `Awwam	Wadi al `Awwam	TRUE
+Bi’r adh Dhaylī	Bi’r adh Dhaylī	TRUE
+Qulayb an Nuşf	Qulayb an Nusf	TRUE
+Ghawţ Bū Khurayzah	Ghawt Bu Khurayzah	TRUE
+Wādī al Maqāţi‘	Jabal Baarso	FALSE
+Shatib al Jarray	Ru'us ash Shalakhat	FALSE
+Zawiyat al `Urqub	قارة ختارش	FALSE
+An Nuqayrāt	Qalb al Karb	FALSE
+Wādī al Furaysh as Sāmiḩ	Wādī al Furaysh as Sāmiḩ	TRUE
+Khushaym Wadi ar Ratam	Khurmat at Tafsawiyah	FALSE
+Wadi al `Assaf	Bi'r Qattis	FALSE
+Wadi Habbasat	Mintaqat ar Ramliyah	FALSE
+Bi’r al Buruk	قرارة أم الأثال	FALSE
+Saniyat ash Shahim	Sāniyat ash Shāḩim	TRUE
+Sayḩ az Ziyānī	At Taj	FALSE
+Ra's Sidi Masid	Z̧ahrat Taqşībīn	FALSE
+طوق المحارم	طوق المحارم	TRUE
+`Ilwat Burniyah	Bi’r ‘Umar Dukhaylah	FALSE
+Shatib al Maqitah	Shaţīb al Maqīţah	TRUE
+‘Aqīrāt ar Ratmā’	Sayḩ al Ḩamīm	FALSE
+Bi'r al Maliz	Lallati Ma`murah	FALSE
+Wadi al Mugharraq	Wadi al Mugharraq	TRUE
+Qabilat ash Shababihah	Habīţ at Tall	FALSE
+Shu`bat ar Raghayah	Shu`bat ar Raghayah	TRUE
+Ra’s al ‘Alās	Ra's al `Alas	TRUE
+Saniyat al Khafif	Sāniyat al Khafīf	TRUE
+Sāniyat al Waţī’ah	Al Qārah aş Şafrā’	FALSE
+Karmūsat al Hawādij	Karmusat al Hawadij	TRUE
+Khawr Bin Sa`adah	Balţāt ar Rāsim	FALSE
+Qararat as Sakir	Bi'r al Haramat	FALSE
+Wadi az Zammar	Mājin Qadqūd	FALSE
+Sāniyat Shumayr	Saniyat Shumayr	TRUE
+Abyār al Quwayd	Majin al Umbashi	FALSE
+Minţaqat Ra’s ‘Alī	Al Ḩajar al Baḩrī	FALSE
+Qararat `Alam Bu Zayd	Wādī al Bāqūl	FALSE
+Abyar al Bayda'	Qārat al Qaţţājī	FALSE
+Wādī Maz‘ūrah	Wādī Maz‘ūrah	TRUE
+Wādī al Barrānī	Wādī al Barrānī	TRUE
+Sha‘īth	Sha`ith	TRUE
+Bi'r Bu al Hasa	Bi'r Bu al Hasa	TRUE
+Bi'r al Hajjar	Bi’r al Ḩajjār	TRUE
+ظهر أم خمير	Wādī Umm Şanab	FALSE
+وادي الصيف	وادي الصيف	TRUE
+Wadi Irawan	طويلات الكروكة	FALSE
+‘Irq Shiblīyah	‘Irq Shiblīyah	TRUE
+سياح صرة	سياح صرة	TRUE
+Ar Ramlah al Gharbīyah	Wadi al Khawiyah	FALSE
+Bi’r Sa‘dá	Bi’r Sa‘dá	TRUE
+Bi’r ‘Abd al Karīm	Bi’r ‘Abd al Karīm	TRUE
+Bi'r Bu Karmah	Ţawīl Bin Sharīf	FALSE
+Bi'r as Suwaydi	Bi'r as Suwaydi	TRUE
+Ra's Bu Qushaytah	Dur as Salkhat	FALSE
+Hawa Bu an Nasir	Hawa Bu an Nasir	TRUE
+Bi’r al Mi‘zān	Dūr aḑ Ḑawţā’	FALSE
+Mājin Muḩammad Bin ‘Alī	Majin Muhammad Bin `Ali	TRUE
+Wādī al Majhūd	Jabal at Tawal	FALSE
+Qarārat aş Şayyād	Qararat as Sayyad	TRUE
+سانية الفهدين	Wādī Ḩalq Rāshid	FALSE
+Wadi al Hatim	Bi’r Aḩmad al Ghaythī	FALSE
+Qārat Umm adh Dhubāb	Al `Alawi al Humr	FALSE
+العليمات	Wadi Maghtulah	FALSE
+Wadi `Usaylah	Wadi `Usaylah	TRUE
+Bi’r al Jawkh	Thaqb Bū Maymūn	FALSE
+Wadi Surayj al Kabir	Wadi Surayj al Kabir	TRUE
+Ţawīl Bū Malīm	Tawil Bu Malim	TRUE
+وشتاتة	`Ayn al Khudar	FALSE
+Qārat Ra’s Wudayy Aḩmad	Bi’r aş Şafşāf	FALSE
+Bi’r Ramaḑān Abū Bakr	Bi'r Ramadan Abu Bakr	TRUE
+Qabilat al Humrah	وادي تمرين	FALSE
+Sūq al Jum‘ah	Wadi al Qawasim	FALSE
+Wadi al Marzaqah	دور المرابي	FALSE
+Ru’ūs al ‘Aqrab	Ru'us al `Aqrab	TRUE
+Al Farāsīţ	Al Farasit	TRUE
+Ra’s Mashhad Manşūr	Ra’s Mashhad Manşūr	TRUE
+Ḩamādat Mānghīnī	Hamadat Manghini	TRUE
+Ghawt az Zill	Ghawt az Zill	TRUE
+Wadi ash Shaqa'iq	Quwayrat al Muwashshimah	FALSE
+Wādī Qarī	Wādī Qarī	TRUE
+Abyar Faraj at Tayyar	Abyār Faraj aţ Ţayyār	TRUE
+Ramlat Awlād Şaqr	Bi’r al Mighfar	FALSE
+Wādī al Qaţţārah Bū al Khunfus	وادي هجم الحقن	FALSE
+Samnu	Samnu	TRUE
+Saniyat ash Shaqqah	Ra’s Shamnah	FALSE
+Wādī al Ghazalāt	Wadi Laqitah	FALSE
+بئر دريدر	بئر دريدر	TRUE
+Ash Shiyab	Ash Shiyāb	TRUE
+Mājin Umm al Baqar	Wadi al Muzayri`	FALSE
+Raqabat Bu al Hamid	Raqabat Bu al Hamid	TRUE
+Abyar Baqqar	Ghawt Bu Ibriq	FALSE
+Ra’s al Fulaysah	رأس توسكيني	FALSE
+Bi’r Qawāţīn	Wādī al Ḩulqūmah	FALSE
+`Ayn Gharibah	`Ayn Gharibah	TRUE
+Eastern Al Fuwayhat	Wadi Zulfiyah	FALSE
+Qarat Umm Qidrah	Qarat Umm Qidrah	TRUE
+Kaf al Manshiyah	دور المرابي	FALSE
+Bi’r Bū Ţalmah	Abyar Bu Ta`mir	FALSE
+Laqrat al ‘Aşar	Laqrat al ‘Aşar	TRUE
+قرارة السنابة	Shu`bat as Siba`	FALSE
+بئر السحن	بئر السحن	TRUE
+Wādī Qulayb	Qaryat al Hanadah	FALSE
+Al Bimbāshīyah	Wādī Tilzim	FALSE
+Bi’r an Nujaymī	Bi’r an Nujaymī	TRUE
+Qarn al Ḩişān	Tariq ad Da'iri al 'Awwal	FALSE
+Abyār al Khuwayr	Abyar al Khuwayr	TRUE
+Mintaqat ash Sha`af	Minţaqat ash Sha‘af	TRUE
+Jabal al `Arrashiyah	Jabal al ‘Arrāshīyah	TRUE
+Bi’r al ‘Iz̧āmī	Sidi at Tawilah	FALSE
+Millitah	Millitah	TRUE
+Qabīlat ar Rifā‘īyah	بلطة أبو رخيص	FALSE
+As Sanyūrah ash Sharqīyah	As Sanyurah ash Sharqiyah	TRUE
+Ra’s Tajarhī	Bi'r al Manastir	FALSE
+Widyan Bu Khushaybah	‘Urqūb al Ḩā’ilah	FALSE
+Al Qanfu	Khashm Mudu	FALSE
+‘Ayn al Marāzīq	Qarārat ash Shurayfīyah	FALSE
+Dushin	Wādī an Naghghār	FALSE
+Bi'r ar Rahimah	Bi'r ar Rahimah	TRUE
+Qabilat Suq ad Dawun	Qabilat Suq ad Dawun	TRUE
+Qārat Taghsīn	Qārat Taghsīn	TRUE
+Abyār al Baww	Bi’r Kadīdah	FALSE
+Qarar al Usayqi`	Shu`bat Muhayri	FALSE
+ميناء طبرق	Raqabat al Fakhar	FALSE
+Awlād Burayk	Awlād Burayk	TRUE
+Wādī Sha‘īrāwah	Wādī Sha‘īrāwah	TRUE
+Rujm ad Dahsh	Hadabat al Barahimah	FALSE
+Wādī aş Şayyād	Wadi as Sayyad	TRUE
+Wādī al Khubbayz	Ra's Warfallah	FALSE
+Qulayb al Barrūţ	ودي حمد	FALSE
+Qaryat al ‘Amrūnī	Ar Ruwaybit	FALSE
+Bi'r Jarjir	وادي إن إنزاوا	FALSE
+Kioussou	Kioussou	TRUE
+Wādī Qarqashah	Wadi Qarqashah	TRUE
+Ra's ad Dandah	Ra’s ad Dandah	TRUE
+Shaţīb Abū Ra’s	Shaţīb Abū Ra’s	TRUE
+Minţaqat al ‘Adasah	Mintaqat al `Adasah	TRUE
+Tiwal Aswaq al `Ajaj	Minqar Sa`id	FALSE
+Wādī al Aḩwāz	Shu`bat adh Dhakirah	FALSE
+Wadi at Tariq	Wādī aţ Ţarīq	TRUE
+Minţaqat al Muraydīmah	Abyar Ghuwayt Mu'min	FALSE
+Shatib Bin Jaffalah	Shaţīb Bin Jaffālah	TRUE
+Sabkhat al `Ulbah	Sabkhat al ‘Ulbah	TRUE
+قرارة الشيباني	Wadi al Kuraymah	FALSE
+الجوف	Wādī al Kibāsh	FALSE
+Z̧ahrat al ‘Assah	Z̧ahrat al ‘Assah	TRUE
+Arḑ Rāmis	‘Aqīrat al Khadd	FALSE
+Bi'r az Zaytun	Bi'r az Zaytun	TRUE
+Tāknis	Tāknis	TRUE
+Talab al Fawakhir	Talab al Fawakhir	TRUE
+Bi'r al Hajj Husayn	Qarārat Ḩalīb ‘Anzah	FALSE
+Wadi as Sarir	Ghawt Qirnadah	FALSE
+Ghawt al Mutayfilah	Wadi Sayyar	FALSE
+Il Garibaldi	بلطة سيف النصر	FALSE
+Ghawt al `Usfuri	Ghawţ al ‘Uşfurī	TRUE
+Qararat Sa`it	Qararat Sa`it	TRUE
+Bi'r `Abd an Nabi	Wādī az Zuwaylī	FALSE
+Wādī al Aswad	ديار القدافي	FALSE
+Wadi al Batn	Wadi al Batn	TRUE
+Ābār al Juḩayshīyah	Ābār al Juḩayshīyah	TRUE
+جبل ودان	جبل ودان	TRUE
+صيّاد	صيّاد	TRUE
+Khashm Ghalbūn	Umm al `Izam	FALSE
+بئر الصباط	Ghawt Satirah	FALSE
+Wadi al Kibash	Shu`bat al Hamadah	FALSE
+Bi’r aţ Ţawīyah	Bi’r aţ Ţawīyah	TRUE
+‘Ayn Maghār	Wadi Bu `Akkar	FALSE
+Qarquzah	Widyan al Bayyadat	FALSE
+Bi'r al Mahqaf	Qaţ‘āyat al Yahūdī	FALSE
+Al Khaḑr	Al Khadr	TRUE
+Al Minqār aş Şaghīr	Qar` al Kalal	FALSE
+Mājin al Ḩājj Sālim	Bi’r ash Sharīfīyah	FALSE
+Dur ash Shadidah	Dur ash Shadidah	TRUE
+Wadi al Qutaytis	Majin `Abd Allah Bu Masusah	FALSE
+Ghawţ al Baqar	Ghawt al Baqar	TRUE
+Bi’r Zūzāb	Bi'r Zuzab	TRUE
+Bi’r az Zadānīyah	Wadi as Siraq	FALSE
+Saniyat Bu Janqalah	Al Qawasim	FALSE
+Wadi Hamamah	شعبة المرابط الوسطية	FALSE
+Ra's Shirdan	Ra’s Shīrdan	TRUE
+Bi’r az Zimzāmīyah	Bi'r az Zimzamiyah	TRUE
+Wadi Maskukah	Wādī Maskūkah	TRUE
+Abyar ar Rujm	Shatib al Hisan	FALSE
+Wadi ash Shams	Wadi ash Shams	TRUE
+Saniyat Mighwar	Wādī Ihene Doradj	FALSE
+Wādī Shīhān	Mudīrīyat an Nawfalīyah	FALSE
+Wādī al Qawāsim	Hajaj al Ghurabat	FALSE
+وادي زقزة	Abyār al Azwāf	FALSE
+Wādī Bū Khurmah	Bi’r al Muḩqin	FALSE
+Wadi at Tunbah	Wādī at Tūnbah	TRUE
+Ḩaqfat al ‘Awrā’	Ḩaqfat al ‘Awrā’	TRUE
+Bi’r ar Rijl	Bi’r ar Rijl	TRUE
+Bū Z̧uhayrah	‘Urqūb Aţyāruh	FALSE
+Bi’r Zuḩayyif	Bi'r Zuhayyif	TRUE
+Bi'r Susitah	Wasiq	FALSE
+Qabīlat Ţayyib al Ism	Qabīlat Ţayyib al Ism	TRUE
+Qārat adh Dhahībāt	Ru'us Ummahat al Jidari	FALSE
+Wadi al Mayyitah	Wādī al Mayyitah	TRUE
+Dur al Hamim	Wādī Umm al Jidārī	FALSE
+`Ayn Qittah	‘Ayn Qiţţah	TRUE
+Qabr `Abd Allah	Qabr ‘Abd Allāh	TRUE
+Daf‘ Wādī Lāşūfah	Wadi al Muzayri`	FALSE
+Zurdat Tafah	Wādī Bū Julaydah	FALSE
+وادي لصوفة	Khanqat al Bayḑā’	FALSE
+Wadi Umm al Qalad	Wādī Umm al Qalād	TRUE
+Az̧ Z̧ahrah	Az̧ Z̧ahrah	TRUE
+Bi’r Bū Dhahab	Wadi Fuzayr	FALSE
+Ard Shabnah	Bi’r ash Shaqrī	FALSE
+هبيط الغردقة	Dur al Hayqat	FALSE
+Shu‘bat al Qarāmīd	Shu‘bat al Qarāmīd	TRUE
+Az Zawwām	Wadi al Huqayfat	FALSE
+Wadi Umm al `Izam	Abyar `Ayt at Tayrah	FALSE
+‘Ayn Darillah	Qarārat al Ḩājj ‘Uthmān	FALSE
+ماجن قيرنة	ماجن قيرنة	TRUE
+Bi'r as Sall	Bi’r aş Şall	TRUE
+سانية أم الخنفس	Wadi Bin Kuds	FALSE
+Ḩammād aş Şalībīyah	Maqahi	FALSE
+Tumu Mountain	Tumu Mountains	TRUE
+At Tabān	Wadi al Mukayt	FALSE
+‘Ayn al ‘Awsajī	Ghawt as Sab`ah	FALSE
+`Ayn Sharubah	Majin ash Shaykh Muhammad `Akkash	FALSE
+‘Ayn Massah	Wādī Tīmāl	FALSE
+Al Maqruraz	Al Maqrūrāz	TRUE
+Ḩaqfat ‘Ayt Kaşālī	Ḩaqfat ‘Ayt Kaşālī	TRUE
+Sabkhat al Burayqah	Al ‘Adhrā’	FALSE
+Wādī al Mumnīyāt	Wadi al Mumniyat	TRUE
+Bi’r al Jurfīyah	Bi’r al Jurfīyah	TRUE
+Wadi Bi'r `Ashur	Wādī Bi’r ‘Ashūr	TRUE
+Buhayrat Ziyadah	Buḩayrat Ziyādah	TRUE
+Bi’r Bū al Bayḑah	Wādī al ‘Afrān	FALSE
+Wādī al Ma‘āmīr	Qārat Rizq	FALSE
+Abyār al Wajlī	‘Ayn Khamīs	FALSE
+Bi’r an Nughayrāt	Bi’r an Nughayrāt	TRUE
+Bi'r Burawi	وادي قرجة	FALSE
+Bi’r Zūzām	Baratis	FALSE
+Wādī aş Şulayb	Wādī aş Şulayb	TRUE
+Qarārat ‘Abd ar Raḩmān	Al `Izziyat	FALSE
+وادي الشق	Wādī Umm aḑ Ḑalālīl	FALSE
+Bi'r al Fathaliyah	Wādī Ghunaym	FALSE
+Wādī al Ghūbī	Bi'r Bin Qaraf	FALSE
+Wādī ash Shu‘bah al Ghāriqah	Tlaglegan	FALSE
+Tammat Yūfaḩ	Bi'r Damus	FALSE
+Murād	Wādī Umm aţ Ţalḩ	FALSE
+Qabīlat ar Rawābiḩ	Wadi al Majidiyah	FALSE
+Saniyat as Saniyah	Sāniyat as Sāniyah	TRUE
+Wādī Shu‘bat al ‘Asal	شعبة أم القصاع	FALSE
+Bū Khurayshīfah	Bu Khurayshifah	TRUE
+Wadi Barjuj	Wādī Barjūj	TRUE
+سواني فسانو	Sarīr Bin ‘Affīn	FALSE
+Bi'r Qalb al `Abd	Bi’r Qalb al ‘Abd	TRUE
+Shu‘bat ‘Unayzah	طريق العوجاء	FALSE
+Wādī Jardas	Wādī Jardas	TRUE
+Mahattat Qabr Jirah	Qabīlat al Ansalāh	FALSE
+النقاط الخمس	Mājin ‘Alī Qashūţ	FALSE
+Qasab `Abd ar Rahman	Qaşab ‘Abd ar Raḩmān	TRUE
+Wadi Kujjat	Dūr Mūnish	FALSE
+Wādī Maylak al Qazzāḩ	Wadi al Matmur	FALSE
+Wadi al Qabburah	Wādī al Qabbūrah	TRUE
+Jabal Taqlalat	Aghrasan	FALSE
+Qasabat Madi	Qurū‘ Bin Saḩbān	FALSE
+سانية الشياب	سانية الشياب	TRUE
+Khashm al Hādiyah	تنزغت	FALSE
+Al Jazīrah	Al Jazirah	TRUE
+Wadi az Zabyu ash Sharqiyah	Zahr al Mulaytah	FALSE
+Bi'r al `Ud	Bi’r al ‘Ūd	TRUE
+Dūr al Muwayrīd	Baltat ash Shu`bah	FALSE
+Daf`	Bi’r al Muwayliḩah	FALSE
+Harf al Qubayrat	Hatiyat ash Shuhaybat	FALSE
+Wadi al `Alawinah	Qarat al Fahl	FALSE
+Ra’s Mu‘ammar	Ra's Mu`ammar	TRUE
+Shu`bat al Khizanah	Shu‘bat al Khizānah	TRUE
+Bi’r Kunayyah	Bi’r Kunayyah	TRUE
+Bi'r Telia	Ghawt al `Abd	FALSE
+Wādī al Qiţţah	Bu Tawil	FALSE
+Shu‘bat ar Rummān	Bi’r ad Dūdah	FALSE
+Bi'r al Mahmudiyah	Bi'r al Mahmudiyah	TRUE
+Qarat Tin Quwayma	Qārāt Tīn Quwaymā	TRUE
+Ghuwayt `Umar	Bi’r al Ghūlah	FALSE
+Qarārat aş Şūfah	Qararat as Sufah	TRUE
+Bi'r al Faqih `Abd al Qadir	Bi'r al Faqih `Abd al Qadir	TRUE
+Wadi al Umaylis	Wadi al Umaylis	TRUE
+Abyār Abū Qaşabah	`Ilwat Bu Qarshudah	FALSE
+Ḩufrat Wādī Masliqūn	Ḩufrat Wādī Masliqūn	TRUE
+بئر فاطمة	Wadi `Usaylah	FALSE
+Abyār Awlād Khalīfah	Abyār Awlād Khalīfah	TRUE
+Wādī al Bunayyah	Wādī al Bunayyah	TRUE
+Wādī Wardayn	Bi’r Bū Luḩayyah	FALSE
+Qarārat al Ḩalamah	Qarārat al Ḩalamah	TRUE
+Wadi al Bint	Wadi al Bint	TRUE
+Sarīr ar Rasan	Sarir ar Rasan	TRUE
+B'ir Juwaydah	Qararat at Talhah	FALSE
+Abyar al `Uryan	Abyār al ‘Uryān	TRUE
+Kaf Batis	Wadi Dibab	FALSE
+Bi'r Hariz al Lawti	Al Kīsh	FALSE
+Muşrān Dakhīl	نقازة الطلحة	FALSE
+Qarat al Mu`arram	Qarat al Mu`arram	TRUE
+Sha‘īth al ‘Amrī	Sha`ith al `Amri	TRUE
+Umm al `Ajab	Ţabaqat al Jubayhāt	FALSE
+حطية البس	حطية البس	TRUE
+Quwayrat Bu `Amud	Shu`bat Sharradah	FALSE
+قرارة ديهوم	Bi’r al Fāşil	FALSE
+Dur ar Ruyan	Dur ar Ruyan	TRUE
+Bi'r Ibrahim	Bi’r Ibrāhīm	TRUE
+Qaryat ‘Ayn Kurayyim	علاب الحسان	FALSE
+هبيط المالحة	Shu`bat Ansa	FALSE
+Shu`bat Kanisat al Marsa	Shu`bat Kanisat al Marsa	TRUE
+As Sarīr ar Ramlī	Wadi Hawaz	FALSE
+Wadi Daf` Qani	Wādī Daf‘ Qānī	TRUE
+Ash Sha‘rāyah	Ash Sha‘rāyah	TRUE
+Khashm al Bal`azi	Khashm al Bal‘azī	TRUE
+Birqāb Hirsah	Birqāb Hirsah	TRUE
+Bi’r Qashaqash	Bi'r Qashaqash	TRUE
+Bi'r Umm az Zaqqar	Bi'r Umm az Zaqqar	TRUE
+Abyar Shubrum	Abyar Shubrum	TRUE
+Sāniyat Maqarr	Qalb Maymūn	FALSE
+Buhayrat ad Duwayrah	Wadi al Hadd	FALSE
+‘Ilwat al Mushraf	`Ilwat al Hajj	FALSE
+Rādi‘	وادي مكيمن	FALSE
+Ḩulayq ash Shalātīt	Hulayq ash Shalatit	TRUE
+Qabilat al Judayyat	Qabilat al Judayyat	TRUE
+محافظة الزاوية	شعبية الزاوية	TRUE
+Wadi al Qi`adi	Wādī al Qi‘ādī	TRUE
+Qararat ad Dibab	Qarārāt aḑ Ḑibāb	TRUE
+Umm al Jarfān	Jabal Rukn	FALSE
+Ra's Daf` al Minsaz	Ra's Daf` al Minsaz	TRUE
+Al ‘Ayn al Kabīrah	Wudayyat al Hadd	FALSE
+Bi'r Mas`ud Sukaytah	شطيب الحد	FALSE
+رقوبة الثور	Qararat al Bulaytah	FALSE
+Ghawţ al ‘Abīdī	Mafraq at Turuq	FALSE
+Nakhl `Abd al Jalil	Nakhl `Abd al Jalil	TRUE
+Minţaqat Jardas	‘Uwaynāt Qirdān	FALSE
+Bi’r Maylūd	Bi'r Maylud	TRUE
+Shatib Umm al Bashim	Dūr Turkīyah	FALSE
+Wadi al Mahri	Wādī al Mahrī	TRUE
+Bi'r Bu Sanib	Wādī ar Rābigh	FALSE
+Al Qūr al Bīḑ	Shatib al Kaf	FALSE
+Shu`bat al Harari	Kubat al Mazawiri	FALSE
+Ghawt al Furn	Mallahat Bannumah	FALSE
+Abyar `Ar`az	Bi'r al `Ayn	FALSE
+Ghadir as Safa	Ghabat as Sayyid Ahmad al Humri	FALSE
+Wādī al Wu‘ayrah	Haqfat ash Shuway`irat	FALSE
+Ra's Bin Jarmul	Sayh ar Rijl	FALSE
+Sāniyat al Ḩamrā’	Sāniyat al Ḩamrā’	TRUE
+Mudawwar Hasan	Bi'r al Muqattab	FALSE
+Shatib Umm ash Shanin	Shaţīb Umm ash Shanīn	TRUE
+Wadi al `Uqaylah	Wādī al Jīfah	FALSE
+Wādī Ziqzāw	Wadi Ziqzaw	TRUE
+Abyār al Fawāris	Wadi Thalath Hizam	FALSE
+Raqabat al Ghazi	وادي الغزالات	FALSE
+الجفجة	الجفجة	TRUE
+Khurmat al Ba`taran	Ḩaqfat al Ḩājj ‘Alī	FALSE
+Taknis	Tāknis	TRUE
+Hawr at Turfayah	Hawr at Turfayah	TRUE
+Wadi Bu al Hinn	Wadi Bu al Hinn	TRUE
+Ra's al Miqta`	Bi’r ‘Alī al Ma‘jūn	FALSE
+Qararat al Himarah	Wadi Umm Quqi	FALSE
+Wādī Ţalanţū	Wādī Ţalanţū	TRUE
+Ramlat Tisan	Bi’r Tinzāligh	FALSE
+Tāzirbū	Tāzirbū	TRUE
+Ghawt al Mashayikh	`Urqub al `Ajram	FALSE
+Ḩattīyat Murāq	Wadi Timista	FALSE
+Qabilat Awlad Sa`idah	Qabilat Awlad Sa`idah	TRUE
+زاوية الطيليمون	جبل تنامنيند	FALSE
+Qabilat al A`rabiyin	Tripoli	FALSE
+Bi’r Qīlzān	جبل الدريقة	FALSE
+Quwayrat al Ma`amir	Wādī Umm ar Ramlah	FALSE
+Wadi al Juhayshiyah	‘Utaylat ash Shifār	FALSE
+Wudayyat al Hadh	Wudayyat al Hadh	TRUE
+Wadi Mirzayn	Sāniyat al Muţaymīr	FALSE
+غيطان الحفيظات	سهل	FALSE
+Ghawt al Mu`tarid	Wadi Timsasah	FALSE
+`Aqirat al Furayyah	`Aqirat al Furayyah	TRUE
+Wādī Ziqzah	Wādī Ziqzah	TRUE
+قاريونس	Khurmat Dhababis	FALSE
+Qaryat al Qaddāḩīyah	Qaryat al Qaddahiyah	TRUE
+قارة الطلحة	قارة الطلحة	TRUE
+Wādī al Qaţţārah al Gharbī	Bi'r Shaqqat as Salhah	FALSE
+Ḩaţīyat at Tāmmah	وادي القصيبات	FALSE
+Ar Rabitah ash Sharqiyah	Qulūb Dughayj	FALSE
+Bi’r an Nāqah	Bi'r an Naqah	TRUE
+Qarat al Khadam	Qarat al Khadam	TRUE
+Qurayyir Bū Ḩashīsh	Qurayyir Bu Hashish	TRUE
+Wādī al Ḩaz̧z̧ayn	Wādī al Ḩaz̧z̧ayn	TRUE
+Bi’r az Zaydān	Wādī al ‘Amār	FALSE
+Wadi Ruju`	Wadi Ruju`	TRUE
+Dūr Zaqqūţ	Marsa Vicenza	FALSE
+Bi’r Mufsid	Bi’r Mufsid	TRUE
+بئر الفتية	Wadi Zukayr	FALSE
+Shaţīb ash Shīḩ	Shatib ash Shih	TRUE
+Qarār Quwayrāt al Milḩ	Qarār Quwayrāt al Milḩ	TRUE
+Haqfat az Zayyat	رأس البيضاء	FALSE
+Al `Ubayyat	Qur Tajdidah	FALSE
+Ḩaţīyat Sayfan	Nalut	FALSE
+أبيار مخرق	رأس الكحلة	FALSE
+Qarqaf as Sufah	Qarqaf aş Şūfah	TRUE
+Saqifat Salman	Saqīfat Salmān	TRUE
+Bu al Hamidiyin	Bū al Ḩamīdīyīn	TRUE
+Saniyat Awlad Miskin	Wadi Ki`am	FALSE
+Ḩamrāyat al Jābī	Wadi al Balalah	FALSE
+Saqīfat Jabr	An Naqazah	FALSE
+Masrab Sawkanah	Masrab Sawkanah	TRUE
+Al Qalīyah	Al Qalīyah	TRUE
+Bi’r al ‘Abdalīyah	Bi’r al ‘Abdalīyah	TRUE
+Qarat al Ghirariyah	Nakhlat Salimah	FALSE
+Qarat Shu`bat an Nab	Qārat Shu‘bat an Nāb	TRUE
+Ghawt al Bayyadah	Wadi Bu Shawbah	FALSE
+Wādī Iflīl	Imlis Shaqran	FALSE
+‘Ayn Sakfah	`Ayn Sakfah	TRUE
+قرموسة الرجم	قرموسة الرجم	TRUE
+Wadi ath Thulth	Wādī ath Thulth	TRUE
+Al Jibāl as Sūd	Al Jibal as Sud	TRUE
+‘Urqūb al ‘Urayqīb	`Urqub al `Urayqib	TRUE
+Wādī al Jinnīyah	Wadi al Jinniyah	TRUE
+Saniyat Haqimah	Saniyat Haqimah	TRUE
+Qārat aş Şadr	Qarat as Sadr	TRUE
+Wādī Qaryās	Wadi Qaryas	TRUE
+رأس الدروة	Ra’s al Ma‘īz	FALSE
+Qabilat Fidraj	Qarārat Umm al Bībān	FALSE
+Umm as Sidrah al Qāzīyah	Umm as Sidrah al Qaziyah	TRUE
+Al Majāghah	وادي إمري وان	FALSE
+Wādī Ghuwwāţ	Wādī Ghuwwāţ	TRUE
+Majin Iqlilud	Mājin Iqlīlūd	TRUE
+Bi'r Tajnut	Bi'r Tajnut	TRUE
+Wādī Tamshīn	Wādī Tamshīn	TRUE
+سبخة الغورية	Qabīlat Za‘farān	FALSE
+Bi'r al `Assad	Bi'r al `Assad	TRUE
+Adh Dhi'bah	Adh Dhi’bah	TRUE
+Bi’r Şāliḩ ‘Umar	Bi’r Şāliḩ ‘Umar	TRUE
+Bi’r Sa‘d	Ra’s Awlād Bū Ja‘far	FALSE
+Balţat al Maḩārim	Wadi Shati al Ikhwan	FALSE
+Al Manqub	`Uwaynat Wannin	FALSE
+Qarārat Wudayy al Ḩunayţī	Qarārat Wudayy al Ḩunayţī	TRUE
+Sabkhat al ‘Arqūb	Sabkhat al `Arqub	TRUE
+Qabilat al Hamid	Qabīlat al Ḩāmid	TRUE
+`Ilwat al Jahliyah	‘Ilwat al Jahlīyah	TRUE
+Wādī al Muţayfilah	Wādī al Muţayfilah	TRUE
+Fisqīyat al Qabw	وادي الحمر	FALSE
+Al Manāşīr	Al Manasir	TRUE
+Tawil al Manadif	Tawil al Manadif	TRUE
+Abyār Khayrah	Bi’r Maḩjūb	FALSE
+سانية المرة	سانية المرة	TRUE
+Ra’s al Baghlah	Ra's al Baghlah	TRUE
+Bi’r Umm al Farā’	Bi'r Umm al Fara'	TRUE
+Qārat al Ḩārah	حطية البس	FALSE
+Qabīlat al Khums	Bi’r Bū Zahrah	FALSE
+Wadi Sabsib al Kabir	Wādī ash Shakarbāt	FALSE
+Qarat Wudayy `Abd ar Rahman	Wadi in Ilobu	FALSE
+Wādī aş Şalābah	Az Zawāghīyah	FALSE
+Raqabat Sukayniyah	Raqabat Sukaynīyah	TRUE
+Wudayy Bu Qalil	الشائلة والشويلة	FALSE
+Bi’r Bū Athlah	Wādī al Jīrab	FALSE
+Qarat al Baghlah	Qārat al Baghlah	TRUE
+منقار القبر	Bi'r `Arkuh	FALSE
+Naqb at Tin	Qaşr al Fawqānī	FALSE
+Saniyat al Haddadiyah	الفويهات الشرقية	FALSE
+Batn Tawil at Ta'ib	Baţn Ţawīl at Tā’ib	TRUE
+Qabilat al Fawatir	Qabīlat al Fawātīr	TRUE
+Ţawīl al Qiz̧āmah	‘Aqīrat az Zafrah	FALSE
+Qarārat Umm Qulayb	Qararat Umm Qulayb	TRUE
+Wādī ash Shantīr al Wusţá	Ḩarqah	FALSE
+Wādī Ḩulayqat adh Dhi’b	Ra’s Zaghwān	FALSE
+‘Urqūb al Jubayhāt	‘Urqūb al Jubayhāt	TRUE
+Qaryat al Huwayjat	Bi'r al Mutayfilah	FALSE
+Balţat al Markan	Balţat al Markan	TRUE
+منقار الزيان	منقار الزيان	TRUE
+وادي الدوتة	وادي الدوتاء	TRUE
+Qurayyat aţ Ţarshā’	Qarat Mahrat Barq `Isa	FALSE
+Wadi as Sulaykh	Wādī as Sulaykh	TRUE
+Z̧ahr al Muşībah	Wādī Tibyāz̧ū	FALSE
+Qarārat al Ghazzālī	Ghawrad Badhniyah	FALSE
+Wādī al Marthūm	Sabat al Lababid	FALSE
+Wādī Umm Zān	Wadi Umm Zan	TRUE
+Ra’s Hadīyah	Qabīlat Qidmissū	FALSE
+Ghawţ Bū Şafīyah	Shu`bat Umm al Barrim al Fata'im	FALSE
+Mintaqat Dumayyah	Ru'us al Kulaybah al Khaliyah	FALSE
+Wadi Sidi `Awn	Wādī Sīdī ‘Awn	TRUE
+Bi’r al Ghafīrīyah	Wādī Bin Sharārah	FALSE
+Wādī al Quşay‘āt	Bi'r an Naqib	FALSE
+Abyar al Jamil	Abyar al Jamil	TRUE
+Wadi Umm al Baqil	Ma`tan Yahya	FALSE
+Bi'r ad Dulaywah	Bi’r ad Dulaywah	TRUE
+In Tahtut	In Taḩtūt	TRUE
+Thanīyat al Matkīyah	Thaniyat al Matkiyah	TRUE
+Quwayrat al ‘Aşīdah	Quwayrat al ‘Aşīdah	TRUE
+Khurmat Umm al ‘Ajram	Khurmat Umm al `Ajram	TRUE
+Talab al Fawakhir	صلب الحتبة	FALSE
+Masna` Ways	محافظة الجبل الاخضر	FALSE
+Qamasiyah	Qamasiyah	TRUE
+Wadi al Manari	Qārat Umm Furhūd	FALSE
+وادي المغموغ	وادي المغموغ	TRUE
+`Ayn Abu `Abd Allah	Jawf Abu Mafsa`	FALSE
+ماجن الحاج سالم	ماجن الحاج سالم	TRUE
+Jabal Rabyanah	وادي الربيان	FALSE
+Al Hatiyah	Al Hatiyah	TRUE
+Sayḩ ar Rijl	Sayh ar Rijl	TRUE
+Ra’s Raqūbat al Kūr	Ra's Raqubat al Kur	TRUE
+Qaţ‘āyat Khalīfah Bin Sālim	Qat`ayat Khalifah Bin Salim	TRUE
+Bi'r Baqqum	Bi'r Baqqum	TRUE
+Wadi Bu Dulaylah	Biţānat al Majābirah	FALSE
+Wādī Abū Rashāsh	Bi’r Sāniyat Umm Manşūr	FALSE
+Wādī ‘Abd ar Raḩmān	Wādī ‘Abd ar Raḩmān	TRUE
+Ghawt Bumbah	Mazall al Hawl	FALSE
+Wadi Timal	Qaryat Qiblat al Ja‘āfirah	FALSE
+وادي غسول	Ghawţ Sās	FALSE
+Bi'r ar Ruhaybat	Bi’r ar Ruḩaybāt	TRUE
+Wadi al Jarrush	Wādī al Jarrūsh	TRUE
+Wudayy al Hajj Sa`d	Mājin ad Dāfi‘ah al Bayḑā’	FALSE
+Ghwaţ aţ Ţayyār	Ḩufrat al Jūrah	FALSE
+Nukhaylāt at Tamrīyāt	Ḩaqfat Abū Ḩajjār	FALSE
+Saqīfat al Washkah	Saqīfat al Washkah	TRUE
+Quwayrat al Ḩalīb	Zahrat Zaqyu	FALSE
+Ma‘ţan Iskandar	رأس الفرافيط	FALSE
+Qararat al Athl	Qarārat al Athl	TRUE
+Bi'r ash Shadus	Qarat al Maybar	FALSE
+Wādī Ziyādah	Ḩaqfat ‘Ayt Bū ‘Ayn	FALSE
+Ghawţ Kashānū	Ghawţ Kashānū	TRUE
+‘Aqīrat al Jādhirah	‘Aqīrat al Jādhirah	TRUE
+Wadi as Suwayniyat	Bi’r Umm al Qurūn	FALSE
+Qabīlat ‘Abd ar Rabb	Qabīlat ‘Abd ar Rabb	TRUE
+Al Hajar as Sud	Al Ḩajar as Sūd	TRUE
+Quwayrat al Ma`amir	Quwayrat al Ma`amir	TRUE
+حسي دمبابة	Wadi an Niqab	FALSE
+Bi’r Karmat at Turkī	بئر العويمة	FALSE
+Bi'r Haqfat al Maraghah	Qarārat al Qabā’il	FALSE
+دور الوعيرة	دور الوعيرة	TRUE
+Qārat al Awdād	Qarat al Awdad	TRUE
+Mājin Jalāl	Mājin Jalāl	TRUE
+‘Ayn Jibārah	‘Ayn Jibārah	TRUE
+Qabīlat al Ḩawātim	Bi'r Bu Jidariyah	FALSE
+Wadi Umm al Ghizlan	Wadi ash Shatib at Ta`am	FALSE
+Majin ad Duwayyim	Bi'r al Jaranis	FALSE
+Majin Ghawt as Sidr	Qusayr Umm al `Ajram	FALSE
+Wadi al Qulay`at	Wadi al Qulay`at	TRUE
+Qārat al Mukharram	Qārat al Mukharram	TRUE
+Wadi Sutatah	Wadi Sutatah	TRUE
+Kaf Mazuzah	Kaf Mazuzah	TRUE
+Dur al Warid	Dur al Warid	TRUE
+Qarat Sayd al Layl	Wadi Bu Fuhayqah	FALSE
+‘Uwaynāt Zuhayr	وادي العليمك	FALSE
+Masrab Stika	At Ta‘āmkah	FALSE
+Bi’r ash Shutaywī	Ru’ays Bin Kīţah	FALSE
+Al Butnan	Al Butnan	TRUE
+قرية الجلاغمة	Qarārat Juwayfilah	FALSE
+Ghawţ Shūshān	Ghawţ Shūshān	TRUE
+Wadi al Hulqumah	Shaţīb Şumaydah	FALSE
+Shubruq Yūsuf	Shubruq Yusuf	TRUE
+Bi'r an Nuwayr	Bi’r an Nuwayr	TRUE
+Wādī al Mudayyinah	بئر بو جدارية	FALSE
+Nakhil al Musayfiq	Nakhil al Musayfiq	TRUE
+Wudayyāt Ummahāt al ‘Ajram	Wudayyat Ummahat al `Ajram	TRUE
+Bi’r al Mutakhaţţirī	Bi’r al Mutakhaţţirī	TRUE
+Khirbat at Tanūmāt	Widyān ad Dakhīlah	FALSE
+Shu‘bat al Marāḩ	Mājin as Suwayqāt	FALSE
+Abū ‘Affān	Wadi Shu`bat at Tariq	FALSE
+Qur al Makharim	Majin Muhalhal	FALSE
+Ra’s ‘Āliyah wa ‘Alī	Ra’s ‘Āliyah wa ‘Alī	TRUE
+Barq al Hāyil	Barq al Hayil	TRUE
+Ash Shābī	Wādī al Ḩuqayfāt	FALSE
+فسقية النشب	Dūr al Fuhūdah	FALSE
+شارع القيروان	Wādī aţ Ţuyūr	FALSE
+Qarārat Ra’s al Ḩişān	Tariq Qurrah	FALSE
+Hanshīr Madla‘	`Alam al Qadhdhafi	FALSE
+Qabilat al `Ataya	Qabīlat al ‘Aţāyā	TRUE
+Wadi at Tifl	Wādī aţ Ţifl	TRUE
+Ar Rajīm	Ar Rajim	TRUE
+Wadi al Qurayyat	Wādī al Qurayyāt	TRUE
+Rūrāyat as Sitrah	Rurayat as Sitrah	TRUE
+Qabīlat Lawātah	Qabīlat Lawātah	TRUE
+وادي فايد	وادي فايد	TRUE
+Bi'r Tighirin	Bi’r Tighīrīn	TRUE
+Shu`bat al Qataf	Shu`bat al Qataf	TRUE
+Mudawwarāt al Ḩulayy	Mudawwarāt al Ḩulayy	TRUE
+Al Hasy al Hamra'	Ash Shatib al Abyad	FALSE
+Bi’r ‘Arafah	Bi’r ‘Arafah	TRUE
+Qar`at Wan Zawatin	Qar‘at Wān Zawātin	TRUE
+Ḩaţīyat al Qidr	Ḩaţīyat al Qidr	TRUE
+Wādī al Ghazāl	Wādī al Ghazāl	TRUE
+Ash Shūshah	Minţaqat as Sabkhāt	FALSE
+Wadi Fulayqan	Wadi Fulayqan	TRUE
+Wadi al Qawafil	Wadi al Qawafil	TRUE
+Wadi Bu `Unqud	Wadi Bu `Unqud	TRUE
+وادي لاموت	وادي لاموت	TRUE
+Ḩanīyat al ‘Abīd	قبيلة بن مسلم	FALSE
+شعبة بو ليلى	Shaţīb al ‘Azzūz	FALSE
+`Ilwat Nufi	‘Ilwat Nūfī	TRUE
+Qarat Tabhawt	Al Kushah	FALSE
+Bin ‘Īsá	Bin `Isa	TRUE
+Abyār al Kardāsī	Abyar al Kardasi	TRUE
+Wādī Umm al Hayjāt	Wādī Umm al Hayjāt	TRUE
+Shu`bat al Hamadah	Shu‘bat al Ḩamādah	TRUE
+سياح صرة	وادي أم الصوانة البيضاء	FALSE
+Z̧ahrat al Muqāranāt	Z̧ahrat al Muqāranāt	TRUE
+As Sanyurah ash Sharqiyah	Shaţīb al Juhaym	FALSE
+Bi’r al Fatḩalīyah	Bi’r al Fatḩalīyah	TRUE
+Wadi as Satl	Wadi as Satl	TRUE
+Wadi al Wu`ayrat	كرسة	FALSE
+Qar‘at Khalaf Allāh	Wādī al ‘Ashāshah	FALSE
+Qiblat al Ja‘āfirah	Qiblat al Ja`afirah	TRUE
+Qabilat al Munayzilah	Qabilat al Munayzilah	TRUE
+Wadi Umm al `Iljan	Wadi Umm al `Iljan	TRUE
+Tuwayyilat Samnu	Tuwayyilat Samnu	TRUE
+Wadi Bu Maras	Wādī Bū Maras	TRUE
+Wadi Gharbiyah	Minţaqat al Kharshityān	FALSE
+Wādī al Khaţīţah	Wādī al Khaţīţah	TRUE
+Wadi al Qarin	Wādī al Qarīn	TRUE
+Ḩawsh al ‘Akb	Wādī al Khaḑar	FALSE
+Qulayb ad Daqīq	Sabkhat al ‘Arqūb	FALSE
+Zāwiyat al Mamlūḩ	Zāwiyat al Mamlūḩ	TRUE
+Ḩarf al Qubayrāt	Wasin	FALSE
+Qabīlat al Aḩmar	Qabīlat al Aḩmar	TRUE
+`Ilwat Jarabiyah	‘Ilwat Jarabīyah	TRUE
+Qur Zuwayyah	وادي الحلفاوي	FALSE
+Majin `Ali Qashut	Mājin ‘Alī Qashūţ	TRUE
+`Ayn adh Dhakkarah	`Ayn adh Dhakkarah	TRUE
+Bi'r Bu `Asakir	Adh Dhirā‘	FALSE
+Sāniyat al Mardūmah	Saniyat al Mardumah	TRUE
+Qārat al Kará	Bi’r ar Rashīdīyah	FALSE
+Bi’r al Aḩmar	Bi'r al Ahmar	TRUE
+Al Qarah al Hamra'	Nukhaylāt at Tamrīyāt	FALSE
+Wadi Ifi	Wadi Ifi	TRUE
+Qararat as Sa`idi	Qararat as Sa`idi	TRUE
+Bi’r Awbarakāt	Bi’r Awbarakāt	TRUE
+Wadi al Mushayhib	Tawil as Siqam	FALSE
+Wādī Selfufet	الشاتة	FALSE
+Ra’s Umm al Ḩalfah	Ra’s Umm al Ḩalfah	TRUE
+Wādī Jabrūn	Wadi Jabrun	TRUE
+Wādī ad Diz‘ālī	Qabilat Saqin	FALSE
+Wādī Qallāb	Wadi Qallab	TRUE
+Dur al Jahmi	Dūr al Jahmī	TRUE
+Shutban al Gharyani	Shaţīb az Zahrah	FALSE
+Bi'r al Khubiyah	Raqabat az Zaytunah	FALSE
+Qaryat Tunin	Lawdh al Qubur	FALSE
+Wādī Kuḩaylah	Wadi Kuhaylah	TRUE
+Bi’r al Maţār	Bi’r al Maţār	TRUE
+Sāḩil Kirissah	Sahil Kirissah	TRUE
+Sāniyat Awlād Badr	Qabīlat al Muhtal	FALSE
+`Ayn Sajis	‘Ayn Sajīs	TRUE
+Al Maslulah	Ra's al Baradi`	FALSE
+Wadi al Mu`arrash	Wadi al Mu`arrash	TRUE
+Qārat al Mudaywir	Qarat al Mudaywir	TRUE
+Bi'r Ihlal	Bi’r Ihlāl	TRUE
+Saniyat ash Shubashiyah	Sāniyat ash Shūbāshīyah	TRUE
+Harf Qadum	Ḩarf Qādūm	TRUE
+Ra's Qumir	Ra's Qumir	TRUE
+Wadi al Malikah	Habit at Tall	FALSE
+Ash Shabari	Duwayrat Ahmad	FALSE
+Bi'r Bu Lait	وادي دبدب	FALSE
+Şurmān	Sawānī	FALSE
+Wādī Dawḩ	‘Ayn ar Rummānah	FALSE
+`Anbasah	Wadi Ba'i` Dayfah	FALSE
+Qar`at as Sa`dan	Qar‘āt as Sa‘dān	TRUE
+كاف طقيجة	Qaţrayānah	FALSE
+Jawf ad Dalim	Jawf ad Dalīm	TRUE
+Minţaqat Jawf al Murār	Minţaqat Jawf al Murār	TRUE
+Bi'r Kayl ar Rum	Zahr `Ayyash	FALSE
+Wādī al ‘Arānīs	Qal‘at al Wasaţ	FALSE
+Wādī an Nakhā’im	Wadi an Nakha'im	TRUE
+Quwayrāt al Baqar	Quwayrat al Baqar	TRUE
+As Saqqālīyah	Wādī ar Rughl	FALSE
+Qalb al Fakhiri	Qalb al Fākhirī	TRUE
+Bi’r al Maqşī	بلة	FALSE
+Qar‘āt an Nawā’il	Qar‘āt an Nawā’il	TRUE
+Guerende	Guerende	TRUE
+Qarat ar Rukhayyisah	Wadi Ghawt al Hijab	FALSE
+Dūr al Ḩujnah	Dūr al Ḩujnah	TRUE
+سبخة سيدي الحمري	سبخة سيدي الحمري	TRUE
+Wādī ash Sharshārah	Wādī ash Sharshārah	TRUE
+رملة زلطن	رملة زلطن	TRUE
+Ghawt al `Ariq	غوط الحيرة	FALSE
+Ash Shi‘āfīyīn	رؤوس الخزازين	FALSE
+Ghawţ al ‘Afraj	Jabal al `Izaz	FALSE
+عقيرة عبدالله	عقيرة عبدالله	TRUE
+Qabilat an Nattatat	Qabīlat an Naţţāţāt	TRUE
+هابط البقر	Bi'r `Uyun al `Abd	FALSE
+Ra's Umm al Qandul	Ghawt Mushaywir	FALSE
+‘Ayn az Zarqā’	`Ayn az Zarqa'	TRUE
+Qur al Buraq	Qūr al Burāq	TRUE
+Wadi Salulu	بئر إهر	FALSE
+Ma`atin Tinnin	Ţawīl al ‘Astakīyah	FALSE
+Al Mukhayli	Al Mukhaylī	TRUE
+Wadi al Qamatiyah	Qar`at Qarat ash Shulaymah	FALSE
+المحيشي	المحيشي	TRUE
+رأس عبيدة	Kāf ar Ruqayyiqāt	FALSE
+As Surayrah az Zurayqā’	Bi’r Qīlzān	FALSE
+Bi'r al Maliz	Bi’r al Malīz	TRUE
+Jammārah	Jammarah	TRUE
+Wadi as Suluf	Wādī as Sulūf	TRUE
+Marawah	أبيار الحوارة	FALSE
+Al `Aqulah	Ghawţ al Marwaḩ	FALSE
+Wādī Aşfar al Kabīr	Qūr Bū Zinād	FALSE
+Wādī al Akwām	`Ayn ar Rafid	FALSE
+Az Zintān	Ez-Zintán	TRUE
+Sāniyat Umm al Kawm	Saniyat Umm al Kawm	TRUE
+Bi'r Tamshin	Bi’r Tamshīn	TRUE
+Bi’r aş Şayādilah	Bi’r aş Şayādilah	TRUE
+Qaryat aş Şawādiq	Bi’r Manşūr	FALSE
+Sāniyat Raḩmah	Sāniyat Raḩmah	TRUE
+Khashm Abū al Ghurāb	Khashm Abu al Ghurab	TRUE
+Wadi Sayh as Silyan	Qulay‘āt al Khawr	FALSE
+Wadi al Hammam	Wādī Umm al Ajbāb	FALSE
+رأس الهلال	رأس الهلال	TRUE
+Qurush al Qashsh	Z̧ahr Abū Ruwaygh	FALSE
+Qulayb Had al Mihadi	Qulayb Had al Mihādī	TRUE
+Abyār Bū Sha‘rāyah	Samāḩ ‘Ulaym aş Şarr	FALSE
+‘Abābidah	Bi'r Nazwat Himarayn	FALSE
+Bi'r al `Uraysat	Bi’r Ţabīb	FALSE
+Ma‘ţan ar Rukaywah	Tammat al Qarta`iyah	FALSE
+Wādī as Sirrī	Wadi as Sirri	TRUE
+Ru’ūs al Ḩammādīyah	Wādī Abū Hanshīr	FALSE
+Wādī az Zinādī	Al Kanādir	FALSE
+‘Urqūb al Aswāq	Al Ḩamām	FALSE
+Abyār Abū Farrāj	Abyār Abū Farrāj	TRUE
+Bi'r al Abyad	Bi'r al Abyad	TRUE
+Baladiyat al Fatih	Baladiyat al Fatih	TRUE
+Ḩaţīyat at Tāmmah	Ḩaţīyat at Tāmmah	TRUE
+Dūr al Unūf	Dūr al Unūf	TRUE
+تين الخرمة	تين الخرمة	TRUE
+Al Maghāsil	Dandakh	FALSE
+Bi’r Bū Ḩawsh	Bi’r Bū Ḩawsh	TRUE
+Wadi Hamamah	Ra's Darban	FALSE
+Bi’r Jibrīl	Bi’r Jibrīl	TRUE
+Shu‘bat al Karmah	Shu`bat al Karmah	TRUE
+Jabal Rukn	Khashm Aḩmad	FALSE
+بلاط الشقيطة	Sarīr al Qāf	FALSE
+Wādī al Ḩayāt	Wadi al Hayat	TRUE
+Wadi ar Rabitah	Wadi ar Rabitah	TRUE
+‘Ilwat at Tumayr	Ghawt Zahr al Khadim	FALSE
+Al Kamin	Al Kamīn	TRUE
+Wādī Shu‘bat al Qanţarah	Ar Ruwaybiţ	FALSE
+Shu`bat al `Azzabah Shawdhab	Dayr al Mudhahhabah	FALSE
+Wadi Shu`bat al Jidrah	Masrab Bū ‘Ajīnah	FALSE
+Qararat al Haddadiyah	Qararat al Haddadiyah	TRUE
+Z̧ahr al Marāqib	Başalah	FALSE
+Manāqīr Tifāḩ	Manaqir Tifah	TRUE
+Bi'r al `Ubaydi	‘Urqūb al ‘Uzaylah	FALSE
+Minţaqat ad Dawā’irah	Mintaqat ad Dawa'irah	TRUE
+Wādī Tāradjalī	Wadi Haffunah	FALSE
+Abyar al Jandal	Ra’s Bū al Ḩumayyim	FALSE
+Majin at Tir	Wadi al `Aqubiyah	FALSE
+Bi'r Tarraf	Bi’r Ţarrāf	TRUE
+Zahr al `Uzaymat	Zahr al `Uzaymat	TRUE
+Wādī ‘Uqayl	Wādī ‘Uqayl	TRUE
+Qabilat Za`faran	Khirbat al Barāhimah	FALSE
+Sawānī ash Shahtīyah	Qarārat az Zawam	FALSE
+Qarārat Bin Hindī	Qararat Bin Hindi	TRUE
+Bi'r Bu Sanab	At Tilāl al Bīḑ	FALSE
+Kharramat Bu `Ayn	‘Utaylat ash Shifār	FALSE
+Wādī as Saţāyah	Al Kurab	FALSE
+Wādī Sayḩ al Manāşīr	وادي السفرة	FALSE
+قرارة بن زيدان	Wadi In Luba	FALSE
+Wadi Bu at Tuyur	Wādī Bū aţ Ţuyūr	TRUE
+Wadi Jashalam	Wadi Jashalam	TRUE
+Bi’r Mathāb	Bi'r Mathab	TRUE
+Bi’r Khālid	Bi’r Khālid	TRUE
+أبيار عائلات مرسي	أبيار عائلات مرسي	TRUE
+Wadi Dun	سبخة القصور	FALSE
+Qabīlat Jalā’il Şirāţ	Ghawţ al Ma‘şarah	FALSE
+`Uwaynat al Jady	Ghawt Khanafis	FALSE
+Musharrik Wādī aḑ Ḑawmarān	Musharrik Wadi ad Dawmaran	TRUE
+Bi’r al Khunfus	Bi'r al Khunfus	TRUE
+Mintaqat al Haqaqiyah	Mintaqat al Haqaqiyah	TRUE
+Wadi ad Daqiq	Wādī al Amīn	FALSE
+Wadi at Tunisi	Wādī at Tūnisī	TRUE
+Sīrat Bū al Ḩāff	Ramlat al Hayyirah	FALSE
+Mājin ‘Azzābī Ibrāhīm	Mājin ‘Azzābī Ibrāhīm	TRUE
+Bi'r ash Shuqayqah	Al `Izziyat	FALSE
+Sabkhat al Ḩushayfāt	Sabkhat al Ḩushayfāt	TRUE
+Al Fāliḩah	Ma‘ţan Iskandar	FALSE
+Ra’s Bū Malīḩ	Wadi ar Rabitah	FALSE
+Wādī Bāqān	Ar Ruḩaybāt	FALSE
+`Irq al Huzayri	‘Irq al Ḩuz̧ayrī	TRUE
+Nashgh ath Tha‘lab	Qarat at Taw'amah	FALSE
+‘Ayn Ţarfānah	`Ayn Tarfanah	TRUE
+Saniyat ar Ratiwiyah	Umm ar Rizam	FALSE
+Wadi Umm Zan	Saniyat Bin Hamid	FALSE
+Talbat Umm al Fursan	Bi'r Tajmut	FALSE
+Wadi al Qur	Ar Rābiţah	FALSE
+Qabilat Awlad Jahliyah	Wadi Bu Rashadah	FALSE
+Al Ḩamrāyah	Al Hamrayah	TRUE
+قرارة السويكنة	Saniyat al Wati'ah	FALSE
+Ar Raqabah	Ar Raqabah	TRUE
+Qarārat al Ḩufrah	Qararat al Hufrah	TRUE
+Zalţan	Zaltan	TRUE
+Qarat Falqi	Wadi an Nizam	FALSE
+Ḩattīyat al Qūr	Ḩattīyat al Qūr	TRUE
+Ghadīr adh Dhi’b	Qarārat ad Duhaym	FALSE
+Shi`ab al Banadir	Shi`ab al Banadir	TRUE
+Qabīlat Zawbarah	Amajin Tajamut	FALSE
+Sabkhat Tawurghah	Sabkhat Tāwurghah	TRUE
+Bu Fa's	Shaţīb an Nifār	FALSE
+Ţulaylīs	Ra's al Misann	FALSE
+Wādī ‘Ayn Tūd	Al Bunayyah	FALSE
+Rikab al Qattarah	Shatib `Ubaylah	FALSE
+Bi’r Sāniyat Bin Karīm	Al Basus	FALSE
+Saniyat Zammakh	Qārat at Taw’amah	FALSE
+Shu‘bat aţ Ţarīq	Shu`bat at Tariq	TRUE
+Kāf az Zubaywah	Kaf az Zubaywah	TRUE
+Shu`bat Umm al Hallab	Shu‘bat Umm al Ḩallāb	TRUE
+زلواز	زلواز	TRUE
+Tariq al Walidiyah	Ţarīq al Walīdīyah	TRUE
+Bi’r al ‘Ayān	Bi'r al `Umy	FALSE
+Wādī al Jall	Wadi al Jall	TRUE
+Bi'r Bu al Qaraqi`	Bi'r Bu al Qaraqi`	TRUE
+Bi'r as Sidrah	Bi'r as Sidrah	TRUE
+Sayḩ al Ḩamrūtī	Sayh al Hamruti	TRUE
+Qararat Wadi al Hadh	طويلات سمنو	FALSE
+Bi’r Umm al Jall	Wādī Tibyāz̧ū	FALSE
+Bi’r al Balāḩah	Ra’s Abū ‘Imāmah	FALSE
+Bi'r Umm al Khansa'	Bi'r Umm al Khansa'	TRUE
+Wādī az Za‘tar	Wādī az Za‘tar	TRUE
+وادي وزية	Wādī ash Shams	FALSE
+Bi’r as Sitrah	Wudayy al Qaţaf	FALSE
+Ubari	Ramlat Zaqqut	FALSE
+Fisqīyat ash Shaqārinah	Abyar al Baww	FALSE
+Wadi Zaghwan	Wadi Zaghwan	TRUE
+Sawani `Abd al Ghani	Wādī ath Tha‘ālib	FALSE
+Bi'r al Hajj Muhammad	Wadi Tabaqah	FALSE
+Ma‘āţin as Samā’	Ma`atin as Sama'	TRUE
+Minqār az Zayyān	Minqar az Zayyan	TRUE
+قويرات الجبس	قويرات الجبس	TRUE
+Wādī al Bazzāzīn	Wadi al Bazzazin	TRUE
+Bi’r al Maqşabī	Bi’r al Maqşabī	TRUE
+Shu`bat Umm al Labad	Shu‘bat Umm al Labad	TRUE
+Ghitan Wazin	Saniyat Fasatah	FALSE
+Wādī Aḩmad	Wadi an Niyan	FALSE
+Wādī al Furaykh	Wadi al Furaykh	TRUE
+Az Zahra'	Bi’r an Nuwaym	FALSE
+رأس اليهودية	Al Kardun	FALSE
+South Harbour	Wadi Bu ad Dahhak	FALSE
+Majin Fasqiyah	Hafwat al Jidari	FALSE
+Arḑ al Buraydhi‘ah	Ard al Buraydhi`ah	TRUE
+Shu‘bat Buwayb ad Dulūl	Shu`bat Buwayb ad Dulul	TRUE
+Qur as Sidar	Qur as Sidar	TRUE
+Ţalbat Umm al Fursān	Qaryat al Kārrān	FALSE
+Ma`tan al Bulaytah	Ma`tan al Bulaytah	TRUE
+Wadi Maymun Darraj	Ghawt al `Uwaylah	FALSE
+بئر الكمونية	وادي هرارهي	FALSE
+Bi’r Jibrīl	Bi'r Jibril	TRUE
+قارة الكحلة	Zāwiyat Bū Zawīz	FALSE
+Minqar Ghurab	Baladiyat Zlitan	FALSE
+An Nat`	Abyar Niza' Fariq	FALSE
+Au Zarach	Au Zarach	TRUE
+Bi’r Ghawţ aş Şafā’iḩ	Bi’r Ghawţ aş Şafā’iḩ	TRUE
+Wādī al Balanj	Wadi al Balanj	TRUE
+قارة الذؤوبة	قارة الذيوبة	TRUE
+Wādī Bū Khuraymah	Tariq ar Rijl	FALSE
+Qaryat Umm aş Şafā’	غوط المعترض	FALSE
+As Suwayrāt	As Suwayrat	TRUE
+Rurayat as Sitrah	Sayh al Warwari	FALSE
+Wadi Qirjah	Wadi Qirjah	TRUE
+Wadi al Kawm	Majin al `Aqib	FALSE
+Ash Shi`ab al Hursh	Ash Shi`ab al Hursh	TRUE
+Wādī Dakākīn Bū Ḩaqf	Wādī Dakākīn Bū Ḩaqf	TRUE
+Bi'r Sa`d	Baqqinah	FALSE
+Dūr aḑ Ḑawţā’	Bi'r Qassar	FALSE
+Wādī Nīnā	Al Qasbayah	FALSE
+Bi'r `Ammar	Wādī Shaţīb al ‘Ārif	FALSE
+Bi’r ‘Āfiyah	Bi’r ‘Āfiyah	TRUE
+Bi’ār ash Sha‘rāyah	Bi'ar ash Sha`rayah	TRUE
+Ḩasy as Safī	Hasy as Safi	TRUE
+Wadi Shuraytil	‘Urqūb an Nāqah	FALSE
+Wādī Ḑāwiyah	Wādī Ḑāwiyah	TRUE
+Bi’r al Ḩājj Muḩammad	Bi’r al Ḩājj Muḩammad	TRUE
+Wadi Jurayjif	Raqabat al Başrīyah	FALSE
+`Aynan al Qasabah	Wadi Zazah	FALSE
+Qarat ad Duma	Bi’r ash Shaykh ‘Umar Abū Sunaynah	FALSE
+Bi’r Kūkā	Bi'r Kuka	TRUE
+Ummahāt al Milḩ	Bi'r al Murabba`	FALSE
+Qararat Abu Hawwa'	Kalāsh	FALSE
+Qararat Daf` Wadi az Zimam	Qararat Daf` Wadi az Zimam	TRUE
+Al Qahzah	Al Qahzah	TRUE
+Qur al Khashabi	Qur al Khashabi	TRUE
+Khīshān al Budūr	Wadi Qaf Sawf	FALSE
+Thamad Umm al Khayr	Abu Salim	FALSE
+‘Urqūb aḑ Ḑab‘	‘Urqūb aḑ Ḑab‘	TRUE
+بئر ترخساية	Quwayrat al Watiyah	FALSE
+‘Irq al Idrīsī	Kāf Sayḩ Aḩmad	FALSE
+Ramlat al Ḩasy	Haqfat ad Dirham	FALSE
+وادي الميراد	Bi'r al `Uzaym	FALSE
+Hasy an Nakhlah	Hasy an Nakhlah	TRUE
+Thamad `A'ilat Mubarak	Karmat Bu Shu`ayshah	FALSE
+Bi'r Bi ash Shawwal	Bi'r Bi ash Shawwal	TRUE
+وادي بو عجينة	وادي بو عجينة	TRUE
+Tamanhint	Tamanhint	TRUE
+Wādī Umm al Far‘	Wādī Shihāb	FALSE
+طويل الرتمة	Bi’r Shu‘bat an Nazzā‘ah al Awţá	FALSE
+Khanqat al Barţamah	Sharaf Allāh Akbar	FALSE
+Quwayrāt an Najjār	Quwayrat an Najjar	TRUE
+Bi’r al Mufawwaz	Bi'r al Mufawwaz	TRUE
+Ziq `Ayn al Mal	Zīq ‘Ayn al Māl	TRUE
+Sawani al Murabbahah	Wadi Rahumah	FALSE
+Minţaqat ad Dawā’irah	Minţaqat ad Dawā’irah	TRUE
+Shaţīb al Mizyār	Shaţīb al Mizyār	TRUE
+Bi’r ‘Ayyād	Bi’r ‘Ayyād	TRUE
+Ghawţ al Maqran	وادي القط	FALSE
+Wādī Dabdab	Shatib Zarb al Layl	FALSE
+حيفرة الخور	حفيرة الخور	TRUE
+Wādī at Tawāzīl	Za`mut Shirkrid	FALSE
+Bi’r ar Raqīm	Shu`bat al Khayl	FALSE
+Quwayrāt al Jibs	Quwayrat al Jibs	TRUE
+Mallāḩat Bannūmah	Mallahat Bannumah	TRUE
+Wudayy Dabbu	Dur Munish	FALSE
+Ghawt al Masturah	Ghawt al Masturah	TRUE
+Wadi Bu Qafnanah	Z̧ahr Bū al Waţāwiţ	FALSE
+An Nuzaylah	Bi'r Muhammad Hulayyil	FALSE
+Qārat ash Shīḩ	Al Karmah	FALSE
+Qabīlat al Ansalāh	Qabīlat al Ansalāh	TRUE
+Makhzan al Budayḩ	قارة السدادة	FALSE
+Qur Zuwayyah	Qar‘ al Balālī‘	FALSE
+Wādī ‘Ayt as Sāfān	Wādī al Ḩabashīyah	FALSE
+وادي شعبات القنطرة	وادي شعبات القمرة	TRUE
+Qabilat Awlad Ghayth	Wādī Bū aţ Ţuyūr	FALSE
+Wādī Qarmāţ	Shu`bat Umm as Sabt	FALSE
+Haqfat ash Shuway`irat	Dur Khawr al Jifah	FALSE
+Bi’r ‘Udyān	Bi'r `Udyan	TRUE
+Ra's Marbah ar Rashadat	Ra's Marbah ar Rashadat	TRUE
+Wādī Umm al ‘Iz̧ām	Bi’r ar Rutaymah	FALSE
+Bi'r al Hajj Humaydah	Bi'r al Hajj Humaydah	TRUE
+`Urqub `Ubayyah	Bi'r ar Rubay`iyah	FALSE
+Musran Dakhil	Musran Dakhil	TRUE
+Qararat Umm al `Izam	بئر أبو كشفة	FALSE
+Hatiyat al Bayda'	سبخة المراح	FALSE
+Wādī Ashīrmā	Wadi Ashirma	TRUE
+Qārat Bū Hayyirah	Wādī Qūrdū	FALSE
+Qārat al Kabsh	Qasr Libiya	FALSE
+Quwayrat ar Ruwaybah	Mājin Umm al Jidārī	FALSE
+`Ayn Umm Qidyah	‘Ayn Umm Qidyāḩ	TRUE
+Bi'r Bu ar Rabi`ah	Bi’r Bū ar Rabī‘ah	TRUE
+Qārat al Kumaylī	Qārat al Kumaylī	TRUE
+Wādī ash Shuwayţirah	Wādī ash Shuwayţirah	TRUE
+Shaţīb al Jarrāy	Shaţīb al Jarrāy	TRUE
+Sabkhat al Hitah	Ra’s Bin Tirfās	FALSE
+Bi'r al Murabit	Ma'mun	FALSE
+Wadi Tannushat	Wādī al ‘Uşayyah	FALSE
+Raqabat al Ghulah	Raqabat al Ghūlah	TRUE
+بئر كنار	Al Lamāmīsh	FALSE
+Ferdj Ouaberane	Wadi al Milamm	FALSE
+Majin `Aqilat Mahmud	`Aqirat al Mamsak	FALSE
+Qarārat al Abrāqī	Qarārat al Abrāqī	TRUE
+‘Ayn Tūnīf	`Ayn Tunif	TRUE
+Qabilat al Humrah	بئر المدينة	FALSE
+دفع اللحم	Ra’s az Zūr	FALSE
+Wadi ar Rakawi	Wādī ar Rakāwī	TRUE
+Nuwayzirat ad Daffah	Nuwayzirat ad Daffah	TRUE
+Wadi Sayh al Farjan	Wadi Sayh al Farjan	TRUE
+Wādī Bū Fāţimah	Wādī Bū Fāţimah	TRUE
+Shari` as Sudan	Tlīsān	FALSE
+Jawf Abū Shīhān	Dūr at Tuwākinīyah	FALSE
+وادي عين غارن	Wādī Yār	FALSE
+Qārat ash Shalīf	Minţaqat al Mukaysir	FALSE
+Faywīt	Qaryat Qarat	FALSE
+Qaryat ash Shuyyab	Hajai as Sadd	FALSE
+وادي دجلة	Abyar az Zu`aytir	FALSE
+Qarat ash Shuwayrif	Qarat ash Shuwayrif	TRUE
+Wādī ad Dimāgh	Wadi ad Dimagh	TRUE
+Dūr Zaqqūţ	Dur Zaqqut	TRUE
+Bi'r al Madinah	Bi’r al Madīnah	TRUE
+Wadi Mubarakah	Abyār Bū ‘Abd Allāh	FALSE
+Quwayrāt al Milḩ	Quwayrat al Milh	TRUE
+Khawr al Bīḑān	Khawr al Bidan	TRUE
+Wadi al Abyad	Wādī al Abyaḑ	TRUE
+Ar Ruḩaybāt	Ar Ruḩaybāt	TRUE
+`Ilwat Salit	`Ilwat Salit	TRUE
+خشم التمريات	خشم التمريات	TRUE
+`Irq al Jallab	قرار الخدات	FALSE
+Wadi al Kundarah	Wadi al Kundarah	TRUE
+Wadi al Kundarah	Bi'r al Hisan	FALSE
+Ard ash Sharif	Wādī al Ghūbī	FALSE
+قلب القزاح	Ra's at Tays al Aswad	FALSE
+Bi'r Bu Lat`ah	Bi'r Bu Lat`ah	TRUE
+Zahr al `Amm	Şayyād	FALSE
+Abyar al Fawaris	Wadi ash Shu`bah al Ghariqah	FALSE
+Qararat as Sa`dawi	Bi’r Bawāhī	FALSE
+Jannāwan	Jannawan	TRUE
+Ra’s al Marqab	‘Aqīrat az Zafrah	FALSE
+Al Qarah as Safra'	Al Qarah as Safra'	TRUE
+Shu‘bat Umm al Ḩallāb	Shu`bat Umm al Hallab	TRUE
+Bi'r Shaybah	Bi’r Shaybah	TRUE
+Qur Kurb as Satiti	Wadi Baruk	FALSE
+Bi’r az Zaqzāq	Bi’r az Zaqzāq	TRUE
+Ramlat ar Rakhmāt	وادي المصدار	FALSE
+Ru’ūs ad Dabābīn	Mintaqat Ruhayyim	FALSE
+Ra's al Makkar	Ra’s al Makkār	TRUE
+`Urqub Faras	Saqīfat Karm al Khayl	FALSE
+Bi’r al Khalīţah	Majin Abu Shari`ah	FALSE
+Ḩaţīyat al Bass	Abyar Muhammad al Bassas	FALSE
+Wadi Bu Shayfah	Dūr Tāfah	FALSE
+Kurb adh Dhi’bah	Wādī al ‘Aqīrah	FALSE
+Haqfat al Kawakhi	Wādī Ḩaffūnah	FALSE
+Shabakat Ru'us al Widyan	قصر الجدي	FALSE
+الشاتة	الشاتة	TRUE
+Daffat al Quşayr	Zahr ash Shinzirah	FALSE
+Mafraq Bi'r `Ayyad	Bi'r Khalil Habiyah	FALSE
+Bi'r Ra's al `Uqab	Wadi Qasr al Yahudi	FALSE
+Qārat ar Ramlah	Qarat ar Ramlah	TRUE
+Abyār ‘Aqr Zīmah	Abyār ‘Aqr Zīmah	TRUE
+Şadr Bū Ḩamrah	شعبية مصراتة	FALSE
+Wādī Ḩasan	Sāniyat al Qubūr	FALSE
+Qalb al Fakhiri	Jawf aḑ Ḑab‘	FALSE
+Ath Thanīyah al Ḩamrā’	Ath Thaniyah al Hamra'	TRUE
+Bi’r Bū ‘Aşīdah	Ḩaţīyat ‘Abd ar Ra’ūf	FALSE
+Sidi `Ali Bu Madfa`	‘Utaylat as Saḩājir	FALSE
+Wadi Fashyah	Wādī Fashyah	TRUE
+‘Urqūb Fazzān	`Urqub Fazzan	TRUE
+Qar`at Sa`idah	Qar‘āt Sa‘īdah	TRUE
+Bi'r al Hamamilah	Bi'r al Hamamilah	TRUE
+Sabkhat Bū az Zarqā’	Sabkhat Bū az Zarqā’	TRUE
+Wadi Hamid	Wadi Hamid	TRUE
+Bi’r al Ghallāz	Ruqiyat Qadah al `Ud	FALSE
+Sanghū	Qārat al Kadhbah	FALSE
+Wadi ar Rasibin	Al Qaraya	FALSE
+`Ayn al Hamam	Qaltat adh Dhi'b	FALSE
+Ghawţ al Waţī’āt	Umm al Barrim an Nabi`ah	FALSE
+Wadi al Haddadiyah	`Ayn Bu Karmusah	FALSE
+Wadi ar Rih	Bi’r ‘Azī	FALSE
+Wādī al Ghadrā’	Ra's Sas	FALSE
+Ghawt al Ma`sarah	Ghawţ al Ma‘şarah	TRUE
+Wādī ash Shīhān	Wadi ash Shihan	TRUE
+Ghadīr Umm al Baryūf	Bi’r as Sabīl	FALSE
+Qarārat Umm al Cheteb	Majin ar Rata'ibiyah	FALSE
+Sarīr Kalanshiyū	Sarir Kalanshiyu	TRUE
+Sāniyat Bin ‘Antar	Wādī Tunaynīr	FALSE
+Wādī Ḩammās	Wadi Hammas	TRUE
+Wādī Sakkūm	أبو الأشهر	FALSE
+Al Qirnātah	Wādī Yūnus	FALSE
+Ghawt al Hitah	Ghawţ Fānis	FALSE
+Wadi ar Raha	Wadi ar Raha	TRUE
+وادي التافه	Bi'r Hamra' Fumm	FALSE
+Qarār aţ Ţā’ishah	Qarārat Umm Ghuraysah	FALSE
+Qarat Nabt	Qārat Nabt	TRUE
+Ghawţ Yāsīn	Ghawţ Yāsīn	TRUE
+Shu`bat al Juraybi`ah	Shu`bat al Juraybi`ah	TRUE
+Huqayfat as Saghirah	Halbat al `Izbah	FALSE
+Mājin al Jā’if	Dhira` Bin ar Rakawi	FALSE
+Bi'r at Tuham	قور المخارم	FALSE
+Banī Muslim	Baltat al Ghatah	FALSE
+خرمة المحلة	Mintaqat al `Uqlah	FALSE
+Bi’r Iktū	بئر بو قوسا	FALSE
+Qarārat as Suwayyiḩ	Qararat as Suwayyih	TRUE
+Ghadīr Thamad Bint Shaḩḩātah	وادي المردوم	FALSE
+Bi’r ash Shuḩayţ	Bi’r Umm al Bāqil	FALSE
+قور القرار	قور القرار	TRUE
+Al Qararah	Ghawt ash Shararah as Saghirah	FALSE
+Shu`bat Warimah	Shu‘bat Warīmah	TRUE
+Ghawţ aţ Ţayr	Zurdat Tāfah	FALSE
+Qararat Bin ash Shutaywi	Ghawţ al ‘Idhābī	FALSE
+Zighan	Zighan	TRUE
+Ru’ūs Ţiwāl al Ḩamīr	Ru’ūs Ţiwāl al Ḩamīr	TRUE
+Bi'r Sidi Nasr	Bi'r Sidi Nasr	TRUE
+وادي الميلجة الكبير	وادي الميلجة الكبير	TRUE
+Bi’r Tumraz	Bi’r Tumraz	TRUE
+Z̧ahr ad Dulaywah	Zahr ad Dulaywah	TRUE
+Bi’r Qarrūsh	Asyadi al `Amariyin	FALSE
+Haqfat Wa`ir	Ḩaqfat Wā‘ir	TRUE
+Amajin Umm al Ajbab	As Salmānī al Gharbī	FALSE
+Antalāt	Jabal al Hawā’ish	FALSE
+Qandūlah	Qaţ‘āyat al Qāzūl	FALSE
+طريق مرزوق	At Tawilah	FALSE
+Thamad Bū Rashādah	Mintaqat ad Dawa'irah	FALSE
+شعبة أحمد	Bi’r al Baḩrīyah	FALSE
+Qabilat Awlad Sa`idah	Wudayyat al Jir	FALSE
+Al Falihah	Al Fāliḩah	TRUE
+Qabīlat ash Shuraydāt	Wādī Musā‘id	FALSE
+Bi'r al Qurdabiyah	Tawil adh Dhahibat	FALSE
+Ţawīl aţ Ţawāriq	Ghawt Abu Sa`id	FALSE
+وادي عبيد الله	Bi'r Umm al Kharab	FALSE
+Aḩqāf al Jandal	بئر حميدة	FALSE
+Bi'r an Nuri	Bi'r an Nuri	TRUE
+Wadi al Hayy	Wadi al Hayy	TRUE
+Wādī ar Rawwāghah	Wadi ar Rawwaghah	TRUE
+Al Humaymat	Al Humaymat	TRUE
+الفويهات	Abū ‘Alī	FALSE
+Abyār Abū Sa‘dah	Abyār Abū Sa‘dah	TRUE
+Al Kabbāt al Bayyah	Ţarīq Mastūrah	FALSE
+Mājin al Ḩājj Kānah	Majin al Hajj Kanah	TRUE
+Qarat Sufta	Qarat Sufta	TRUE
+Bi'r al Mabarik	Bi’r al Mabārīk	TRUE
+Mudiriyat Qandulah	Baltat Hajarah	FALSE
+Sawāqī Nājī	Sawaqi Naji	TRUE
+Qarat al `Iyabiyah	Qarat al `Iyabiyah	TRUE
+Bi’r Khushaywah	Bi'r Khushaywah	TRUE
+Minqar Ra's al Haddadiyah	Minqār Ra’s al Ḩaddādīyah	TRUE
+Wādī aţ Ţuwayqah	Minţaqat Bū ‘Awājah	FALSE
+Majin Mahall Makhruqah	Majin Mahall Makhruqah	TRUE
+Sahat al Hirba'	Sāniyat ash Shahbūnīyah	FALSE
+Baltat Lawlab al Halq	سبخة زقوط	FALSE
+Ghawţ Shiddah	‘Urqūb Birāk Şādah	FALSE
+Kahf aţ Ţāḩūnah	Kahf aţ Ţāḩūnah	TRUE
+Qabilat Awlad Ahmad	Qabīlat Awlād Aḩmad	TRUE
+Ru’ūs al Qilā‘	‘Ayn al ‘Uyūn	FALSE
+Bi’r Ḩamrā’ Fumm	Bi’r Ḩamrā’ Fumm	TRUE
+Ghallabat `Alyah	Bi'r Hasy al Baqar	FALSE
+Ţarīq al Balālī‘	Ţarīq al Balālī‘	TRUE
+Dur at Tariqi	Dur at Tariqi	TRUE
+Bi'r Awlad Bakkar	Wadi al Bazghi	FALSE
+Shatib al Ghallah	Shaţīb al Ghallah	TRUE
+Bi'r ath Thuwayb	Bi'r ath Thuwayb	TRUE
+دفة وادي المقر	Sabkhat Kuhaylah	FALSE
+Bi'r ath Thulayb	Qārat Miḩqan	FALSE
+Wadi Aramt	Wādī Aramt	TRUE
+Wadi ad Dakakin	Thamad Waddān	FALSE
+Bi'r al Fantazi	Bi'r al Fantazi	TRUE
+خشم خور الجيفة	خشم خور الجيفة	TRUE
+Wudayy al `Ajuz	Wudayy al ‘Ajūz	TRUE
+Bi’r Taziet	قرارة ديهوم	FALSE
+تايسين	تايسين	TRUE
+Umm Saffar	Umm Saffar	TRUE
+Bi'r Miskin	Ra’s al Fulaysah	FALSE
+Bi’r Bū Muraykīb	Wādī Fatīlah	FALSE
+Wādī aţ Ţabībah	Wadi at Tabibah	TRUE
+Wadi Ra's al Manzilah	Wādī Ra’s al Manzilah	TRUE
+Wadi al Kharit	Wadi al Kharit	TRUE
+شعبة الوشكة	قارة حمود	FALSE
+At Tabān	At Taban	TRUE
+وادي البياضة	وادي البياضة	TRUE
+Ghīţān Wāzin	Ghitan Wazin	TRUE
+Wadi al Matmur	Wādī al Maţmūr	TRUE
+قرية الفائدية	Aḑ Ḑabghīyāt	FALSE
+رأس العلاس	Wādī Abnā’ Raḩūmah	FALSE
+Qaryat as Sa‘ādilah	Wadi al Hamam	FALSE
+Ḩaţīyat Naqb ar Ramlah	Hatiyat Naqb ar Ramlah	TRUE
+Birkat ash Shaqluf	Qārat al Burşah	FALSE
+Ra’s Bū Qushayţah	Mintaqat Shuwaynah	FALSE
+Hatiyat ash Shuhaybat	Qarat Tabhawt	FALSE
+Qar`at Sa`idah	Qar`at Sa`idah	TRUE
+Bi'r Omah	Shu`bat al Ma`zul	FALSE
+Khurmat Qaţţāyah	Khurmat Qaţţāyah	TRUE
+Ghawţ al Hawā’ish	Saniyat al Kalal at Tawilah	FALSE
+Kaf al Marmuthah	Kaf al Marmuthah	TRUE
+Ḩaqfat Bū al Maţāmīr	Haqfat Bu al Matamir	TRUE
+‘Urqūb al Ghafīrīyah	وادي إنتهورهوين	FALSE
+Bi’r ‘Allāq	Bi'r `Allaq	TRUE
+Wādī an Niyān	Wādī an Niyān	TRUE
+Dūr al Fawākhir	Qararat Wabiri	FALSE
+Wadi `Ayt Husayn	Bi'r al Harsha'	FALSE
+Aţ Ţallāb	At Tallab	TRUE
+Wādī Rumaymīnah	Shatib al Kaf	FALSE
+Wadi Shatan	Wadi Shatan	TRUE
+دور السود	دور السود	TRUE
+Qararat al Qa`ud	Qarārat al Qa‘ūd	TRUE
+Ra's Bu Bab	Ra's Bu Bab	TRUE
+Abyār Karm al Qadaḩ	Wādī Maylak al Qazzāḩ	FALSE
+Qarārat Umm ash Shuqqārah	Wadi Zuyut	FALSE
+Ghawţ Marqab al Ḩamāmah	Sawani Umm al Halluf	FALSE
+Ru'us Umm ad Daffah	Ru'aysat az Zaghadinah	FALSE
+Qabīlat Lāghāt	Qabilat Laghat	TRUE
+Masna` al Kanadir	Qaltat Umm al Julud	FALSE
+Wādī at Tahījah	Wādī at Tahījah	TRUE
+Bi'r al Qut`i	`Ayn as Sayih	FALSE
+Bin Harith	Bi’r ad Diqrah	FALSE
+Wadi al Hayah	Quwayrāt Zanīqirān	FALSE
+قرار الدجاج	Wādī Ḩayyūnah	FALSE
+Wadi al Gharbiyat	Wādī Darillah	FALSE
+Z̧ahrat Umm an Nashf	Z̧ahrat Umm an Nashf	TRUE
+Sabkhat Qarat Bu `Ajinah	Bi'r Humayd	FALSE
+شعبة القدح	شعبة القدح	TRUE
+Qarārat Sufayn	Ra's ar Rumaylah	FALSE
+Qarārat Bin ‘Īsá	Qararat Bin `Isa	TRUE
+وادي كورة	Bi'r Nazwat Raf`ah	FALSE
+Wādī al ‘Arabīyāt	Wadi al `Arabiyat	TRUE
+`Aqirat al Fujan	Al Abyad	FALSE
+Ţalī‘ al Kulayb	Wudayy Bū Qalīl	FALSE
+Wādī ‘Alīyah	Wādī ‘Alīyah	TRUE
+Al Ghuraybat	Al Ghuraybāt	TRUE
+Bi’r Faḑīl	Bi'r Fadil	TRUE
+Qarārat al Baţḩ	Qararat al Bath	TRUE
+Awlād ‘Abd al ‘Azīz ‘Inān	Awlād ‘Abd al ‘Azīz ‘Inān	TRUE
+Wadi at Talhah	Khanqat al Bayḑā’	FALSE
+Buzaymah	Masrab Ţarīq al Qawāfil	FALSE
+Sāniyat ‘Ayt Bū Marāghah	Bi’r Umm al Jurūf	FALSE
+Bu ash Sha`r	Bū ash Sha‘r	TRUE
+Khashm al Jubayl	Khashm al Jubayl	TRUE
+Abyar al Ma`bus	Khurmat Jabal Zalţan	FALSE
+Wādī ash Shaykh	Wādī ash Shaykh	TRUE
+Abyar Bu al Qaddahah	Abyār Bū al Qaddāḩah	TRUE
+Bi'r al Qasbayah	Ra’s Maghārah	FALSE
+Qarat Kudi	Qarat Kudi	TRUE
+Ramlat al Futaymiyah	Ramlat al Futaymiyah	TRUE
+Wadi az Zahlan	Wadi az Zahlan	TRUE
+Lawdh al Bahriyah	Lawdh al Bahriyah	TRUE
+Daffat Wadi al Maqarr	Daffat Wadi al Maqarr	TRUE
+Qārat Daf‘ Wādī al ‘Ushsh	Qārat Daf‘ Wādī al ‘Ushsh	TRUE
+Quwayrāt al Hashāsh	Quwayrāt al Hashāsh	TRUE
+Bi'r Timinuklin	Bi'r Timinuklin	TRUE
+Sayh an Nisa'	Ra's al Hatshah	FALSE
+Wādī Maymūn	Wadi Maymun	TRUE
+Wādī Buwayr al Khayl	Mājin al Ḩājj Kānah	FALSE
+Sāniyat al Ḩīţamīyah	Qararat Umm al Mawj	FALSE
+Mājin ‘Alī Bin Şāliḩ	`Urqub Tamiskit	FALSE
+Ma`tan Zalit	Al Bunayyah	FALSE
+‘Ayn Abū ‘Abd Allāh	‘Ayn Abū ‘Abd Allāh	TRUE
+Bi'r al Balla`ah	`Urqub Basis	FALSE
+Wādī al ‘Āqūbīyah	وادي العصية	FALSE
+Awlad Mudif	Awlad Mudif	TRUE
+وادي الرحبة	وادي الرحبة	TRUE
+Wādī al Maḩallah	Mudaywir Sammalus	FALSE
+Bi’r ‘Ā’ilat an Najjār	Bi'r `A'ilat an Najjar	TRUE
+Al Ḩamūdīyah	Al Ḩamūdīyah	TRUE
+Ţarīq as Sidrah	Qulminyā	FALSE
+At Tuwaybiyah	Aţ Ţuwaybīyah	TRUE
+Wadi ar Rakawi	Wādī aş Şayyād	FALSE
+Bi’r Ruwāq Bū an Nāqūr	Bi'r Ruwaq Bu an Naqur	TRUE
+Bi’r Shūshīn	Khashm al Jallaliyah	FALSE
+Zāwiyat al Ḩabīb	Zawiyat al Habib	TRUE
+`Ayn Mitlalah	‘Ayn Mitlālah	TRUE
+Qarat al `Ufayn	Qārat al ‘Ufayn	TRUE
+Wādī ash Shu‘bah	Shatib al Jarray	FALSE
+`Urqub al Aswaq	‘Urqūb al Aswāq	TRUE
+Qararat `Aqarib	Dur Riqab al Jubayl	FALSE
+هابط التل	هابط التل	TRUE
+طريق الجل	Wādī az Zaybawah	FALSE
+Wādī Qārūrah	Wadi al Muqitah	FALSE
+Bi’r al Karāshīn	Bi’r al Karāshīn	TRUE
+As Sumayţīyah	As Sumayţīyah	TRUE
+Ghawţ Fānis	Ghawt Fanis	TRUE
+Khurmat an Niqar	Khurmat an Niqar	TRUE
+Wādī al Baţḩā’	Wadi Awlad Bu Jadid	FALSE
+`Ayn al Magharah	‘Ayn al Maghārah	TRUE
+Wādī Suţayl	Wādī Suţayl	TRUE
+Wādī Surayj al Kabīr	Wādī Surayj al Kabīr	TRUE
+طويل الرشادة	طويل الرشادة	TRUE
+Abyār ‘Ayt Najm	‘Ayn al Ḩufrah	FALSE
+Tammat Quţrat aḑ Ḑab‘	Tammat Qutrat ad Dab`	TRUE
+Hawīyat al Qazāz	دور الكنايس	FALSE
+`Ayn Marrah	Al Hamam	FALSE
+عين الحمام	Widyan an Naslat	FALSE
+Ghawt al Kanadir	Ghawt al Kanadir	TRUE
+Z̧ahrat aḑ Ḑab‘	Z̧ahrat aḑ Ḑab‘	TRUE
+Mazra`at Saqil	Wādī an Nā’ilah	FALSE
+Saniyat al `Uduliyah	Sāniyat al ‘Udūlīyah	TRUE
+Saniyat Zannubah	Sāniyat Zannūbah	TRUE
+Tawil al Magharibah	Serir Nerastro	FALSE
+Shu`bat adh Dhakirah	Shu‘bat adh Dhākirah	TRUE
+Qarat al Burmah	Wadi Bu ar Rawakh	FALSE
+‘Aqīrat Bū Şaqr	‘Aqīrat Bū Şaqr	TRUE
+‘Urqūb al Murūr	Mājin Ḩawḑ al ‘Az̧mah	FALSE
+Daffat Wādī al Maqarr	Kāf Ghān	FALSE
+Bi’r Ma‘ālif	Ra's Sas	FALSE
+Widyān Maqrūn	Widyān Maqrūn	TRUE
+Wādī al Jīfah	أبيار الموالح	FALSE
+جبل الشيبة	جبل الشيبة	TRUE
+Shu`bat Sali	Wādī Tīn Būlāq	FALSE
+`Uwaynat Qirdan	`Uwaynat Qirdan	TRUE
+Wādī Bū Şahlī	Wadi Bu Sahli	TRUE
+Wadi al Hirah	Wādī al Hīrah	TRUE
+شارع الجزائر	شارع الجزائر	TRUE
+Hawīyat an Niqār	Bi'r Zaghrar	FALSE
+Bi'r Quraysh	Bi'r Quraysh	TRUE
+Wādī al `Āşiyah	Wadi al `Asiyah	TRUE
+Haqfat Salih `Abd Allah	جوف أبو شيهان	FALSE
+Ra's Bu Dur	Ra’s Bū Dūr	TRUE
+Wādī Bū Shawbah	Ra’s al Yūr	FALSE
+Hasy al `Uqaylah	Jabal al Bisāţ	FALSE
+Wādī Tifgas	Wādī Tifgas	TRUE
+Thamad al Mandīl	Thamad al Mandil	TRUE
+Shati' Umm al A`lam	Shāţi’ Umm al A‘lām	TRUE
+`Ilwat Burniyah	Al Khaţāţibah	FALSE
+Wadi an Naqah	Wādī an Nāqah	TRUE
+Al Jaţlīyah	Al Jaţlīyah	TRUE
+Silsilat Jibāl Zalţan	As Sawdayah	FALSE
+`Arqub Zakakir	`Arqub Zakakir	TRUE
+Bi'r at Tayyib	Bi'r at Tayyib	TRUE
+Wadi al Ghurab	Wādī al Ghurāb	TRUE
+وادي بعبوص الذئب	Sabkhat Ţālib	FALSE
+Mājin Ḩasan Muḩammad Bū Qurayn	Jabal Lamaresk	FALSE
+Wādī al Jidārīyah	Wādī al Jidārīyah	TRUE
+Bi'r as Sahl	Ḩamīdat al Jawsh	FALSE
+Shatib an Na'ili	Qaryat ‘Ayn Bū al Qā’id	FALSE
+شعبة الطريق	Bayai	FALSE
+Minqar Bu Shihah	Qarar al Bayd	FALSE
+Bi'r Wadi al Libd	Bi’r Wādī al Libd	TRUE
+Bi’r al Māḩah	Bi’r al Māḩah	TRUE
+Qararat al Murar	Qarārat al Murār	TRUE
+Bi’r Yāsīn	Bi'r Yasin	TRUE
+Bi’r adh Dhukūr	Bi'r adh Dhukur	TRUE
+Thamad al Khaţrah	Nazwat Mabrūk	FALSE
+Bi’r ‘Ā’ilat al Ghafīr	Bi'r `A'ilat al Ghafir	TRUE
+Wadi al Quman	Wadi al Quman	TRUE
+Bi’r al ‘Arabī	Qalb al `Abd	FALSE
+Wadi Jadar	Wādī Miskah	FALSE
+Wādī Analālin	Wadi Analalin	TRUE
+Qar‘at al Maryamī	الحميرة	FALSE
+Shu`bat Badriyah	Shu‘bat Badrīyah	TRUE
+Ra's Tuskini	Bi'r Kaf al `Umayyah	FALSE
+Qabīlat Wādī al Gharbī al Majāribah	Qabīlat Wādī al Gharbī al Majāribah	TRUE
+الأحرار	As Saq`abi	FALSE
+وادي أم البقر	وادي أم البقر	TRUE
+Wādī al Ḩarīb	Wadi al Harib	TRUE
+Wadi az Zahibah	Qa`at `Uwaynah	FALSE
+Nashgh ath Tha`lab	Umm al Abyar	FALSE
+Bi'r Bin `Ali	بئر زيدان	FALSE
+Bi’r al Ghanam	Bi'r al Ghanam	TRUE
+Bi'r Fu'ad	Bi'r Fu'ad	TRUE
+Ra’s al Ḩamām	Wadi Bu Kura`	FALSE
+‘Ā’ilat Lamwīs	‘Ā’ilat Lamwīs	TRUE
+Tammat Qutrat ad Dab`	Wādī Awlād Sulţān	FALSE
+Z̧ahr Timrāz	Z̧ahr Timrāz	TRUE
+Saqifat Mahziyah	Saqifat Mahziyah	TRUE
+Wādī as Sayl	Wadi al Aqadih	FALSE
+Abyar ash Shuwaymirah	شعبية وادي الشاطئ	FALSE
+Wāzin	Wāzin	TRUE
+Bi’r Ma‘tūq	شعبة وان تبريت	FALSE
+Ra’s al Ḩamām	Ra's al Hamam	TRUE
+Qūrat ash Shabāyir	Zamlat `Abd al Hafiz	FALSE
+Qararat `Uqayb	Qarārat ‘Uqayb	TRUE
+Majin Sa`d Idris	Wadi Fu`ayfi`	FALSE
+Fasqiyat al Farjan	Fasqīyat al Farjān	TRUE
+Ghawt Umm ash Shafa'ir	Ghawţ Umm ash Shafā’ir	TRUE
+Wadi Buzaz	As Suwaydā’	FALSE
+Wadī al Karmūsah	‘Ayn Umm Liḩyah	FALSE
+Bi'r Hunayk	Ghawţ Ţuwīnish	FALSE
+Wādī al Warīd	Wadi al Warid	TRUE
+Wādī Bū ‘Amūd	Wadi Muzarrab	FALSE
+Mintaqat Ra's `Ali	Minţaqat Ra’s ‘Alī	TRUE
+كاف واسق	Bi’r ‘Ammār	FALSE
+Ra’s Thulayjah	Ra's Thulayjah	TRUE
+Ash Shaqqah	Ash Shaqqah	TRUE
+الجبل أﻠﻐﺮﺒﯽ	`Urqub al Jumayl	FALSE
+Bi’r Bū Qurayn	Bi’r Bū Qurayn	TRUE
+Qarārat al ‘Atūd	Agamennan	FALSE
+Al ‘Amāridī	نزوة الدوما	FALSE
+Zazamt	`Urqub Tawq	FALSE
+Bi'r al Harjah	Kubat Ra's ar Rughaywi	FALSE
+Qulaybāt al Ḩamūd	Wadi al Hajalah as Sawda'	FALSE
+Karumat Babus	Bi'r Musib Bu Batinah	FALSE
+Ra's `Alam al `Izam	Ra's `Alam al `Izam	TRUE
+Bi'r Hamidah	Bi’r Ḩamīdah	TRUE
+Wādī ath Thulth	Wādī ath Thulth	TRUE
+Wadi al Khadam	وادي العقبة	FALSE
+Wadi al Furaykh	Wadi al Furaykh	TRUE
+Shu‘bat Nutayshīyah	Shu`bat Nutayshiyah	TRUE
+Wadi Maymun Misratah	Wadi Maymun Misratah	TRUE
+Bi'r Haqfat al Maraghah	Ḩaţīyat az Zarbī	FALSE
+Abyar `Awf	Abyar `Awf	TRUE
+Shu`bat al Harari	وادي المضيع	FALSE
+`Urqub Umm al Hunaywah	`Urqub Umm al Hunaywah	TRUE
+Tariq Masrab ar Rashadah	Tariq Masrab ar Rashadah	TRUE
+Jibāl al Faras	Az Zawwam	FALSE
+Abyār al ‘Izāzī	Khashm Malalah	FALSE
+Qarārat ‘Alam Bū Zayd	Abyar Bu Suruz	FALSE
+Wadi Bi'r al Ghanam	Wadi Bi'r al Ghanam	TRUE
+`Alam Irshah	Buḩayrat Ziyādah	FALSE
+Qulayb al Usaywid	Al `Aqrabiyah	FALSE
+Bi'r Butut	وادي المتلوي	FALSE
+تكاطنهل	Wādī az Zaghādinah	FALSE
+Wādī Mas‘ūdah	Wadi Mas`udah	TRUE
+Ghawţ Mībrā	Qarārat Bū aş Şayfī	FALSE
+Saqīfat Umm al Ḩaţyān	Sabkhat ar Raqţ	FALSE
+بئر تمر	Shaţīb Bū al Maqna‘	FALSE
+Abyār al ‘Uraybīyāt	Abyār al ‘Uraybīyāt	TRUE
+Bi'r Mas`ud Sukaytah	Minţaqat al Khuwaybīyah	FALSE
+Bi'r Lanqi	Saniyat al Jadidah	FALSE
+Qarat Shu`bat an Nab	Az Zarqān	FALSE
+Qur al Mihqan	Qur al Mihqan	TRUE
+Dur Sufan	Wadi al Musala`ah	FALSE
+Wādī al Muţawwi‘	Wādī al Muţawwi‘	TRUE
+Quwayrat al Waţīyah	Quwayrat al Waţīyah	TRUE
+Wādī ‘Īsá	As Safsaf	FALSE
+Bi'r Tajmal	Bi'r Tajmal	TRUE
+Bi'r al Abraq	Bi’r al Abraq	TRUE
+Kāf Wāsiq	Arḑ aş Şarr	FALSE
+Ru'ays al `Arkah	Al Masūfīyīn	FALSE
+Jabal Husayn	‘Ulaym aḑ Ḑubay‘	FALSE
+Bi’r al ‘Īsāwīyah	Ash Shāyibah	FALSE
+Al Hūdīyah	Al Hūdīyah	TRUE
+Shu`bat al Hirathah	Shu‘bat al Ḩirāthah	TRUE
+Shu`bat al Muhayqin	Shu‘bat al Muḩayqin	TRUE
+Bi’r az Zā’idīyah	Shu`bat al Murabit al Wasatiyah	FALSE
+Ash Shawish	Dur al Hariq	FALSE
+Sīdī Faraj	Zawiyat at Tilimun	FALSE
+Qalb Tanarut	Qalb Tanārūt	TRUE
+Bi’r Eddamar	Bi'r Eddamar	TRUE
+قبيلة المعمريين	قبيلة المعمريين	TRUE
+Qabilat al `Abadilah	Qulayb ad Daqiq	FALSE
+Abū Ţawīl	Ḩajāj ‘Akramah	FALSE
+Bi’r Umm al Ghizlān	Bi’r Umm al Ghizlān	TRUE
+Ash Shirnāfah	Ash Shirnafah	TRUE
+زاعموت الملح	زعموط الملح	TRUE
+Minţaqat ar Rimthāyah	Mintaqat ar Rimthayah	TRUE
+Wadi al Hamar	Wadi al Hamar	TRUE
+Wadi al Qaturah	Wādī al Qāţūrah	TRUE
+وادي ورديان	Wādī Umm al Hayjāt	FALSE
+Ghawţ al Muntaşir	Ghawt al Muntasir	TRUE
+Dūr ash Shi‘āb as Sūd	‘Ayn adh Dhabḩ	FALSE
+شعبة الطلح	Qararat Masasah	FALSE
+Sāniyat Bū Shārib	Wādī Bin Jibārah	FALSE
+Saniyat Tamzin	Sāniyat Ţamzīn	TRUE
+Hawá al ‘Abd	Hawá al ‘Abd	TRUE
+Wādī al Ḩallāb	Wādī al Ḩallāb	TRUE
+Bi’r al Jarīmah	Bi'r al Jarimah	TRUE
+Qārat ar Ruwayḩī	Jawf az̧ Z̧ahr al Aḩmar	FALSE
+Wādī ash Shumayshīr	Wadi ash Shumayshir	TRUE
+Minqar al `Ushsh	Wādī Sayḩ al Farjān	FALSE
+Qur al Husayyin	Sāniyat as Sa‘dāwī	FALSE
+Al `Uwayniyah	Qārat al Qaţī‘	FALSE
+Wadi Intahurahwayn	Dūr Bū Ruqaybah	FALSE
+أوباري	أوباري	TRUE
+Ra’s Bin ‘Abd Allāh	Wādī al ‘Anīn	FALSE
+Wādī Shamnah	Wādī Shamnah	TRUE
+Wādī al Bayāḑah	Wadi al Bayadah	TRUE
+Bi’r Ḩammālah	Sayḩ al ‘Utayq	FALSE
+Qabilat al Hanshir	Qabilat al Hanshir	TRUE
+Wadi Jarif	Wadi Jarif	TRUE
+Wādī ad Darājī	Wādī ad Darājī	TRUE
+Khawr al Qut`aniyah	Abyār Bū Şafīyah	FALSE
+Al ‘Uwaylīyah	Al ‘Uwaylīyah	TRUE
+Wadi Hawaz	Masak Mastafat	FALSE
+An Nafurah	An Nāfūrah	TRUE
+Bi’r al Ghallāz	Bi’r al Ghallāz	TRUE
+Bi'r Hasan al Hulayqimah	Wadi Ahar	FALSE
+Wādī al Jawāzī	Ash Shi‘āb al Ḩursh	FALSE
+Wādī Shanab	Wādī Shanab	TRUE
+Qabilat ar Rawashidiyah	Qabilat ar Rawashidiyah	TRUE
+Qārat Ziţwāl	ظهرة العقيبة	FALSE
+Minţaqat Sayḩ Awlād Muḩammad	Minţaqat Sayḩ Awlād Muḩammad	TRUE
+Haqfat Bu Ashnaf	Haqfat Bu Ashnaf	TRUE
+Wādī Bū Ḩaqfah	Wādī Bū Ḩaqfah	TRUE
+Wādī Quwayz	Ra's Bu Malih	FALSE
+Ghawţ adh Dhawīyāt	Ghawt adh Dhawiyat	TRUE
+Shaţīb al Juhaym	Shatib al Juhaym	TRUE
+Dur ash Shih	Dūr ash Shīḩ	TRUE
+Ra’s Wādī al Muqayniş	Bi'r Tamshin	FALSE
+Qulayb al Buḩayrī	Qārat as Sarj	FALSE
+Khurmat at Tarrādah	Khurmat at Tarradah	TRUE
+Qarat Umm adh Dhubab	Bi'r at Tawiyah	FALSE
+Ghawt Fanash	`Aqqar	FALSE
+Minţaqat al Kharīşah	Quwayrāt ‘Abd al Jalīl	FALSE
+Bi'r al Khubz	Qārat Darb Ghayzal	FALSE
+Qaryunus	حسي العقيلة	FALSE
+Ru'us Jibarah	Marsa az Zaytun	FALSE
+Wādī as Sūs	السرير الرملي	FALSE
+Bi’r Bayd	Bi'r Bayd	TRUE
+Khurmat an Niqār	Nāb al Fīl	FALSE
+Al Fāliḩah	Al Fāliḩah	TRUE
+Ashraf at Turki	Ashraf at Turki	TRUE
+Z̧ahr al ‘Ajā’iz	Wadi `Atwah	FALSE
+Qar`at Bu Layla	Qar`at Bu Layla	TRUE
+Qur al Milh	Qūr al Milḩ	TRUE
+Wādī al Ḩiqf	Wadi al Hiqf	TRUE
+Abyar Barir	Zahr ash Shaqqah	FALSE
+قرارة المعمورة	Dūr Umm ad Daḩī	FALSE
+Wādī az Zaghādinah	Marḩabā	FALSE
+Quwayrat al Kulayyat	Qarārat Muḩammad	FALSE
+وادي الهش	وادي الهش	TRUE
+Ghat	Mājin an Naqrāţah	FALSE
+`Urqub Tarqilat	Wadi Bu al Ghadir	FALSE
+Wādī `Usaylah	Wadi `Usaylah	TRUE
+Sayh Lawghi	Qārat at Tamām	FALSE
+Wadi Martubah	Shatib `Abd as Sayyid	FALSE
+وادي أم الرتم	وادي أم الرتم	TRUE
+Bi'r al Hammaliyah	Bi'r al Hammaliyah	TRUE
+Al Wadi al Kabir	Wadi Bu as Sayfi	FALSE
+Wadi Bu Shatriyah	Wadi Bu Shatriyah	TRUE
+Bi'r Bin Qinnad	Ghawţ Baqīl	FALSE
+`Ayn `Ali	معطن أم الدباديب	FALSE
+Bi’r ar Rijl	Bi'r ar Rijl	TRUE
+Al Hawiyat	Abyar al Khashab	FALSE
+Shu‘bat al Washkah	Shu`bat al Washkah	TRUE
+Qararat Bu Furay`ah	Qarārat Bū Furay‘ah	TRUE
+Wadi al Bakari	Wadi al Bakari	TRUE
+Ḩasy al Maqārīs	Hasy al Maqaris	TRUE
+Dur al Qar`ah	Bi’r Bū ‘Alī	FALSE
+Shu‘bat al Qiblīyah	Qararat Bashir	FALSE
+وادي طقيجة	طريق أم الباقل	FALSE
+Al Batrah	Shaţīb al Ghūlah	FALSE
+Shu‘bat aţ Ţuwayqah	Shu`bat at Tuwayqah	TRUE
+Balţat al Ḩamdah	Balţat al Ḩamdah	TRUE
+Wādī al Masīd	Wadi al Masid	TRUE
+بئر الجديدة	بئر الجديدة	TRUE
+Abyār Bū Māni‘	Abyar Bu Mani`	TRUE
+Nazwat al Jidariyah	Nazwat al Jidariyah	TRUE
+`Ilwat al Himarah	Mazra‘at Katarīllā	FALSE
+Wādī al Qudayḩ	Shu`bat Tanarut	FALSE
+Bi'r Shu`ayb Bu Maryam	Bi’r Shu‘ayb Bū Maryam	TRUE
+Sāniyat al Bu’ayrah	Sāniyat al Bu’ayrah	TRUE
+Tasāwah	Tasawah	TRUE
+Minţaqat Umm al Bāqil	Mintaqat Umm al Baqil	TRUE
+Abyar Falqum	Abyar Falqum	TRUE
+‘Uwaynāt Bāshkītū	دور الغاني	FALSE
+Qarārat Daff Wādī Bū Maras	Qarārat Daff Wādī Bū Maras	TRUE
+Wadi az Zawiyah	Wādī az Zāwiyah	TRUE
+‘Ayn al ‘Aqqār	Wādī Juwaylī	FALSE
+Wadi ar Raqiqah Abu Qarn	Wadi ar Raqiqah Abu Qarn	TRUE
+Ghawţ al Qasanţah	Qulminyā	FALSE
+Qaryat Mazzu	Qaryat Mazzu	TRUE
+Umm al Kur`an	Umm al Kur‘ān	TRUE
+Bi'r al Faqih `Abd al Qadir	Wādī Umm Khurayshīfah	FALSE
+Shu`bat Ghazi	Shu‘bat Ghāzī	TRUE
+Wadi al Kumir	Wadi al Kumir	TRUE
+Qarārat al Khaḑrā’	Qararat al Khadra'	TRUE
+Shu`bat an Nuzhah	Shu`bat an Nuzhah	TRUE
+Bi'r at Tayyib Bu Munayqir	Bi'r at Tayyib Bu Munayqir	TRUE
+Saniyat al Mufradiyah	Qaryat ar Rajmah	FALSE
+Tariq al `Alaqah	Ţarīq al ‘Alaqah	TRUE
+Mājin ash Shuţūr	Mājin ash Shuţūr	TRUE
+Bi’r ash Shitlū	Wādī al Maqarr	FALSE
+Ferdj Ouaberane	Bi'r Mashlakhah	FALSE
+Qulayb al ‘Anz	Bi’r al Muwaylim	FALSE
+Sarw al Mallahah al Bahriyah	Sarw al Mallahah al Bahriyah	TRUE
+دير الأبيض	دير الأبيض	TRUE
+Qārat al Khawd	Qārat al Khawd	TRUE
+Bi'r as Suwayhiliyah	Bi'r as Suwayhiliyah	TRUE
+Saniyat as Sanyurah	Nab al Fil	FALSE
+Raqubat ath Thawr	Raqubat ath Thawr	TRUE
+Wadi Umm al Janah	Abyār Qabr al Fulāni	FALSE
+Mintaqat al Khala'ifah	Minţaqat al Khalā’ifah	TRUE
+خور المريديمة	خور المريديمة	TRUE
+`Irq al Maraziq	`Irq al Maraziq	TRUE
+Bi’r Bū al Aḩmar	Wadi al Waddan	FALSE
+Al Farājīn	Wadi Naydur	FALSE
+Saqiyat al `Atf	Ghawţ al Kitāb	FALSE
+دور الطلحة	دور الطلحة	TRUE
+Abyar Bu Fudalah	Qabīlat ar Ramlah	FALSE
+قرارة وادي	Bi'r Tas	FALSE
+Wadi Umm al Gharar	Wadi Umm al Gharar	TRUE
+Bi'r al Hajj ash Shaybani	Al Muḩayshī	FALSE
+Wādī Thalāth	Wadi Thalath	TRUE
+Wādī Bū al Lijām	Defaa el Behima	FALSE
+Wadi at Tawabit	Wādī at Tawābīt	TRUE
+غوط القنابي	Shu`bat Umm al Barrim	FALSE
+Mintaqat Umm ar Raml	Bi’r ad Darbādah	FALSE
+Wadi al Haqq al Kabir	وادي تكنيون	FALSE
+Ghawţ al Qaşalah	Al Halq	FALSE
+Saniyat az Zahawiyah	Khashm al Mubayligh	FALSE
+Raqabat ar Ri’mah	وادي الخليج	FALSE
+Qararat at Takasir	Qārat al Fallāqah	FALSE
+Aḑ Ḑahr al Aḩmar	Aḑ Ḑahr al Aḩmar	TRUE
+Ra’s al Misallātī	Al Maqrūr	FALSE
+Wādī Umm al Abrāj	Wadi Umm al Abraj	TRUE
+Wādī ar Rashādah	Wadi ar Rashadah	TRUE
+‘Ayn al Faras	Wādī al Mu‘ayqil	FALSE
+Wādī Banī Walīd	Wadi Bani Walid	TRUE
+‘Urūq Harhārah	`Uruq Harharah	TRUE
+بئر أم الفأر	Qar`at Bishi	FALSE
+Wādī al Khayr	Wadi al Khayr	TRUE
+Sayḩ Naşrū	Bu Halasat al Harari	FALSE
+Khashm Sulaymān	Zahr al Haramat	FALSE
+Ţarīq ad Dalā‘īb	Tariq ad Dala`ib	TRUE
+Wadi Mas`ud	Wadi Mas`ud	TRUE
+عقيرة لعيور	Wādī Ḩamāmah	FALSE
+Qarārat Bin Sahbān	Qaşr ad Dīsah	FALSE
+Wadi Jarmah	Wādī Issar	FALSE
+Wādī Bū Rīfah	Wādī Bū Rīfah	TRUE
+Bi'r al Kharijah	Ghawţ al Khā’ib	FALSE
+`Ayn Fasat	ظهر الجل	FALSE
+Sayh al Ghazi	Sayḩ al Ghāzī	TRUE
+وادي سواقي الماجن	Ar Rahad	FALSE
+Shu`bat Umm as Sabt	Shu‘bat Umm as Sabţ	TRUE
+Wādī Shaţīb aţ Ţawīl	Wadi Shatib at Tawil	TRUE
+Qar‘at Rakhīş	Qar`at Rakhis	TRUE
+Wadi Bu ash Shiyah	Kāf al Mukaymin	FALSE
+Wādī Zaqqūţ	Wadi Zaqqut	TRUE
+Naqb Abu Sidrah	Wādī Lam‘ah	FALSE
+Qaryat Qaşr al ‘Ajūz	Qaryat Qaşr al ‘Ajūz	TRUE
+Turab Warimah	Turab Warimah	TRUE
+Ghawt at Tuji	Bi'r Rashid Bu Bakr	FALSE
+Wadi al Hulayy	Wādī al Ḩulayy	TRUE
+صبخة أم لحية	صبخة أم لحية	TRUE
+‘Alam al Maqātil	‘Alam al Maqātil	TRUE
+Wādī az Zuhayrah	Qararat al Ghuwayriq	FALSE
+Wādī Ma‘zūq	Wādī Ma‘zūq	TRUE
+Wādī al Warfallīyāt	Wadi al Warfalliyat	TRUE
+Bi'r Intahli	مسة	FALSE
+Wādī Sirţān	Bi’r Māziq	FALSE
+Majin as Sadiq Hashim	Ghawt Sulaytin	FALSE
+Shu`bat Ruday`at `Abd al Mawla	Shu`bat Ruday`at `Abd al Mawla	TRUE
+Qabilat Qidmissu	Qabīlat Qidmissū	TRUE
+Wadi al Karawan	Wadi al Karawan	TRUE
+Mintaqat al Hulayqimah	Al ‘Amāmirah	FALSE
+Wadi al Fat	Ghawt Bu Rifas	FALSE
+Wādī al Muqayniş	Wadi Daf` Salak	FALSE
+Ma‘ţan Baljū	Wādī Sayḩ al Muhrah	FALSE
+Wādī al Mu‘ayliq	Wadi al Mu`ayliq	TRUE
+Mintaqat as Sayla`	Bi'r Bu Shamal	FALSE
+Bi'r al Khadim	Bi'r al Khadim	TRUE
+دور أبو الأشلم	دور أبو الأشلم	TRUE
+Qūr Shi‘āb al Murābiţīn	Qur Shi`ab al Murabitin	TRUE
+Bi’r Murayyiḑ	Bi'r Murayyid	TRUE
+‘Ilwat at Tays	‘Ilwat at Tays	TRUE
+Wadi `Aqr ad Dabd	Wādī ‘Aqr aḑ Ḑabḑ	TRUE
+Milzan Far'un	Milz̧ān Far’un	TRUE
+رمل المرير	Qaryat al Quşaybāt	FALSE
+Il Garibaldi	Hisyan Dhakir	FALSE
+Bi'r Harf Sidi Salih	Mājin al Madhūn	FALSE
+Qarat at Taw'amah	Bi’r Makāyil	FALSE
+Al Ḩamrāt	شعبة أم عز	FALSE
+عرض دور الموقف	Wadi Mahdulah	FALSE
+رملة عقارب	Ra’s al ‘Unuq	FALSE
+سبخة المر	Qarārat Bū al Ḩayrān	FALSE
+Shāri‘ al Baḩrayn	Ramlat Ghurd at Turki	FALSE
+Wadi al Hashshanah	Wadi al Hashshanah	TRUE
+Wādī at Tamīmah	Nazwat an Nuwaydir	FALSE
+‘Arqūb Zukayr	Wadi Bu al Maryut	FALSE
+Wadi `Ayn Tud	Wādī ‘Ayn Tūd	TRUE
+Minţaqat al Mushayţ	Minţaqat al Mushayţ	TRUE
+Wādī Uri Dross	Wadi Uri Dross	TRUE
+As Sabkhah al Ḩamrā’	Wādī Thalāth Ḩizām	FALSE
+Wadi Qirrim	Wadi Qirrim	TRUE
+Wādī Qirzah	Quwayrāt Yūsuf	FALSE
+Qārat aţ Ţūbāt	Qārat aţ Ţūbāt	TRUE
+Abu Arba`in	Kahf az Zarār	FALSE
+Awlad Bu Jadid	Awlād Bū Jadīd	TRUE
+Wādī al Mu‘aydhir	Wādī al Mu‘aydhir	TRUE
+Al Khatitah	Al Khatitah	TRUE
+At Tajamut	At Tajamut	TRUE
+Qulayb at Tin	Bi’r Şubḩ	FALSE
+Lubb al Ḩamrā’	Lubb al Ḩamrā’	TRUE
+Qārat ar Razzah	Bi'r Abū Nujaym	FALSE
+Qararat Zuzu	Qararat Zuzu	TRUE
+`Ayn al Qatajah	‘Araq ‘Alī	FALSE
+Jibāl al Qaţţār	Jibāl al Qaţţār	TRUE
+Al Ashhab	Al Ashhab	TRUE
+Zawiyat at Tarit	Zawiyat at Tarit	TRUE
+بئر البغلة	Wādī Wilyān	FALSE
+Bi'r Bin Nasr	Bi’r Bin Naşr	TRUE
+`Ilwat Bu Ramimah	Ţarīq Wasīq	FALSE
+Bi'r al Hubay`ah	Ghadīr az Zurdah	FALSE
+Haqfat al Kawakhi	Shāri‘ as Sūdān	FALSE
+Shu‘bat al Ḩalfā’	Shu‘bat al Ḩalfā’	TRUE
+Qabilat Laghat	Qabilat Laghat	TRUE
+Qalb al Ḩawḑ	Kīshār	FALSE
+Oued Chaab er Rtem	Ash`ab al Ghazin	FALSE
+Wādī Zukayr	Wādī Zukayr	TRUE
+Mintaqat Bu Hawsh	Bi'r Bu Mas`ud	FALSE
+Ḩalq ar Ruḩaybah	Fawwar Wadi Wamis	FALSE
+Bi’r Dūfān	Bi’r Dūfān	TRUE
+Ra’s Sha‘īth	Wādī Zūfá	FALSE
+Quwayrāt Būhayrī	Quwayrat Buhayri	TRUE
+Abyār az̧ Z̧ill	Wādī al ‘Iqāl	FALSE
+Bi'r Khalifah `Ali	Wādī Zāzah	FALSE
+‘Ayn at Turk	Bu al Hawl	FALSE
+Tariq al Ghubayy	Ţarīq Umm Rukbah	FALSE
+Shi‘āb as Sūd	Shi`ab as Sud	TRUE
+وادي أم الرأس	Al Hīrah	FALSE
+Hamadat Qurrah	Bi’r Za‘farān	FALSE
+Qabilat Tayyib al Ism	Qabilat Tayyib al Ism	TRUE
+Wādī al ‘Unşulīyah	Wādī al ‘Unşulīyah	TRUE
+Fisqiyat al Qal`ah	Bi'r al Masbagh	FALSE
+سبها	شعبية سبها	TRUE
+`Urqub an Nukhaylah	‘Urqūb an Nukhaylah	TRUE
+Z̧ahrat al Ḩammādah	An Nawwaqiyah	FALSE
+Dūr Umm al Laban	Dur Umm al Laban	TRUE
+Wadi Umm al Judari	Wadi Umm al Judari	TRUE
+بئر القوارعة	Ath Thanīyah al Ḩamrā’	FALSE
+Shaţīb al Karm	Z̧ahr ash Shinz̧īrah	FALSE
+Ghadir ad Dibaghiyat	Ash Shūshah	FALSE
+Widyān Bū Rashādah	Jabal an Namus	FALSE
+Wādī ar Rawwāghah	Wādī ar Rawwāghah	TRUE
+Marhaba	Marḩabā	TRUE
+بئر قيلزان	Shaţīb al Karmah	FALSE
+القارات الربداء	Mawājin al Kamāmishah	FALSE
+Ar Rumayl	Ţarīq Mastūrah	FALSE
+Shatib Bu al Hashin	Musharrik Wadi ad Dawmaran	FALSE
+Thamad al Khā‘ib	Saqifat Umm al Hatyan	FALSE
+Bi'r az Zayy	Ratimat Suru	FALSE
+Ḩaqfat Z̧ahr al Ḩallāb	Ḩaqfat Z̧ahr al Ḩallāb	TRUE
+Shu‘bat Qabr Judayyi	Shu`bat Qabr Judayyi	TRUE
+Wādī al U‘aywij	Wadi al U`aywij	TRUE
+Wādī al Jinnīyah	Wādī al Jinnīyah	TRUE
+Bi’r Shūshīn	Bi’r Shūshīn	TRUE
+Al Burayghithat	`Irq al Qattus	FALSE
+Qarārat Shakk	Bi'r at Tallah	FALSE
+Wadi Waddan	Wadi Waddan	TRUE
+Ra's at Tahunah	وادي إراون	FALSE
+‘Ilwat Aḩmad	رأس خشم ستيرة	FALSE
+Bi'r Zaqzuq	Bi’r Zaqzūq	TRUE
+District de Tripoli	شطيب الحد	FALSE
+In Habartan	Bi'r Habs adh Dhur`ani	FALSE
+Dur Munish	Qarārat Umm Qulayb	FALSE
+Khashm Rahab	Khashm Raḩab	TRUE
+`Uyun al Birat	قبيلة القزير	FALSE
+Wādī ‘Aţwah	As Sumayţīyah	FALSE
+Wādī al ‘Ūj	Wadi al `Uj	TRUE
+Wadi as Samh	عرض دور الموقف	FALSE
+Dur Ghalbun	Dur Ghalbun	TRUE
+Ra's Qaddash	Tāzmarāyit	FALSE
+‘Ayn al Yatīmah	بئر تنابوكا	FALSE
+Qārat Ḩashīr	Saniyat al Khanyah	FALSE
+Ra's Mu`ayri	Bū Shaţīn	FALSE
+Wādī al ‘Unşul	Wadi al `Unsul	TRUE
+Quwayrat al Jibs	Quwayrāt al Jibs	TRUE
+Ghawţ Bū Fajrah	Ghawţ Bū Fajrah	TRUE
+وادي المسيد	Wādī as Sumayţīyah	FALSE
+Wadi Matratin	‘Ayn al Qāḑī	FALSE
+Wādī Wardayn	Ra's `Ammar	FALSE
+Wadi Fassanu	Wadi Fassanu	TRUE
+Wadi ash Shiqqah	Wadi ash Shiqqah	TRUE
+Qarārat Umm ad Dūd	Qarārat Umm ad Dūd	TRUE
+وادي أم الرتم البتيراء	وادي أم الرتم البتيراء	TRUE
+Wadi Buwayr al Khayl	عقيرة بو حزينة	FALSE
+Wādī al Ḩarīqah	Wadi al Hariqah	TRUE
+Ḩarf al Qubayrāt	Ḩarf al Qubayrāt	TRUE
+Wadi al Munaysiri	Mintaqat Umm ad Dananir	FALSE
+Wādī al Ghurābī	Wadi al Ghurabi	TRUE
+Qārat Trinzah aş Şaghīrah	Qarat Trinzah as Saghirah	TRUE
+Wādī Qurayyāt aş Şūf	Wadi al Hud	FALSE
+Adh Dhakir	Adh Dhakir	TRUE
+Bi'r `Ayt al Fadil	Wadi Umm al Kawm	FALSE
+Bi’r Ḩamādī	‘Alam al Ḩāsir	FALSE
+Hawa Bu an Nasir	Dūr az Zaḩālīq	FALSE
+Wān Zawātin	Wan Zawatin	TRUE
+Wādī Dāydabū	Wādī Dāydabū	TRUE
+Zahr al `Amm	Bi'r al Karashin	FALSE
+Qaryat al Bayyāḑah	Qaryat al Bayyāḑah	TRUE
+Ḩaţīyat Sayfan	Ḩaţīyat Sayfan	TRUE
+Wadi al `Urwah	Wādī al ‘Urwah	TRUE
+Al Marqabat	Bi'r an Nuqtah	FALSE
+Dūr al ‘Azā’iz	Wādī aţ Ţayrah	FALSE
+Mudiriyat al Qawasim	Mudiriyat al Qawasim	TRUE
+Qabīlat az Zintān al ‘Umyān	Qabilat az Zintan al `Umyan	TRUE
+Bi'r Bu ar Rahhal	Bi’r al Lāfī	FALSE
+Al Kasārah	Al Kasārah	TRUE
+Tariq Talans	Wadi in Ilobu	FALSE
+Wadi al Kabir	Wadi al Kabir	TRUE
+Wādī Shaqqat al Ḩamām	Bi'r Quraysin	FALSE
+Qulūb al Mutamanni‘āt al Qiblīyāt	Qulūb al Mutamanni‘āt al Qiblīyāt	TRUE
+Bi’r Awlād aş Şaqr	Bi’r Awlād aş Şaqr	TRUE
+Wādī Umm adh Dhi’āb	وادي الكندرة	FALSE
+Sāfil Ţawīl ‘Alī Bin ‘Alī	Bi’r al Majādhīb	FALSE
+Wadi `Uyun al Manzah	Wādī ‘Uyūn al Manzah	TRUE
+Dur Bin al Ashlam	Shu‘bat ar Ru’ays	FALSE
+خشم محمد	Ghawţ ar Rasīm	FALSE
+عيون غزيل	عيون غزيل	TRUE
+‘Ayn Saybānah	‘Ayn Saybānah	TRUE
+Bi'r az Zasar	ظهر قويرات الجرادة	FALSE
+Ghawt at Tayr	Ghawţ aţ Ţayr	TRUE
+Karūmat Bābūs	Ra's Tawil Qurat Misbah	FALSE
+Ma`tan Bisharah	Shatib Nuwarah	FALSE
+Al Quşūr	Al Qusur	TRUE
+Qabīlat az Zawā’id	Wadi Kabaw	FALSE
+Jarf Basāsah	Qarārat al Ubaytir	FALSE
+Quru` Shalandah	Quru` Shalandah	TRUE
+Khanqat al Ḩājj Sa‘īd	Wādī Zammūţ	FALSE
+Bi’r Bū Qīlah	Bi’r al Farjānī as Samīn	FALSE
+Egahar Mellen	Egahar Mellen	TRUE
+Wādī Umm at Tamām	Wādī Umm at Tamām	TRUE
+Mājin al Manāsilah	Bi'r al Humayra'	FALSE
+حطية مدوين	حطية مدوين	TRUE
+Bi'r Mas`ud	Bi'r Mas`ud	TRUE
+Mukhayyam an Nift Zillah	Mukhayyam an Nifţ Zillah	TRUE
+ماجن أخمين	Sāniyat al Fahdīyan	FALSE
+`Ayn al Wasif	`Ayn al Wasif	TRUE
+Bi'r al Kharash	Bi’r al Kharash	TRUE
+Qabīlat al Ḩājj	Qabīlat al Ḩājj	TRUE
+Saniyat ash Shafa'	Tirqādah	FALSE
+Qabīlat az Zurayqī	Wadi Maliyah	FALSE
+Mintaqat al Hiqfah	Minţaqat al Ḩiqfah	TRUE
+Wādī al Widād	Wādī al Widād	TRUE
+Wādī Zakākīr	Wadi Bu al Humayyim	FALSE
+Wādī al Mardūm	Wādī al Mardūm	TRUE
+Bi’r ‘Abd ar Rāziq	Bi’r ‘Abd ar Rāziq	TRUE
+Bi'r al Hadd	Bi'r al Hadd	TRUE
+Qur ar Ruhaybat	Ru’ūs Ţiwāl Birārish	FALSE
+جبل الجاف	Bi’r al ‘Awāmir	FALSE
+Ra’s Miqrāḩ	An Nuqayrāt	FALSE
+Jazirat al `Ulbah	Jazīrat al ‘Ulbah	TRUE
+Al Firţāsah	Al Firtasah	TRUE
+Wadi al Mukaysir	Ra's Julyanah	FALSE
+وادي الرغوية	Mudīrīyat Jādū	FALSE
+Ghawt al `Uwaylah	Ma‘ţan al Majhūr	FALSE
+Al Ghabī	Al Ghabī	TRUE
+Ra’s al Ḩimār	Ra's al Himar	TRUE
+Bi'r Tarkhsayah	Ghawţ al Kitāb	FALSE
+Qārat al Qaţ‘	Qārat al Qaţ‘	TRUE
+Bi'r Sidi al Kaylani	Oued el Hammada	FALSE
+وادي الصحن	وادي الصحن	TRUE
+Bi’r ash Shuḩayţ	Bi'r ash Shuhayt	TRUE
+Wadi Bu ash Shuquq	Wadi Bu ash Shuquq	TRUE
+Ghawt Kirbasah	Qaryat Qarat	FALSE
+وادي أم التبايع	Qaryat al Fayasilah	FALSE
+Ma‘ţan ar Riyāḑīyīn	Wādī Sūq an Nakhlah	FALSE
+Qaryat ar Rus	Wadi Jalajil	FALSE
+Ţawīl al Bashīyah	Ţawīl al Bashīyah	TRUE
+Mintaqat Awlad `Ali	Bi'r Iasco	FALSE
+Qarārāt as Sabī	Qararat as Sabi	TRUE
+Ghawt Marqab al Hamamah	Mabruk	FALSE
+Ḩawḑ as Sadīrah	Hawd as Sadirah	TRUE
+Bi’r Hāghiyah	Bi’r Hāghiyah	TRUE
+Majin Sashi Muhammad	Shari` al Jaza'ir	FALSE
+معطن بنت طفل	Qaryat al Ja‘āfirah	FALSE
+Qabilat Awlad Tantush	Wadi Qar`at an nawa'il	FALSE
+ثمد الخويمة	Mudawwar al `Iqal	FALSE
+Bi'r Raqm Arba`ah	Bi’r Raqm Arba‘ah	TRUE
+Dūr al Qar‘ah	Dur al Qar`ah	TRUE
+Murayjāt al ‘Adāyil	Saqifat Umm al Hatyan	FALSE
+Wādī al Qalanzah	Bi'r al Wuzaygh	FALSE
+Bi'r Sulayman	Kuda Bu Ma`un	FALSE
+Ghurd Bū Fāţimah	Ghurd Bu Fatimah	TRUE
+Al Maqalib	Qabīlat Awlād Zā’id	FALSE
+Ḩajāj al ‘Adam	Ḩajāj al ‘Adam	TRUE
+Ghawţ al Barqī	Jīrīyat ‘Alī	FALSE
+Ma‘ţan an Naghār	Habit al Ghardaqah	FALSE
+Bi’r al Maghārāt	وادي ورورق	FALSE
+Bi’r Qaţājah	Wādī Zukayr	FALSE
+Wādī Sa‘dah	Wadi an Narman	FALSE
+Wādī al Abyaḑ	Qabīlat al Qanawāt	FALSE
+Bi’r Ta‘shīrah	Bi'r Ta`shirah	TRUE
+Hasy Umm an Naqdah	Balţāt Muḩammad	FALSE
+`Ayn al Karimah	‘Ayn al Karīmah	TRUE
+Wadi al Murrah	Wādī al Murrah	TRUE
+Kaf Kaww	Qararat `Urayyif	FALSE
+Jarmah	Ra’s Qalīb ‘Azīz	FALSE
+Wadi Suwaybi`	Bi’r Qarārat Awlād Wāfī	FALSE
+Sāḩat ad Dirbās	Sāḩat ad Dirbās	TRUE
+وادي الجبيرد	‘Ayn Zaqqūţ Ḩammūdah	FALSE
+Jabal al Juhaysh	Jabal al Juḩaysh	TRUE
+Z̧ahr ash Shuhaybāt	Z̧ahr ash Shuhaybāt	TRUE
+Qabīlat az Zawāyā	Qabilat az Zawaya	TRUE
+Ma`tan Salimah	Ma`tan Salimah	TRUE
+Al Mashashitah	Al Mashāshiţah	TRUE
+Baltat Lawlab al Halq	Balţāt Lawlab al Ḩalq	TRUE
+Qararat Bu al Hayran	Qararat Bu al Hayran	TRUE
+Wādī Abū Nītah	Khurmat ath Thanīyah	FALSE
+رملة غرد التركي	Wadi as Sarurat	FALSE
+Wādī Warfallah	Wādī Warfallah	TRUE
+Bi’r ar Raml	Bi'r ar Raml	TRUE
+Wādī Umm al Baqar	Wādī Umm al Baqar	TRUE
+Qarat Jab Allah	Al Mu‘ayzīl	FALSE
+Qārat ash Shurayfīyah	Qārat ash Shurayfīyah	TRUE
+شارع احمد رفيق	Aş Şaffāq	FALSE
+Abyār Abū Nuwātah	Abyar Abu Nuwatah	TRUE
+Wādī ad Dam	Wādī ad Dam	TRUE
+Wādī Barāţis	Al Jabal al Wasţī	FALSE
+Wadi az Zaniqah	Wādī Dawḩ	FALSE
+Al Quwayrat as Suwayda'	وادي تجمل	FALSE
+‘Urqūb ar Rimth	Wadi Talantu	FALSE
+Wādī Bū Zāhiyah	Wādī Bū Zāhiyah	TRUE
+Qabīlat ash Shi‘āfīyīn	Qabīlat ash Shi‘āfīyīn	TRUE
+Qawz al Farid	Qawz al Farīd	TRUE
+Wasin	مصران المفطم	FALSE
+Qaryat ar Ramlah	Qaryat ar Ramlah	TRUE
+Ra’s Jūlyānah	Ra's Julyanah	TRUE
+Mājin Sa‘d Idrīs	Majin Sa`d Idris	TRUE
+Majin Abu Sittah	Wadi as Sinn	FALSE
+Wadi Sarkah	جردس الجراري	FALSE
+Al `Aql	Al `Aql	TRUE
+Wadi al Matarah	Wadi al Matarah	TRUE
+Ra’s as Sayyid Ḩasan	Ra’s as Sayyid Ḩasan	TRUE
+Shushat al `Abd	Abyār al Jamīl	FALSE
+Bi'r al Jukhkh	Bi’r al Jukhkh	TRUE
+Majin Tamzin	Wadi al Bumah	FALSE
+Ghawţ ash Shahrīz	Ghawţ ash Shahrīz	TRUE
+Al Qālib	Wadi al Majdamah	FALSE
+Wadi ath Thu`aybin	Bi'r al Ghadri	FALSE
+Wadi at Tarfawi	Wādī Būzāzah	FALSE
+Wadi Samir	Wādī Sāmir	TRUE
+Huzanufu	Huzanufu	TRUE
+Saddat ad Dabīkah	مدينة بياض	FALSE
+Ţawīl an Nūwār	Tawil an Nuwar	TRUE
+Wādī al Maqţa	Duwayrat ar Ratam	FALSE
+Wādī Bū Zanqūq	Wādī Bū Zanqūq	TRUE
+Bi’r az Zuḩayḩīf	‘Ayn al Ḩasy	FALSE
+Balţat ash Shakhātīr	قرية جروفة	FALSE
+Dur al `Aza'iz	Dūr al ‘Azā’iz	TRUE
+Wadi at Tulillah	Wādī aţ Ţūlillah	TRUE
+ﺑﻠﺪﻴﺔ أجدابية	ﺑﻠﺪﻴﺔ أجدابية	TRUE
+Sāniyat al Abqār	Ţawīl ar Rabā’i‘	FALSE
+Shu‘bat Umm al Jafjaf	Thamad Naqb at Tin	FALSE
+منطقة المعقل	Wādī Miḩrār	FALSE
+Mudawwarat al Hulayy	Mudawwarat al Hulayy	TRUE
+Bi’r an Nāmūs	Bi'r an Namus	TRUE
+Wādī al Jurayfāt	قارة السلطان	FALSE
+Tirqādah	Al Qanyū‘ah	FALSE
+Wadi Warghan	حسي العقيلة	FALSE
+Bi'r al Hajj Abu Bakr	Qarārat Sarw ar Ratamah	FALSE
+Bi’r ash Shitlū	Bi’r ash Shitlū	TRUE
+Bi'r al Hajj Mabruk	Wadi al `Izbiyah	FALSE
+Wadi al Qaliyah	Wadi al Qaliyah	TRUE
+Jilf al Kharrubah	Wadi az Zimam	FALSE
+Qararat Naji	Al Qarārah al Bīḑ	FALSE
+Shu‘bat Ţāwulūn	Mintaqat Bu Khuff	FALSE
+`Uwaynat al Qata	Bi'r `Ammar	FALSE
+رأس الخيمة	Abū ar Rīsh	FALSE
+Bi’r ‘Azzūz	Bi'r `Azzuz	TRUE
+‘Urqūb Tāmiskit	Ru’ūs ar Rijāl	FALSE
+Birkat al Maqţa‘ah	Birkat al Maqta`ah	TRUE
+Jabal Bu `Aqilah	تمدة قبر صالح	FALSE
+Wadi Umm Qiladah	Wadi Umm Qiladah	TRUE
+Ra's Bin Sultan	Ra's Bin Sultan	TRUE
+Ghawţ as Sulţān	Bi’r al Qūman	FALSE
+وادي أم الرمل الواطئ	Mintaqat Mahjub Milad	FALSE
+Al Qatrun	Al Qaţrūn	TRUE
+Wādī ad Duwayrah	Wadi ad Duwayrah	TRUE
+Wādī ash Shadīdah	Al Mulay‘īb	FALSE
+Jabal al Juḩaysh	Asbī‘ah	FALSE
+Wadi at Tin	نخلة سالمة	FALSE
+Qārat Umm al Bāqil	Qarat Umm al Baqil	TRUE
+Qabilat al `Ama'im	Khashm al Mataryun	FALSE
+Qa`rat Waranzah	Menelao Bay	FALSE
+Ghawţ al Ḩakāk	Ghawt al Hakak	TRUE
+بئر ماسن	Mintaqat al Bumbah	FALSE
+Sāniyat az Zukayrīyah	Saniyat az Zukayriyah	TRUE
+Halq al `Abd	Ḩalq al ‘Abd	TRUE
+Wadi bil Jibal	Ghawţ ash Sharārah	FALSE
+Wādī Ighīrāghirīwan	Qa`rat al Mahmal	FALSE
+Ḩaţīyat az Zarbī	Ḩaţīyat az Zarbī	TRUE
+دور الرويان	Al Ḩarārīyah	FALSE
+Sayḩ an Nadūrah	رمل المرير	FALSE
+Shu`bat al Qati`ah	Shu‘bat al Qaţī‘ah	TRUE
+Qaşr Aḩmad al Qiblīyah	Ghawţ al Arnab	FALSE
+Qarat Umm al `Asal	بئر العزاز	FALSE
+Wādī Umm Ḑab‘ah	Qarārat al Faras	FALSE
+Bi’r al ‘Uwayjāt	Wadi Maz`urah	FALSE
+Turūnzah	Bi’r Manşūr	FALSE
+Wadi Bu Qurayf	Wādī Bū Qurayf	TRUE
+Qasr an Nufayl	Qasr an Nufayl	TRUE
+Brak	Birāk	TRUE
+Al Marmūtah	الجزيرة	FALSE
+لود الرملة	الخضر	FALSE
+Arḑ Rāmis	Arḑ Rāmis	TRUE
+دور بن قنفود	Bi’r Jayma‘ānah	FALSE
+Wādī Umm al ‘Arā’is	Wadi Umm al `Ara'is	TRUE
+شارع الحجاز	Dūr Bū Khurmah	FALSE
+Ḩaţīyat ar Rīsh	Hatiyat ar Rish	TRUE
+Shu`bat al Fudah	Shatib Ummahat al Hallab	FALSE
+Baladīyat al ‘Azīzīyah	Bi'r `Ammar	FALSE
+وادي نيناة	Bi'r Salih Bin Mas`ud	FALSE
+Sarir Bin `Affin	Balāţ aḑ Ḑa‘īf	FALSE
+Shuţbān az Zuwaytīnāt	Ghawt an Na`jah	FALSE
+At Tallab	Ḩaqfat ‘Abd al ‘Az̧īm	FALSE
+Qabīlat Qidmissū	Qabīlat Qidmissū	TRUE
+Wādī an Naşr	Wadi an Nasr	TRUE
+Ghawţ al Ḩasan	Marsīţ	FALSE
+بئر شعاب الرمت	Bi'r al Jahmah	FALSE
+دفة القصير	Wadi Jashalam	FALSE
+Masna` al Kanadir	Maşna‘ al Kanādir	TRUE
+Thimad Jahannam	Bi'r Zimam	FALSE
+Tawil al Mishfah	Tawil al Mishfah	TRUE
+Bi’r al Ibil	Qabilat al `Ashiniyah	FALSE
+Qarat an Nubiyat	جبل زنككرة	FALSE
+Ad Dayāsīr	Ad Dayasir	TRUE
+وادي شبولي	Zahrat al Himarah	FALSE
+Sāqiyat al Mukhayzin	Ratīmat Şūrū	FALSE
+Bi'r Abū Nujaym	Bi'r Abu Nujaym	TRUE
+سيدي سالم	سيدي سالم	TRUE
+Saqifat al Khuwayr	Saqifat al Khuwayr	TRUE
+Washkat Bu Kisah	Wādī an Naghghār	FALSE
+Bi'r ad Dalisi	Aţ Ţarīq ad Dā’irī ar Rābi‘	FALSE
+Bi'r al Maliz	Bi'r al Maliz	TRUE
+Mafraq at Turuq	زاوية المحجوب	FALSE
+`Ayn Umm al Kharaj	`Ayn Umm al Kharaj	TRUE
+Shu`bat Umm ar Ratam	Shu`bat Umm ar Ratam	TRUE
+بئر حلب	Abyār at Turghul	FALSE
+Az Zalallah	Az Zalallah	TRUE
+Wadi ar Raqd	Wādī ar Raqd	TRUE
+Al `Alawinah	Al ‘Alāwinah	TRUE
+Bi'r Shufayfah	Bi’r Shufayfah	TRUE
+Wādī ‘Anbasah	Wadi `Anbasah	TRUE
+وادي الترقدة	Mājin Bin Rawīn	FALSE
+Bi'r al Malihah	Bi’r al Malīḩah	TRUE
+Bi’r al Lawlab	Bi'r al Lawlab	TRUE
+Bi’r al Jāziwīyah	Abū Qaşabah	FALSE
+Hasy Injiwal	Barqah al Hurrah	FALSE
+Mintaqat ar Ramliyah	Mintaqat ar Ramliyah	TRUE
+Jaddat Hurat `Ayyad	Jaddat Hurat `Ayyad	TRUE
+Wādī aş Şulayb	Wadi Riznah	FALSE
+Dūr al Fuhūdah	Dur al Fuhudah	TRUE
+Bi'r al Mufaltam	Bi’r al Mufalţam	TRUE
+سانية الخنقة	Bi’r Jadīd Awlād Şūlah	FALSE
+Bi'r ash Sharifiyah	Ra's al Maqrun	FALSE
+وادي الشميشير	Bi’r al Jadīdah	FALSE
+محافظة درنة	Abyar al `Uwayniyah	FALSE
+Wadi al Kharrubah	Wadi al Kharrubah	TRUE
+Wādī ash Shaqlūf	Wadi al Qattalah	FALSE
+Wādī al Furaysh as Sāmiḩ	Tammat ar Razqī	FALSE
+حي الزيتون	حي شعبية الزيتون	TRUE
+Wādī ad Duraydīḩah	Ghawţ Bū Samāḩ	FALSE
+Ra’s Abū Ţawīl	Ra's Abu Tawil	TRUE
+Qārat al Qadqādīyah	قور المقيل	FALSE
+Bi'r Abu Hidmah	Wudayy al Kharīţ	FALSE
+Minţaqat al Ḩulayqīmah	Mintaqat al Hulayqimah	TRUE
+Qararat Musa	Dhirā‘ Bin ar Rakwah Wa Mighrār	FALSE
+‘Ayn Jānī	Wādī al Jaysh	FALSE
+Al Basus	Qararat Umm al Jidariyah	FALSE
+وادي إن كمد	Ra’s Bū Wushaykah	FALSE
+Shatib Bin ar Ramram	Dur `Aqarat Bu Bakr	FALSE
+Wādī Umm ar Raml	Wādī Umm ar Raml	TRUE
+Wādī ar Raqīq	Wadi ar Raqiq	TRUE
+وادي أم العرائس	وادي أم العرائس	TRUE
+رأس الأبواب	Al ‘Azzābīyah	FALSE
+Dur al Qaf	بئر الكلاب	FALSE
+Ma`atin al Jarazi	Wādī al Maghribī	FALSE
+Bayy al Kha'ib	Wadi Sidrat al Hajj	FALSE
+Shatib Darmam	Shaţīb Darmām	TRUE
+Bi’r al Mukaymin	Bi’r al Mukaymin	TRUE
+Sūq as Sabt	Suq as Sabt	TRUE
+At Taqlīt	Z̧ahr al Ghabaḩ	FALSE
+Wadi Hamad	Qaryat Qunfūdhah	FALSE
+Minţaqat al Jūrah	Wādī al Mayyit	FALSE
+Ru’ūs Ţiwāl al Ḩumayrah	Ru’ūs Ţiwāl al Ḩumayrah	TRUE
+‘Aqīrat Qaşr Maryam	`Ayn Shushan	FALSE
+Sāniyat Umm al ‘Ajram	Saniyat Umm al `Ajram	TRUE
+Shari` Thalathah wa `Ishrun Yuliyu	Kaf Abu `Ubayd	FALSE
+Wādī al ‘Adhab	`Ilwat al Mushraf	FALSE
+Al ‘Amāmirah	Al ‘Amāmirah	TRUE
+Ramlat al Bayabisah	Ramlat al Bayābisah	TRUE
+Qararat al Mandil	وادي العراد	FALSE
+Bi'r al Mirhan	Wādī Lamzū	FALSE
+Sadr as Suf	Sadr as Suf	TRUE
+`Ilwat Umm Haniyah	Wadi al Yahud	FALSE
+Qunan adh Dhirā‘	Wadi ash Shuquq	FALSE
+Bi’r al ‘Ālim	Wādī ‘Afris	FALSE
+Mintaqat Wadi Kalanshah	Shu`bat Ruwahah	FALSE
+Qabīlat ash Shuḩūm	Qabīlat ash Shuḩūm	TRUE
+Ghawţ al Jall	Tariq Mugharghar	FALSE
+Wamis	Wamis	TRUE
+Al Barakin	Al Barakin	TRUE
+Ash Shahirah	Ash Shahirah	TRUE
+Al Qum‘īyah	Wadi an Nushu`	FALSE
+Bi’r al Karārīm	Bi'r al Kararim	TRUE
+Qar` al Khayl	Qar` al Khayl	TRUE
+Wadi al Karus	Wādī al Karūs	TRUE
+Wādī al Wudayy	Bi’r Bū at Tuyūs	FALSE
+Wadi ar Rabah	Wādī ar Rabāḩ	TRUE
+Qārat ar Rāḩilah	Majin as Saqifah	FALSE
+Qarārat Bū Quşşah	Qararat Bu Qussah	TRUE
+Wadi Umm Alfayn	Wadi Umm Alfayn	TRUE
+Wadi Rabi`	Wadi Rabi`	TRUE
+Awlad Khalifah	Awlad Khalifah	TRUE
+Khurmat al Khaddamiyah	Khurmat al Khaddamiyah	TRUE
+Wadi Bu Sanib	Wādī Bū Şanīb	TRUE
+Wādī al Khaţrah	Wādī al Khaţrah	TRUE
+Wādī al Masīn	Wadi al Masin	TRUE
+Jabal as Sawda'	Jabal as Sawda'	TRUE
+Bi'r Umm al Khashab	Ru'us al Qayd	FALSE
+جبل الرؤيسات	Qabīlat al Hayyāj	FALSE
+Al Ḩunayyāt	Al Hunayyat	TRUE
+Wadi Mintaqat al Fa'id	Wadi Mintaqat al Fa'id	TRUE
+Shu‘bat Umm al Jarfān	Shu‘bat Umm al Jarfān	TRUE
+Bi'r Sulayman	Bi’r Sulaymān	TRUE
+Wahat Jalu	Al Qazzān	FALSE
+Ra’s al Khalīqah	Ra's al Khaliqah	TRUE
+Qararat al Qubaybah	Wādī Tīlah	FALSE
+شعوا	Jabal al ‘Arrāshīyah	FALSE
+Qarārat Umm az Zubdah	Qarārat Umm az Zubdah	TRUE
+Bū ‘Urqūb	Bū ‘Urqūb	TRUE
+Ḩasy Bū Ḩamādī	Hasy Bu Hamadi	TRUE
+رأس غريب زلواز	Saniyat Saq `Abd Allah	FALSE
+Bi’r al Aşfar	Bi'r al Asfar	TRUE
+Wādī Bū Ḩawsh	Wadi Akakus	FALSE
+`Ayn Bunayyah	`Ayn Bunayyah	TRUE
+Ḩamrāyat al Jābī	Wādī Banī Walīd	FALSE
+‘Aqīrat al Bambah	‘Aqīrat al Bambah	TRUE
+Saniyat al Mahruqah	Saniyat al Mahruqah	TRUE
+As Suwayda'	As Suwaydā’	TRUE
+Qūr al Matāqī	Shari` al Jamahiriyah	FALSE
+Bi'r Bu Rayal	`Ayn Bu Shiktu	FALSE
+Al Fawadil	Khashshat Tandimmīrah	FALSE
+Wadi at Tawamij	Wādī at Tawāmij	TRUE
+Ra’s al Maḩārīq	Washkat al Khushaybat	FALSE
+وادي رتمة الجلابة	Mājin Baqqī	FALSE
+Ţarīq Zallah	Tariq Zallah	TRUE
+دور المائلة	دور المائلة	TRUE
+Burūz	Buruz	TRUE
+`Arqub Zakakir	Bi'r Sidi `Ali	FALSE
+Wadi al Khunay`	Shu‘bat Rāfi‘	FALSE
+منقار بو شيحة	منقار بو شيحة	TRUE
+Al ‘Uwaynāt	‘Uwaynat Şulay‘ah	FALSE
+Nuwayzirat ad Daffah	Al Khaşāş	FALSE
+الكفرة	Wādī al Kabb al Gharbī	FALSE
+Ghawţ Bumbah	Ghawţ Bumbah	TRUE
+Shaţīb al Jarrāy	Tawil Hamid Bu al Qasim	FALSE
+Bi'r Yusuf	Wādī an Niyān	FALSE
+Sāniyat al Kawādīk	Saniyat al Kawadik	TRUE
+Minţaqat al Qidlah	Minţaqat al Qidlah	TRUE
+Bi’r al ‘Aţash	Bi’r al ‘Aţash	TRUE
+بئر الكدادبة	Bi'r al Lubb	FALSE
+Wādī Bū Ḩimār	Wādī Bū Ḩimār	TRUE
+Wādī Sāqiyat al Faras	Wadi Saqiyat al Faras	TRUE
+Baltat al `Uqdah	Wadi Bin Ghanimah	FALSE
+قرارة الهنزاب	قرارة الهنزاب	TRUE
+Qarār aḑ Ḑabb	Qarar ad Dabb	TRUE
+Aş Şafşāf	Aş Şafşāf	TRUE
+Wādī Tamshīn	Yafran	FALSE
+`Ayn `Arabiyat	‘Ayn ‘Arabīyāt	TRUE
+Wān Tibrīt	Wisādān	FALSE
+Al Qirbajiyah	Al Qirbājīyah	TRUE
+Shatib az Zahaliq	خرمة محبوبة	FALSE
+Bi’r al ‘Uwayjāt	Wadi Mukaymin ar Rawaj	FALSE
+مصران السوس	Wadi al Ghuwayl	FALSE
+Bayy al Khā’ib	Bayy al Khā’ib	TRUE
+منقار القبر	منقار القبر	TRUE
+Bi’r al Khaţīţah	Bi'r al Khatitah	TRUE
+Wādī al Masadd	Abyār al ‘Iqāl	FALSE
+Sāniyat ash Shuyyāb	Bi’r Izāz	FALSE
+Bi'r as Siyutah	Bi'r as Siyutah	TRUE
+Wādī al Kūr	Wadi al Kur	TRUE
+Ghawt ash Shuhaymat	Wadi Hurayz	FALSE
+Wadi al Barbis	Al Ḩanāyā	FALSE
+Qurū‘ Bin Saḩbān	Quru` Bin Sahban	TRUE
+Wādī Umm al ‘Aqārib	Wadi Qar`at al Martum	FALSE
+Ḩajāj al Baqar	Qulayb al Ma'	FALSE
+Wadi Sayh at Tall	Qārat as Sarīf	FALSE
+Bi’r ‘Uqlat al Jufayrāt	Bi’r ‘Uqlat al Jufayrāt	TRUE
+Qabilat Awlad Murghum	Wadi al `Uwaynah	FALSE
+Wadi Umm al Qilmam	Wadi Umm al Qilmam	TRUE
+Bi'r an Nuriyah	Bi’r an Nūrīyah	TRUE
+Mājin ash Shaykh Muḩammad ‘Akkāsh	Ghawţ Bū Mījanah	FALSE
+Bi'r Tarkhsayah	Shu`bat Badarthan	FALSE
+Wadi al Maqarr	Qārat Khalaf Allāh	FALSE
+Al Fuqar	Bi’r al Ḩājj Mabrūk	FALSE
+Ghuwayt `Umar	Ghuwayt `Umar	TRUE
+Bi’r ‘Arīfīyah	Bi’r ‘Arīfīyah	TRUE
+Qaza`at al `Anz	Ghawţ al Qayqab	FALSE
+Wādī ‘Āmir	Wādī ‘Āmir	TRUE
+Naqb Qirbah	Qarat Wadi al Fariq	FALSE
+Qārat ar Rabā’i‘	Qarat ar Raba'i`	TRUE
+Bi'r al Qara	Bi'r al Qara	TRUE
+Qabīlat Dirsūnah	Qabilat Dirsunah	TRUE
+Shu‘bat Lāllah	Bi'r al Birak	FALSE
+Qabīlat al Khitnah	Qabilat al Khitnah	TRUE
+طويل المشفة	طويل المشفة	TRUE
+‘Ayn Zaydān	‘Ayn Zaydān	TRUE
+Wādī Umm ar Ratam	Wādī Umm ar Ratam	TRUE
+Qārat al Bayḑā’	Shaţīb ar Ramrām	FALSE
+Shu‘bat al ‘Aqīrāt as Sawdā’	Bi'r al Julaydah	FALSE
+Wadi al Manastir	Ash Shu‘bah al Bayḑā’	FALSE
+Bi’r al Jadīd	Bi’r al Jadīd	TRUE
+Daffat Jaffalah	Daffat Jaffālah	TRUE
+Ra’s aş Şayyād	Wadi al Ukhaydir	FALSE
+Qabīlat al A‘bābah	Ghawţ Idrīs	FALSE
+Ra’s Umm Nāşir	Ra’s Umm Nāşir	TRUE
+Baltat al Baram	Balţāt al Barām	TRUE
+Wadi Sidi Gharib	Wadi Sidi Gharib	TRUE
+Ra's Baqas	Ra's Baqas	TRUE
+Saniyat Mukhtar	Saniyat Mukhtar	TRUE
+Shu‘bat Siwārah	Shu`bat Siwarah	TRUE
+Wādī aş Şukhūr	Shu`bat an Niza`	FALSE
+Khirbat al Barāhimah	Wadi Sayh an Nisa'	FALSE
+Ra’s Zallūm	Ra's Zallum	TRUE
+Barqawi	Wādī Jum‘at Qarmāt	FALSE
+Mashhad al Qaşīr	Mashhad al Qaşīr	TRUE
+Baldat Awlād Mīlād	Abyar Bu Sha`rayah	FALSE
+Wādī Bilāqah	Wādī Bilāqah	TRUE
+Wādī al Ḩaqq aş Şaghīr	Wadi al Haqq as Saghir	TRUE
+Bi’r Bū ad Darrāj	Abyar al Musayfiq	FALSE
+Bi'r al Jarrari	Bi'r al Jarrari	TRUE
+Widyan Khadabikh	Widyan Khadabikh	TRUE
+Bi'r Qasr al Buraykah	Qarat Umm Tanash al `Alam	FALSE
+Qararat al Ghulah	Wādī al Injāşah	FALSE
+Wādī Rubayḩ	Wādī Rubayḩ	TRUE
+محافظة الجبل الاخضر	الجبل الاخضر	TRUE
+Widyān ath Thaklá	Widyan ath Thakla	TRUE
+Qar`at Bishi	Buḩayrat Ziyādah	FALSE
+`Aqirat al Harth	Mudīrīyat al Mukhaylá	FALSE
+Bi’r Ţaywā’	Bi'r Taywa'	TRUE
+`Aqirat Shuwayyah	`Ayn al Kabirah	FALSE
+Bi'r Jubayr	Bi'r Jubayr	TRUE
+Kāf Umm aḑ Ḑab‘	‘Ayn ar Ramā’iḩīyah	FALSE
+Wādī Umm ar Rīsh	Qur al Miqyal	FALSE
+Wādī Bin Kharfītah	Wādī Bin Kharfītah	TRUE
+Bi’r Lanqá	Bi'r `Ayt Shinnib	FALSE
+Majin al Kudwah	Ramlat al Qazzun	FALSE
+Wādī adh Dhakkārah	Bi'r al Julaydah	FALSE
+Lajwá	Qalb Thamad ‘Ulaywah	FALSE
+دور بو أثلة	Birkat an Naţ‘	FALSE
+‘Ilwat al Ḩājj	Jabal al Abyad	FALSE
+Wadi al Ma`murah	Minţaqat al Balālī‘	FALSE
+وادي قبر جمعة	Qarat Bu Dhuhaybah	FALSE
+Bi’r al ‘Iyārī	Bi’r al ‘Iyārī	TRUE
+Widyān ath Thaklá	Widyān ath Thaklá	TRUE
+قلب سوق العجاج	Jabal al Ahrar	FALSE
+Shaţţ al Jarad	Bi'r Zawa	FALSE
+Bi’r al Khawr	Bi'r al Khawr	TRUE
+Shatib al Qist	Shaţīb al Qisţ	TRUE
+Sabkhat al Hishah	Sabkhat al Hishah	TRUE
+Wādī Luqmah	Al Qanyū‘ah	FALSE
+Qārat az̧ Z̧ulmān	Bi’r as Suţayl	FALSE
+Marsa Bu al `Aqiq	Marsa Bu al `Aqiq	TRUE
+Al Jinsh	Ra’s Bū al Ḩumayyim	FALSE
+Wādī Zu’ānah	Wadi Zu'anah	TRUE
+Wādī Şalībah	Bi'r Sasi	FALSE
+Kūbat al Mazāwirī	‘Irq al Khādim	FALSE
+Wadi Humayrah	Bi’r Qawāţīn	FALSE
+Al Juhaysh	بئر تيمنوكلين	FALSE
+Bi'r ash Shuzaywah	سيح الزياني	FALSE
+Wādī al Hawākī	Al Wadadiniyah	FALSE
+Bi’r Shi‘āb ar Ramat	Wādī ash Sharqān	FALSE
+Wādī Mūsá	Wādī Mūsá	TRUE
+Ra's Sidi Hakam	Qarar al Usayqi`	FALSE
+Mājin Marqab	وادي مرار	FALSE
+Barq al Hāyil	Wādī Duwayrah	FALSE
+Wadi as Sidrah	وادي تكنتان سينقطة	FALSE
+‘Urūq as Samn	`Uruq as Samn	TRUE
+Baltat al Ghatah	Baltat al Ghatah	TRUE
+Athmād al Faţā’im	Sawani Su`ud	FALSE
+Bi'r al Khayshah	Bi’r al Khayshah	TRUE
+Wādī ash Shibāk	Wadi al Khuraybah	FALSE
+Wadi Bu Kura`	Wadi Bu Kura`	TRUE
+Qarārat Ḩalīb ‘Anzah	Birkat al Juhaysh	FALSE
+Abyar `Abd as Samili	Tariq al Walidiyah	FALSE
+Dur an Naqah	قرية الطيرة	FALSE
+Sabkhat Umm al Qaml	An Nāqūr	FALSE
+Shu`bat al Hirfah	Ra’s Bū al Jarāf	FALSE
+Bi'r `Aqar	Bi'r `Aqar	TRUE
+Qararat ad Dibab	Sāqiyat Abū al Qāsim Bin Ḩusayn	FALSE
+Tmisan	Tmisan	TRUE
+Bū Z̧uhayrah	Qarār al Baqar	FALSE
+Shu‘bat al Ākhirah	Bi’r Bū Karmah	FALSE
+جبل سعد الغومة	Ra’s Wannah	FALSE
+وادي مراد	وادي مراد	TRUE
+Bi’r Sūsītah	Bi'r Susitah	TRUE
+Barāshīn	Barashin	TRUE
+Wadi `Ayt Husayn	Wādī ‘Ayt Ḩusayn	TRUE
+وادي الميلجة الوسطى	وادي الميلقة الوسطى	TRUE
+Shaţīb az Ziqāq	Qabīlat al A‘bābah	FALSE
+Wādī aţ Ţalḩah	Wadi at Talhah	TRUE
+Mājin ash Shūbāsh	Majin ash Shubash	TRUE
+Shu`bat Umm at Talh	Shu‘bat Umm aţ Ţalḩ	TRUE
+Funduq al Jaḩsh	Ḩaqfat Mallūq	FALSE
+Shaţīb al Qaţaf	Qārat Jarādū	FALSE
+رأس با الغرا	Wadi Zarzar	FALSE
+رأس الشويلة	رأس الشويلة	TRUE
+Wādī al Muşaydir	Qarat as Sarj	FALSE
+Bi'r Muhammad Bin al Hajj Mas`ud	Bi'r Muhammad Bin al Hajj Mas`ud	TRUE
+Dur Ashkidah	Dur Ashkidah	TRUE
+Wādī Ghār ‘Ammār	Wadi Ghar `Ammar	TRUE
+Bi’r al Bāqān	‘Ayn Rifād	FALSE
+Al Hawd	Al Hawd	TRUE
+Qaltat al Himarah	Qaltat al Himarah	TRUE
+Qaltat Wādī al Mahrī	Abyār an Nimr	FALSE
+Abyār Ummahāt ad Dawá	Abyār Ummahāt ad Dawá	TRUE
+Wādī ar Rabā’i‘	Wadi ar Raba'i`	TRUE
+Jawf ad Dab`	Jawf aḑ Ḑab‘	TRUE
+وادي بو قفنانة	وادي بو قفنانة	TRUE
+Wādī Sāqī aţ Ţarīq	Mājin Umm al Libd	FALSE
+Wadi Ghazal	Wadi Ghazal	TRUE
+القارات الحمراء	Dur al Ubayyid	FALSE
+Bi’r Bū Samārah	Bi'r Bu Samarah	TRUE
+Bu Ma`taq	Wadi Telia	FALSE
+Wadi al Mayz	Wadi al Mayz	TRUE
+Saniyat as Sa`dawi	Sāniyat as Sa‘dāwī	TRUE
+وادي أم الليفة	وادي أم الليفة	TRUE
+Wādī Sāsū	Qarat Taqrifat	FALSE
+Bi’r al ‘Awāmir	Bi'r al `Awamir	TRUE
+واديات أمهات العجرم	وديات أمهات العجرم	TRUE
+Wādī az Zāwiyah	Wadi az Zawiyah	TRUE
+وادي الزهانية	وادي الزهانية	TRUE
+Al Ma‘mūrah	Al Ma‘mūrah	TRUE
+Bi'r Milad ash Shuwayrif	Tabaqat `Abd Allah	FALSE
+قرية البياضة	Bi'r Mahani	FALSE
+Tammat ‘Ayt Umm Shurfah	Tammat ‘Ayt Umm Shurfah	TRUE
+Ḩaţīyat al Kharīţ	Hatiyat al Kharit	TRUE
+Ra's Khashm at Tarimah	Qarārat Daf‘ Wādī Bū al Ḩīḑān	FALSE
+Al `Ayn as Saghirah	Al `Ayn as Saghirah	TRUE
+Wadi al Jam`iyah	لوذ البحرية	FALSE
+Wadi Bu Zahiyah	Al Fuqar	FALSE
+Wadi Jafnayn	Wudayy Sālim	FALSE
+Wādī Tarhūnah	Raqabat an Nubaydhāt	FALSE
+Saqīfat Bayāḑ	Sāniyat al ‘Uwayfīyah	FALSE
+Qaryat Abū Shārwal	Wādī Bājīr	FALSE
+Abyār az Zawzāt	Abyār az Zawzāt	TRUE
+Majin Daw' Bin Ramadan	Bi’r Muţraf	FALSE
+Al Fāliḩah	Bi'r Umm al `Izam	FALSE
+Sāniyat an Nūrī	Saniyat an Nuri	TRUE
+Bi’r Shafarzin	Bi’r Shafarzin	TRUE
+Shatib al Mahya`	Shatib al Mahya`	TRUE
+كمبوت	Qaryat al Qi`an	FALSE
+Wādī al Ḩişān	Wādī al Ḩişān	TRUE
+Ra's al Bunayyah	Ra’s al Bunayyah	TRUE
+سبخة إبراهيم	Kurb Lāllah	FALSE
+Wādī Sīdī Ḩamad	Ghawt ash Shawayah	FALSE
+Al Mahāfī	Al Mahāfī	TRUE
+Bi'r al Ghuraybiyah	Bi’r al Ghuraybīyah	TRUE
+Qalb al `Abd	Wadi Atyaruh	FALSE
+Qaryat aş Şūwāk ‘Ayn Ghulū	Qaryat aş Şūwāk ‘Ayn Ghulū	TRUE
+Bi'r Shihub	Bi'r Shihub	TRUE
+Wādī Dumyah	Bi’r al ‘Alīmah	FALSE
+Wadi ar Rada'i`	Bi’r Zāwā	FALSE
+Qarārat Diqqis	Qararat Diqqis	TRUE
+Bi’r Aḩmad al Ghaythī	Bi'r Ahmad al Ghaythi	TRUE
+Shu`bat Barq Idris	Shu‘bat Barq Idrīs	TRUE
+Jabal Hasunah	Jabal Hasunah	TRUE
+Khurmat Umm an Nafal	Khurmat Umm an Nafal	TRUE
+Wādī Bū Marās	Bi'r Umm al Laban	FALSE
+Ghawt Bu Zahw	Ghawt Bu Zahw	TRUE
+At Tanānīr	Shiyab ad Daydaban	FALSE
+Ţarīq al ‘Abd	Wadi Iseien	FALSE
+`Urqub Hilaliyah	`Urqub Hilaliyah	TRUE
+Wadi Bu Sanab	Wadi Bu Sanab	TRUE
+Wādī Khulfat al Mājin	Wadi Bu Farrash	FALSE
+Wadi al Murar	Wadi al Murar	TRUE
+Kaf Tawil al Maghayid	Wādī al Ukhayḑir Bū Ḩaqfah	FALSE
+Wadi al Husayyin	Sāniyat Jirjīr	FALSE
+Sāniyat al Barāzah	Bi'r al Haniyah	FALSE
+Abyār aţ Ţābūnīyah	Abyar at Tabuniyah	TRUE
+Bi’r aţ Ţaymarah	Sahat ad Dirbas	FALSE
+Wadi Bin Jawwad	Bi’r adh Dhabābīḩ	FALSE
+Dūr Marādah	Bi'r az Zahaf	FALSE
+Qaryat Tūnīn	Qaryat Tunin	TRUE
+Abyar al Himarayn	Abyar al Himarayn	TRUE
+Thaqb al `Adhra'	Thaqb al `Adhra'	TRUE
+Wadi at Tunah	Wadi at Tunah	TRUE
+Wādī Maymūn Darraj	Wādī Maymūn Darraj	TRUE
+جبل تراندتين	‘Ayn Umm Qidyāḩ	FALSE
+Minqar Ziblaw	Mintaqat al Mukaymin	FALSE
+Bi’r ad Duwaymā	Al Qa`ah	FALSE
+Bi'r Raqi	Bi’r Bin Janīyah	FALSE
+Wādī al Mudaywir	وادي أنراماس	FALSE
+Bi'r Mizran	Mājin Sāliḩ Bin ‘Alī	FALSE
+Wādī al Kīm	Wādī al Kīm	TRUE
+Wadi Qarat al Hatab	Wādī Qārat al Ḩaţab	TRUE
+`Irq Shurshuf	Ghawţ Jānīsh	FALSE
+Qabilat Analim	Qabilat Analim	TRUE
+Wadi Harawah	Ghawţ Khuwayr ash Shaykh	FALSE
+Hadabat al Barahimah	Hadabat al Barahimah	TRUE
+دور البشاشيم	دور البشاشيم	TRUE
+Sawani az Zarir	Sawānī az Zarīr	TRUE
+Dhirā‘ Bāl‘adam	Dhira` Bal`adam	TRUE
+Wādī al Ḩafşīyah	Wādī al Ḩafşīyah	TRUE
+Qārat al Hawādij	قرارة زوزو	FALSE
+Wadi al Qawasim	Wādī al Qawāsim	TRUE
+Al Khurmah al Ḩamrā’	Al Khurmah al Ḩamrā’	TRUE
+Ash Shi`taf	Ash Shi`taf	TRUE
+Wadi al Masna`	Umm al ‘Iz̧ām	FALSE
+Saqiyat al Ghardaqah	Sāqiyat al Ghardaqah	TRUE
+Wādī ar Rubyān	Wādī ar Rubyān	TRUE
+Wādī al Jalbah	Wadi Tayyib al Ism	FALSE
+بلة	بلة	TRUE
+Tammat `Ayt Umm Shurfah	Jazīrat Mişrātah	FALSE
+Qaryat ad Dababisah	Qaryat ad Dabābisah	TRUE
+طريق أنور	Ţarīq Zuwayyah	FALSE
+Qararat Dayhum	Wādī Daf‘ Qānī	FALSE
+Sūq ad Dawāwidah	Suq ad Dawawidah	TRUE
+Wadi Sultan	Wadi Sultan	TRUE
+Wādī ar Raḩbanāt	Wādī ar Raḩbanāt	TRUE
+Ghawt Musa`id	Ghawţ Musā‘id	TRUE
+Wādī Umm Khashabah	Wādī Umm Khashabah	TRUE
+Bi’r Bū ad Darrāj	أبيار أنزام	FALSE
+Al Quradiyin	‘Urqūb al ‘Urayqīb	FALSE
+Z̧ahrat al ‘Alāmah	Ghawt al Furn	FALSE
+Wadi al Mutawwi`	خور المريديمة	FALSE
+Ra's Awlad Bu Ja`far	قويرات زنيقران	FALSE
+Jabal	Z̧ahrat Mu’min	FALSE
+Bi'r al Washkah	Bi'r al Washkah	TRUE
+Wadi Bu `Unayqilah	Wādī Bū ‘Unayqilah	TRUE
+Wādī Ţaqījah	Wadi al `Ashashah	FALSE
+Haqfat al `Awra'	Shu`bat Buwayb at Tariq	FALSE
+Wadi at Talh	Wadi at Talh	TRUE
+Za`mut al Misdar	Abyār al Manqa‘	FALSE
+الأحرار	الأحرار	TRUE
+Qarat Suhub	Qarat Suhub	TRUE
+Wādī al Ḩarīqah	Wadi al Hariqah	TRUE
+Wadi Bu Dhuhaybah	Wadi Bu Dhuhaybah	TRUE
+Al ‘Anbah	Al `Anbah	TRUE
+Ra's at Tuwayyil	Ra’s aţ Ţuwayyil	TRUE
+Quwayrat Mu`ayzir	Quwayrat Mu`ayzir	TRUE
+Bi'r ad Dardur	Wādī ‘Ayn Almās	FALSE
+Abyar al Kardasi	Abyār al Kardāsī	TRUE
+Qabilat Silin	Qabīlat Sīlīn	TRUE
+Wādī Bū Lishfah	Ramlat Zalţan	FALSE
+Sayḩ al Qalb	Sayḩ al Qalb	TRUE
+Ţārīq as Sūr	Tariq as Sur	TRUE
+Shudhuf al Kilab	Qārāt Afaffān	FALSE
+Wadi Abu Shirrim	Ghawţ al Qaţaf	FALSE
+Tariq al Bayda'	Ra's Ma`zul	FALSE
+Wudayy al `Unsul	Wudayy al `Unsul	TRUE
+Wadi Dun	‘Ayn Amtār	FALSE
+Bi'r al `Akar	Bi’r al ‘Akar	TRUE
+Abyār Bū Fuḑālah	Wadi Bu al `Arid	FALSE
+Bi'r Muqadda`	Abu al Awdhah	FALSE
+Jabal Awsīd	Quray`at al Jalaghimah	FALSE
+‘Irqah al Kabīrah	Mājin Naşīb ‘Umar	FALSE
+Bi'r Miftah Bu al `Alal	`Ayn Dambabah	FALSE
+قرارة التواكنية	Sawānī Bin Ādam	FALSE
+Garden City	Garden City	TRUE
+Wadi al Milamm	Mafraq at Turuq	FALSE
+Shaţīb ash Shayţānah	Shaţīb ash Shayţānah	TRUE
+Kāf Umm aḑ Ḑab‘	Kāf Umm aḑ Ḑab‘	TRUE
+Qarārat Umm al ‘Ajāj	Qararat Umm al `Ajaj	TRUE
+وادي الشومر	Umm al Arānib	FALSE
+Bi'r al Qalbat	Kāf Bū al ‘Abs	FALSE
+Qar`at Shilsh	`Aqirat al Huraykat	FALSE
+Al ‘Alāwī al Ḩumr	Qārat aţ Ţirād	FALSE
+Wādī ash Shuwayţir	Bū Khurayshīfah	FALSE
+Mudīrīyat Umm al Arānib	Mudiriyat Umm al Aranib	TRUE
+Qūr al Muthaylīm	Bi’r Awlād Sālim	FALSE
+Bi’r Kamhashb	Bi'r Kamhashb	TRUE
+Jilf al Kharrūbah	المرج الجديدة	FALSE
+Ţarīq Talghazah	Wadi Wazzayyah	FALSE
+Wādī Muways	Wādī Muways	TRUE
+Al Qudayḩ	Al Qudayh	TRUE
+Abū Karārah	Abū Karārah	TRUE
+Syrte	Syrte	TRUE
+Wadi Qadhdhaf ad Dam	وادي أم الليفة	FALSE
+شعبة البرقة	Wadi al Hafsiyah	FALSE
+Wādī Iseien	Saniyat al Maghirah	FALSE
+Al Qusay`ah	Al Qusay`ah	TRUE
+Lawdh Qabr Salih	Lawdh Qabr Salih	TRUE
+Al ‘Adamīyah	Bi'r Bū Shuwayshīnah	FALSE
+Ra's Battah	Ra's Battah	TRUE
+Qabīlat ash Shabābiḩah	Qabīlat ash Shabābiḩah	TRUE
+Bi’r Bāghī	Daf` Sawfajjin	FALSE
+Wadi Mas`ud	Shari` Tukrah	FALSE
+Qaryat Sidi Shahir ad Din	Wādī al Majhūd	FALSE
+Ghadīr Bū Shūshah	Ghadir Bu Shushah	TRUE
+Zahr Bu al Lifa`	Wādī ath Thawr	FALSE
+Ra's al Ma`iz	Sayh ar Raqiq	FALSE
+Bi’r Dāmūs	Bi'r Damus	TRUE
+Saqīfat al Hannād	Saqifat al Hannad	TRUE
+Qabilat al `Ufah	Bi’r as Suwaykir	FALSE
+‘Ayn Khamīs	Sāniyat at Tamām	FALSE
+Khurmat at Tarradah	Wadi In Aramas	FALSE
+As Silmiyat	As Silmīyāt	TRUE
+‘Ayn al Muşayni‘	`Ayn al Musayni`	TRUE
+Wādī al Jurfān	Ramlat Tīsān	FALSE
+Qararat al Kharit	Qarārat al Kharīţ	TRUE
+Shu`bat az Zaqrariyat	Bin ‘Afīf	FALSE
+Aţwāl ash Shuhayb	Aţwāl ash Shuhayb	TRUE
+Al Quradiyin	Qarat Umm ad Dahy	FALSE
+Shaţīb as Sayḩ	Shatib as Sayh	TRUE
+Bi’r ‘Aqār	سبخة عزاز	FALSE
+Bi'r Bu `Aqqarah	Bi’r Bū ‘Aqqārah	TRUE
+`Ayn adh Dhibban	Dūr al Jafr	FALSE
+تمد الخيل	Bi'r as Sidrah	FALSE
+Wadi Ikmilladah	Ash Sharqiyah	FALSE
+Minţaqat al Ḩarīqah	Bi’r Rabbūd	FALSE
+Bi’r Birqāyat al Ḩanānishah	Awlād Tillīs	FALSE
+Wādī aţ Ţarfāyah	Bi’r ad Daḩī	FALSE
+Ghadīr Bint ‘Ubayd	Ghadir Bint `Ubayd	TRUE
+Al Qattarah ash Sharqiyah	Al Qaţţārah ash Sharqīyah	TRUE
+`Ayn Darillah	Qararat az Zahrah	FALSE
+Wādī Wāmis	Wadi Wamis	TRUE
+Bi'r al Hamidiyah	Bi'r al Hamidiyah	TRUE
+Sāniyat al Ḩājj Dāwūd	Bi’r an Naqīb	FALSE
+Tocra	Wadi ash Shatib at Ta`am	FALSE
+Qarārat al Buraykah	القيقب	FALSE
+Dūr Marādah	Dūr Marādah	TRUE
+Ru’ūs al Qayd	Ru’ūs al Qayd	TRUE
+Ra’s al Mudawwarah	Ra’s al Mudawwarah	TRUE
+Shi`ab Ummahat as Sabt	Bi’r an Naqīb	FALSE
+Ra’s Shu‘bat Yūsuf	Wadi at Tuwaysiyah	FALSE
+Wadi as Saniyat as Saghirah	Wadi al Madd	FALSE
+Mājin Ghawţ ar Raml	Majin Ghawt ar Raml	TRUE
+Wādī al Mafşil	Wādī al Mafşil	TRUE
+Bi’r al Madāḩ	Qararat al Hajj Hutaybah	FALSE
+Wādī ‘Ūj al Furayj	Wādī ‘Ūj al Furayj	TRUE
+عين العويقيلة	Dūr al ‘Abīd	FALSE
+Wādī Bū aţ Ţawālīs	‘Urqūb Aţyāruh	FALSE
+Bi’r ad Dabābah	Bi’r ad Dabābah	TRUE
+Kontangyi	Ra's al Khadim	FALSE
+Ḩaqfat az Zayyātīn	Haqfat az Zayyatin	TRUE
+Qat`ayat ath Thuwayniyin	Qat`ayat ath Thuwayniyin	TRUE
+Umm an Na'	Bi'r Ridwan	FALSE
+Bi'r Hammad	Qārat al Ḩisyān	FALSE
+Bi’r ash Sharāb	Ra’s Bin Karfātah	FALSE
+Abū Quray‘	Abū Quray‘	TRUE
+Zāwiyat Bū Zawīz	Jabal Bu Hissah	FALSE
+Wadi Bu at Tuyus	Habīţ an Nāqah	FALSE
+Wadi al Ubaytih	Al Hammamat	FALSE
+منطقة الأجواز	Marsa al `Awra'	FALSE
+Wādī al Luḩayyah	Musā‘id	FALSE
+Saqīfat ar Rumaylah	Saqifat ar Rumaylah	TRUE
+Bi’r al Ḩājj ‘Alī	Bi’r al Ḩājj ‘Alī	TRUE
+Al Qarqadiyah	Al Qarqadiyah	TRUE
+‘Ayn Sajīs	`Ayn Sajis	TRUE
+Wadi Awlad Mahmud	Wādī Awlād Maḩmūd	TRUE
+Al Ḩurrah	وادي أم العرجم	FALSE
+Farshat an Naqqār	Farshat an Naqqar	TRUE
+Bi’r Şaqqāl	Bi’r Şaqqāl	TRUE
+Qabīlat al Jaḩāwāt	Bū Dāqil	FALSE
+Wādī Shu‘bat as Sawdā’	`Urqub Umm Sanab	FALSE
+Wādī Sūtātah	Wadi Sutatah	TRUE
+Ra's al Kilayah	Wāw al Kabīr	FALSE
+Bi’r aţ Ţūbah	قرارة بو قصة	FALSE
+Qabīlat al Ḩashshān	Qabilat al Hashshan	TRUE
+Haqfat Salih `Abd Allah	Ḩaqfat Şāliḩ ‘Abd Allāh	TRUE
+Wādī al Fārigh	Wadi al Farigh	TRUE
+Wādī Tīsān	Qaryat Qaryunis	FALSE
+Khashm al `Anqar	دور بو خرمة	FALSE
+Masrab Stika	قرية بو روية	FALSE
+Ma`tan Abu az Ziran	Wadi al Wakhim	FALSE
+Shu‘bat Ghāliyah	Duwayrat ar Ratam	FALSE
+Khashm al Yahūdī	Khashm al Yahūdī	TRUE
+Az Zahrah	Az̧ Z̧ahrah	TRUE
+وادي كركور	الجبل الأبيض	FALSE
+Wudayyat ar Ratam	Wudayyāt ar Ratam	TRUE
+Wadi `Umar	Wadi `Umar	TRUE
+Ra’s al Hashim	بئر النقدية	FALSE
+Quwayrāt ar Ra‘āwīyah	Quwayrat ar Ra`awiyah	TRUE
+قرارة عقيبة	قرارة عقيبة	TRUE
+Wādī Tuwayyah	Wadi Tuwayyah	TRUE
+‘Ayn ash Sharshārah	`Ayn ash Sharsharah	TRUE
+Qunan adh Dhirā‘	Qunan adh Dhira`	TRUE
+Mazra‘at al Ghabbār	Mazra`at al Ghabbar	TRUE
+Shu‘bat az Zukayrāt	Shu‘bat az Zukayrāt	TRUE
+Bi’r al Jawāmi‘	Bi’r al Jawāmi‘	TRUE
+Qārat al Jammah	Ru’ūs Marbaḩ aş Şaghīr	FALSE
+Wādī Zukayr	Wādī Zukayr	TRUE
+Bi’r al Maqqūz	Bi’r al Maqqūz	TRUE
+`Ayn Khattab	‘Ayn Khaţţāb	TRUE
+Shaţīb Thalāthīn	Bi'r ash Shurfah	FALSE
+Wadi al Mihqan	Wadi al Mihqan	TRUE
+Ghawt Hasan	Ghawt Hasan	TRUE
+‘Ilwat Thalāth	‘Ilwat Thalāth	TRUE
+علم الغويزي	Wadi Haffunah	FALSE
+بئر سيح الجلابة	Al Battumah	FALSE
+Wādī Bū al Gharā’is	حيافل أبو حجار	FALSE
+Ru'us al `Aqrab	Ru'us al `Aqrab	TRUE
+Bi'r al Kudwah	Wādī Ihene Doradj	FALSE
+Shatib al Qirqa`	‘Urqūb al Barrānī	FALSE
+Saqiyat ar Rayyani	Qararat `Abd al Hamid	FALSE
+Bi'r Salih	Bi'r Salih	TRUE
+Qarārat al Ḩamādah	بئر الجديدة	FALSE
+Wādī Bishārah	Wādī Bishārah	TRUE
+Ghawţ as Sudayrāt	Ghawt as Sudayrat	TRUE
+Mintaqat al Jarajib	Minţaqat al Jarājīb	TRUE
+Tawilat Mihqan	Ţawīlat Miḩqan	TRUE
+الهيشة	Hajaj az Za`faranah	FALSE
+Wadi az Zawzat	Saniyat ash Shuyyab	FALSE
+Bi’r al Jamāmilah	Bi’r al Jamāmilah	TRUE
+Quwayrāt al Maqţa‘	Shu‘bat Umm al Jidārī	FALSE
+Ma‘ţan Faţnās	Ma‘ţan Faţnās	TRUE
+Mazra`at Saqil	Mazra‘at Sāqīl	TRUE
+Khashm al Usayqi`	Khashm al Uşayqi‘	TRUE
+Bi'r ash Shushan	Ḩaţīyat Maqţa‘ az Zāwiyah	FALSE
+Asaghsar	Asaghsār	TRUE
+Al Munḩariqah	Al Munḩariqah	TRUE
+Az Zawiyah	Az Zawiyah	TRUE
+Bi’r Muḩammad Bin al Ḩājj Mas‘ūd	Qurū‘ Tafalfalat	FALSE
+مرسى بريقة	مرسى بريقة	TRUE
+As Sarīr ar Ramlī	As Sarir ar Ramli	TRUE
+Wādī Ibrāhīm	Ma`tan ad Dalimiyah	FALSE
+Shatib an Nis	Buruq al `Abd	FALSE
+Qārat al Khaḑrā’	Qarat al Khadra'	TRUE
+Sabkhat Sabīl	Sabkhat Sabīl	TRUE
+Qarat Tantakawarit	Qarat Tantakawarit	TRUE
+Ghawt Z̧ahr al Khādim	Ghawt Zahr al Khadim	TRUE
+Wādī Thalāth Andās	Wadi Thalath Andas	TRUE
+شعبة الحاجة	`Ayn Qallu	FALSE
+Al Kurab	Mintaqat ash Sharak	FALSE
+Wādī al Qirḑāb	Wādī al Qirḑāb	TRUE
+Jabal Waddān	Bi’r al Hubayy	FALSE
+Azirir	Azīrīr	TRUE
+Tinzight	Qārat Suhūb	FALSE
+Ghawt Qawwat `A'ishah	Wadi Bu al `Ifrit	FALSE
+Bi’r al Ghāthah	Bi’r al Ghāthah	TRUE
+Mintaqat ath Thutah	Qaryat Umm ad Danānīr	FALSE
+Sarir Kalanshiyu ar Ramli al Kabir	Wadi al `Uraymah	FALSE
+Baldat al `Uqaybah	Baldat al `Uqaybah	TRUE
+Wadi al `Uwayqir	Wādī al ‘Uwayqir	TRUE
+Qārat al Murrāt	Qārat al Murrāt	TRUE
+Bi’r al Muqayş	Bi'r al Muqays	TRUE
+Ghadir Abu Rashadah	Ghadir Abu Rashadah	TRUE
+Shu`bat Harakat	Qamīnis	FALSE
+Al Muthaylim	Al Muthaylīm	TRUE
+Wādī Qallū	Wādī Qallū	TRUE
+Al Ḩulayq al Kabīr	Al Ḩulayq al Kabīr	TRUE
+Wādī Farsh	Wādī Farsh	TRUE
+Qabīlat Awlād Shukr	Qabilat Awlad Shukr	TRUE
+Al Kashalifah	Al Kashalifah	TRUE
+Ra’s an Naz̧īr	Sirat al Kuwayshah	FALSE
+Abyār Aḩmad	Abyār Aḩmad	TRUE
+Ash Shu‘bah al Bayḑā’	Ash Shu`bah al Bayda'	TRUE
+Ra's at Tulaylah	Dūr Sūfān	FALSE
+‘Ilwat Malīkah	‘Ilwat Malīkah	TRUE
+Minţaqat al Qarīn	Minţaqat al Qarīn	TRUE
+Awlād Badr	Awlād Badr	TRUE
+Wadi al Burtus	Wādī al Burtus	TRUE
+Bi’r al Jamal	Bi'r al Jamal	TRUE
+Ghānī	عيون غزيل	FALSE
+Wādī Fir‘ayn	Wadi Fir`ayn	TRUE
+Mintaqat an Nu`mani	Minţaqat an Nu‘mānī	TRUE
+Bi'r al `Ajiliyah	‘Uyūn al Farīd	FALSE
+Al Kharā’iq	وادي الشومر	FALSE
+Al Ḩamām	Mājin Umm Rukbah	FALSE
+Al Qarah al Bayda'	Al Qarah al Bayda'	TRUE
+‘Ayn Abū Ḩallāq	`Ayn Abu Hallaq	TRUE
+Bi'r an Nazir Bu Maymunah	Bi'r an Nazir Bu Maymunah	TRUE
+Wadi al Jurayyib	Wadi al Jurayyib	TRUE
+قارة بن سنس	Wādī Umm al ‘Iljān	FALSE
+Qārat aţ Ţabl	Qarat at Tabl	TRUE
+Qabilat as Satut	Wādī az Zād	FALSE
+Wadi Manisir	Wādī Manīsīr	TRUE
+بئر المجدوبية	Altipiano d'Alaota Chiu	FALSE
+Ḩasy al Mataryūn	Wadi Subaysib	FALSE
+Waddan	Wādī Iseien	FALSE
+Bi'r al Humrah	Bi'r al Humrah	TRUE
+وادي كلنشة	شياب الميلجة	FALSE
+Qaryat as Sa`adilah	Ma`tan an Naghar	FALSE
+Ra’s Qawlat al Qaţţār	Ghawţ ash Sharārah al Kabīrah	FALSE
+Ḩaqfat Ghīḑān	Jinān al Khuraybah	FALSE
+Ra’s al Ḩusayy	Ra’s al Ḩusayy	TRUE
+Tariq Umm Rubayh	Ra’s Baţţah	FALSE
+Shatib al Qirqa`	Shatib al Qirqa`	TRUE
+Wādī al Fārigh	Wadi al Farigh	TRUE
+Haqfat ash Shuhaybat	Ḩaqfat ash Shuhaybāt	TRUE
+Sabkhat al Hitah	Sabkhat al Ḩīţah	TRUE
+Ḩasy al Milḩah	Hasy al Milhah	TRUE
+Wādī Abū Kibār	Wādī Abū Kibār	TRUE
+Saqifat as Sahl	Al Batrah	FALSE
+Ra’s Bū al Ḩumayyim	Bi'r Bin Kurayyim	FALSE
+Khashm az Zaydān	وادي العوسن	FALSE
+Wadi ash Shuwayrif	Wadi ash Shuwayrif	TRUE
+Wadi Burutal	Wadi Burutal	TRUE
+Wādī Umm ar Raml	Wadi Umm ar Raml	TRUE
+Bi’r Ra’s al Bāqān	Qārat Qibyān	FALSE
+Ru’ūs al Ḩawāmid	Qarat ash Sha`wi	FALSE
+Tashirash	Ghawţ Baqīl	FALSE
+An Nuwaybāt	Bi'r al Hadd	FALSE
+Minqār al Yahūdīyah	Minqār al Yahūdīyah	TRUE
+غوط العجرم	Wādī Bin Rughaydah	FALSE
+`Ayn al Qadi	Wādī Ra’s al Manzilah	FALSE
+Sīrat Sarsarah	Sīrat Sarsarah	TRUE
+Wādī Shayūlīyah	Saqīfat Maḩz̧īyah	FALSE
+Bi'r az Zarqani	Awlād Muḑīf	FALSE
+Bi'r `Abd al Hafiz	Bi’r ‘Abd al Ḩafīz̧	TRUE
+Wādī ‘Ayn ‘Uwaytah	Wadi `Ayn `Uwaytah	TRUE
+Bi’r Bū Ḩatājah	Bi'r Bu Hatajah	TRUE
+Qarat al `Adas	`Ayn Yammun	FALSE
+Wādī an Niz̧āmāt	Wādī an Niz̧āmāt	TRUE
+Al Ḩāshiyah al Ḩamrā’	Al Hashiyah al Hamra'	TRUE
+Mintaqat `Ilwat al Muhrah	An Nuqayrāt	FALSE
+Qārat ar Ramlah	Qārat ar Ramlah	TRUE
+Qa`rat ash Shuwaykh	جزيرة مصراتة	FALSE
+Wadi ar Rahib	Wādī ar Rāhib	TRUE
+Wadi al Ba`r	Qabilat Awlad as Saghir	FALSE
+Shatib al `Awsaj	‘Ayn Qilmām	FALSE
+Wādī Bū Safḩah	Wādī Bū Safḩah	TRUE
+Bi'r Masin	Bi'r Masin	TRUE
+Qaryat al Qat`	Qaryat al Qaţ‘	TRUE
+Balţat ad Dam	نشغ العرفج	FALSE
+Abyār Umm al Lawz	Abyar Umm al Lawz	TRUE
+Qarat Umm an Nafal	Bin Khāl	FALSE
+Al Jildah	Shu‘bat Bin Darwīsh	FALSE
+Wādī al Mudayyinah	Wadi Bin Yahsun	FALSE
+Wādī Bin ‘Aţīyah	Wādī Munayqi‘ al Ballūţ	FALSE
+وادي أم الرأس	Bu Khurayshifah	FALSE
+Wādī Ashīrmā	Ra’s ‘Āliyah wa ‘Alī	FALSE
+Abyar Jad Allah	Abyār Jād Allāh	TRUE
+Baltat at Tarun	شعبية الكيش رقم 2	FALSE
+Bi'r Muhammad	Bi’r Muḩammad	TRUE
+Qabilat `Ayn Ghulu	Eastern Dawud	FALSE
+Wādī Masnah	Wādī ar Rakwah al Gharbīyah	FALSE
+Umm al Jinḩān	Umm al Jinhan	TRUE
+Al Bunayyah	Al Bunayyah	TRUE
+Qarārat al Athl	Dur Lahaw	FALSE
+Sīdī ‘Alī Bū Madfa‘	Wadi al Qusay`at	FALSE
+Birkat ad Dashshash	Birkat ad Dashshash	TRUE
+Wadi al Gharbiyat	Wādī al Gharbīyāt	TRUE
+Thamad al `Abbasiyah	Thamad al `Abbasiyah	TRUE
+Saniyat Tamzin	Saniyat Tamzin	TRUE
+An Na`amah	Tesalatin	FALSE
+وادي شريت البرقة	وادي شريط البرقة	TRUE
+Wādī al Kabb al Gharbī	Wādī Ghawţ ar Rīḩ	FALSE
+Wadi al Fujayj	Wadi al Fujayj	TRUE
+Wadi az Zahiri	Ra’s al Amwaj	FALSE
+Rijl Matratin	Rāshidah	FALSE
+Sāniyat aḑ Ḑab‘imī	Sāniyat aḑ Ḑab‘imī	TRUE
+Wādī al Qal‘ah	Al Banātī	FALSE
+Qararat al Marbut	Bi'r an Nasrani	FALSE
+Duwayrāt ar Ratam	Duwayrat ar Ratam	TRUE
+Bi’r Zawzām	وادي مراح	FALSE
+Wādī al Manāstīr al Gharbī	Wādī al Manāstīr al Gharbī	TRUE
+Bi'r al `Alandayah	Qararat Abu Hawwa'	FALSE
+Sawani Bu Dajajah	Ḩajāj Bayāḑ	FALSE
+Qararat Waddan	Ma‘ţan Fājīyah	FALSE
+وادي الخرجة	وادي الخرجة	TRUE
+Ru'us al Qurayrah	Ra's al Hamamah	FALSE
+Minţaqat Şulay‘ah	Ar Rusayfah	FALSE
+Bu Zuwaytinah	Bu Zuwaytinah	TRUE
+Baltat al Lawlab	بئر قحطان	FALSE
+Qirah	Abyār Zarqūn	FALSE
+Wādī Tarhūnah	Wadi Tarhunah	TRUE
+Bi'r Khalil	Jabal Demuaze	FALSE
+Sawānī al Murabbaḩah	Wādī an Nusayr	FALSE
+Al `Uqaybah	Al ‘Uqaybah	TRUE
+Ra’s al Yahūdīyah	Wādī Umm ath Tha‘ābīn	FALSE
+Qararat Shakk	Qarārat Shakk	TRUE
+Bi'r `Abd Allah Khunaybish	Bi'r `Abd Allah Khunaybish	TRUE
+Qārat al Hamīl	Qārat al Hamīl	TRUE
+Wādī al ‘Adasah	Za‘mūţ Shirkrīd	FALSE
+بئر إندجوا	Batn Bu Raghwah	FALSE
+Sāniyat ar Rumaylāt	Bi’r Fāţimah	FALSE
+سرير القاف	Wādī Faţis	FALSE
+‘Aqīrat al Khādim	Mintaqat `Ulayyan	FALSE
+Abyar al Washkah	Abyār al Washkah	TRUE
+Qulub al Asfar	Qulub al Asfar	TRUE
+Bi’r Tāwlād	Wādī I‘zāz	FALSE
+Bi’r ash Shamm	Wādī Ḩamāmah	FALSE
+رأس الشقة	Saniyat Bu Shahirah	FALSE
+Jabal Tuqwar	Jabal Ţuqwār	TRUE
+Abyār Nizā’ Farīq	Abyar Niza' Fariq	TRUE
+Kaf al `Azumi	Kaf al `Azumi	TRUE
+As Saffaq	Aş Şaffāq	TRUE
+Wadi Bu al Lijam	Shu`bat al `Azzabiyah	FALSE
+Abyār an Nakhīlah	Abyar an Nakhilah	TRUE
+Bi'r ar Ruhaybah	Bi'r ar Ruhaybah	TRUE
+Bi'r al Hajj `Abd ar Rahim	قرقاش	FALSE
+Lawdh Bin `Ayqu	Bi’r as Sahārik	FALSE
+As Sabkhah as Sawda'	Wādī al Ghazīn	FALSE
+قارة تزقيارة	Bi’r Riḑwān	FALSE
+Wādī al Qawz	Wādī al Qawz	TRUE
+Bi’r al Ḩajf	Bi'r al Hajf	TRUE
+Wadi Langhar	Shu‘bat Baḩr	FALSE
+Wadi al Qarinah	Ra’s Burayqat aḑ Ḑab‘	FALSE
+Saniyat Muhammad al Fituri	Saniyat Muhammad al Fituri	TRUE
+Mājin al Maḩmūdīyah	Mājin al Maḩmūdīyah	TRUE
+Saniyat al Hamra'	Widyān al Bi’r	FALSE
+Wadi Ghamdan	Ra's al Qubbah	FALSE
+Khashm al Buf	Abyar Shabrakhit	FALSE
+Al Khaşāş	Al Khaşāş	TRUE
+Kahf Takulit	Kahf Takūlit	TRUE
+Al Mişlāh	Al Mislah	TRUE
+Wudayy Qaţţūţah	Iḩsān Umm az Zaqqār	FALSE
+وادي غزال العبيدات	Marbah ar Rashadat	FALSE
+Wādī al ‘Aşīm	Wādī al ‘Aşīm	TRUE
+Qabilat al Khasha'ir	Qabilat ash Shuqayqah	FALSE
+Wādī Qabr Jum‘ah	Wādī Qabr Jum‘ah	TRUE
+`Arqub Zakakir	‘Arqūb Zakākir	TRUE
+Qarat al Qayd	Qarat al Qayd	TRUE
+Al Būqāraqā	Qarsīn	FALSE
+Wādī al Khayl	Wadi al Khayl	TRUE
+Bi’r al Fuţaymīyah	Bi'r al Futaymiyah	TRUE
+Qārat al Wudaynī	Sayh al `Alawah	FALSE
+Abyar Umm al Jawabi	Abyār Umm al Jawābī	TRUE
+Ghawt al Mashqam	Ghawţ al Mashqam	TRUE
+Jarr ‘Alī Bū Sulţān	Ar Rābiţah al Gharbīyah	FALSE
+Qabīlat al ‘Abānāt ‘Ābūrah	Qaryat al Ja`afirah	FALSE
+Bab as Sarir	Bāb as Sarīr	TRUE
+باب العزيزية	وادي مرزوق	FALSE
+Abyār as Sidrah	Bi’r al Qillālī	FALSE
+Marbaḩ as Sāniyat	Marbaḩ as Sāniyat	TRUE
+Wadi al Maraghah	Wadi al Maraghah	TRUE
+Bi’r al Ḩulw	Bi'r al Hulw	TRUE
+Sāniyat Bū Shārib	Sāniyat Bū Shārib	TRUE
+Bi'r an Naqib	Ash Shurraf	FALSE
+جبال تومو	جبال تومو	TRUE
+Bi'r Tahala	Hajaj as Sahl	FALSE
+Bi’r Zawzām	Al Musalla	FALSE
+Ţarīq Nīnah	Ţarīq Nīnah	TRUE
+Al Qiz̧āmah	Shu‘bat Umm al Bāqil	FALSE
+قرية مزغورة	Bi'r Shu`bat an Nazza`ah al Awta	FALSE
+Qabīlat Ḩasan	Qabilat Hasan	TRUE
+Ra's Shuwayshah	Ra's Shuwayshah	TRUE
+‘Urqūb Umm al Baqar	`Urqub Umm al Baqar	TRUE
+Abyār Bū Shītah	Abyār Bū Shītah	TRUE
+Bi’r Ḩamūdat Mīlād	Wādī Bū Kabdah	FALSE
+Al ‘Aqā’ib	Al `Aqa'ib	TRUE
+Shu`bat Umm al Qulub	Wādī Qūqāz	FALSE
+Sarīr Bin ‘Affīn	Wadi Maz`urah	FALSE
+Jabal al Qal`ah	Hawsh an Naffaz	FALSE
+Wādī ash Shaḩmī	Khushīyat Jayţāl	FALSE
+Wadi Sudur al Mawt	Raqabat Ḩalq aḑ Ḑab‘	FALSE
+Ḩaqfat Īslān	Haqfat Islan	TRUE
+Nalut	Wadi al Kalil	FALSE
+Qabilat Quba`	Qabīlat Qubā‘	TRUE
+Bi’r Awlād Karīm	وادي فهد الأسود	FALSE
+زليطان	زليطان	TRUE
+Bi'r al `Usmah	Bi’r al ‘Uşmah	TRUE
+جبل أغرم نود أدن	جبل أغرم نود أدن	TRUE
+Ra's al `Adam	Sīdī ‘Alī	FALSE
+Qūr ar Ruḩaybāt	Wādī al Qirmīyah	FALSE
+Bi’r Dīsah	Bi'r Disah	TRUE
+‘Ayn Faranzah	`Ayn Faranzah	TRUE
+Qarārat al Bayāḑah	Qararat al Bayadah	TRUE
+Ru’aysāt an Naqūbah	Ru'aysat an Naqubah	TRUE
+Hawsh Abu Sharbiyah	Ash Shātah	FALSE
+Wādī Bū al Qaml	Wādī Bū al Qaml	TRUE
+As Saqā’if	رملة النجمة	FALSE
+Wādī az̧ Z̧alīm	Minţaqat al Munsalam	FALSE
+سبخة الشام	Bi’r Maḩānī	FALSE
+بئر وادي الخير	Qārat ar Raqūbah	FALSE
+Ghawţ Karkar	Ghawţ Karkar	TRUE
+Qaryat az Zuhayrah	At Tabania	FALSE
+Abyar `Awf	Wadi Umm al Jidari as Sawakinah	FALSE
+Bi'r al Manastir	Bi'r al Manastir	TRUE
+Khushaymat al Juwayfah	Ḩattīyat Qa‘ūnī	FALSE
+Bi'r Marwan	Bi’r Marwān	TRUE
+Qarat an Naqqazah	Qarat an Naqqazah	TRUE
+Ra's Umm al Bajil al Wusta	Ra’s Umm al Bajīl al Wusţá	TRUE
+Ghawţ al Khirwa‘ah	Ghawt al Khirwa`ah	TRUE
+Al Kasarah	Al Kasarah	TRUE
+Dūr Minqār al ‘Uqāb	Wādī Bin Ghazwān	FALSE
+Bi'r Umm Nasir	Bi'r Umm Nasir	TRUE
+Bi'r Qalb al `Abd	Bi'r Qalb al `Abd	TRUE
+Wādī Baqqār	Fasqiyat al Hajj	FALSE
+Sulūk Īslān	`Anbasah	FALSE
+Qarat al Bayda'	Qārat al Bayḑā’	TRUE
+Khurmat Gharyan	Wadi az Za`tar	FALSE
+Bi'r Umm al `Izam	Bi'r Umm al `Izam	TRUE
+طريق نينة	طريق نينة	TRUE
+Mājin Thamad	Mājin Thamad	TRUE
+Ḩaţīyat ‘Abd ar Ra’ūf	Hatiyat `Abd ar Ra'uf	TRUE
+Mājin Ḩusayn Shatwān	Thamad Bu Rashadah	FALSE
+Khanqat ash Shuqayq	Khanqat ash Shuqayq	TRUE
+Tariq al Bi'r	Qarat at Ta'ish	FALSE
+Būmah	Bumah	TRUE
+Bi'r al Khurjah	Bi'r al Khurjah	TRUE
+Bi'r al Lifa`	Bi’r al Lifā‘	TRUE
+Wadi al Ma`atin	Wadi al Ma`atin	TRUE
+Wadi Qulay`at Nawwarah	Wadi Qulay`at Nawwarah	TRUE
+Shatib adh Dhibbanah	Al Muharbak	FALSE
+Raml al Jīfah	Raml al Jifah	TRUE
+Bi'r ash Sha`rayah	Bi'r ash Sha`rayah	TRUE
+Wadi Tanzah	Awdiyat al Amwas	FALSE
+Bi’r al Fanshah	Bi'r al Fanshah	TRUE
+Khashm Umm Qurad	Qārat ash Sha‘lā’	FALSE
+Wādī al Hīsh	Wādī al Hīsh	TRUE
+Bi'r al Gharib	Bi’r al Gharīb	TRUE
+Wadi Rijl Bin Quwayz	Wādī Rijl Bin Quwayz	TRUE
+Wadi In Kamad	Wadi In Kamad	TRUE
+دير كريما	Ghawţ ash Sharārah	FALSE
+Bi’r ar Rubay‘īyah	Wādī Tamshīn	FALSE
+Qur ad Dubayyat	Qur ad Dubayyat	TRUE
+‘Urqūb Faras	`Urqub Faras	TRUE
+Ghadir Kabkubah	At Tanīnī	FALSE
+Wadi Bawaznah	الطريق الدائري الخامس	FALSE
+Abyar Umm al Qamin	Minţaqat al Ḩanāshī	FALSE
+Mintaqat al Lathamah	Barqah al Hamra'	FALSE
+Wadi al Manastir ash Sharqi	Wādī al Manastīr ash Sharqī	TRUE
+Bi’r al ‘Uwaymah	Bi’r al ‘Uwaymah	TRUE
+وادي المحمل	وادي المحمل	TRUE
+Zāwiyat al ‘Urqūb	Bi’r al Fanţāzī	FALSE
+Sayḩ al ‘Aḑīḑ	Ḩaţīyat Sayfan	FALSE
+رأس قرية القصر	Wadi al Hatu	FALSE
+Qaryat al Hama'imah	Qaryat al Hama'imah	TRUE
+Ghawt al `Aja'iz	Wādī Umm al Bajīl	FALSE
+Al Hamra'	Al Hamra'	TRUE
+Wadi al Mafsil	Saqīfat ad Dūdah	FALSE
+Qarārat Taqrifat	Qarārat Taqrifat	TRUE
+Mudaywir Sammālūs	Ma`atin Tinnin	FALSE
+Bi’r ‘Umar	Bi'r `Umar	TRUE
+Kaf Lallah	Ramlat al Wīgh	FALSE
+منطقة المعقل	`Ayn Miskah	FALSE
+Dur Minqar al `Uqab	Dūr Minqār al ‘Uqāb	TRUE
+Ru’ūs ash Shalākhāt	رأس العبوقية	FALSE
+‘Eoj Wāhş	‘Eoj Wāhş	TRUE
+Wadi al Ghadra'	Khashm al Maşīdah	FALSE
+Wādī Mardīghah ash Shinţah	Wadi Bu Fusayyah	FALSE
+Wādī at Tarwī‘ī	Wadi at Tarwi`i	TRUE
+Bi'r ad Dabbabah	Bi'r ad Dabbabah	TRUE
+Khashm Barqat ash Shurayyit	Wādī al Manāsīr	FALSE
+Wadi Mirhal `Ayn al Karmah	Wadi Mirhal `Ayn al Karmah	TRUE
+`Ayn al Qattar	‘Ayn al Qaţţār	TRUE
+Qulayb Bū as Su‘ūd	Qulayb Bū as Su‘ūd	TRUE
+Bi'r Jubayr	Tikah	FALSE
+Ra's al Hilal	بئر ميلاد الشويرف	FALSE
+Qararat Bu Jarmah	An Na`amah	FALSE
+Al Jibal as Sud	Al Jibal as Sud	TRUE
+Abyar Bu Suruz	Abyār Bū Surūz	TRUE
+‘Uwaynat al Qaţā	‘Uwaynat al Qaţā	TRUE
+سانية السجدة	سانية السجدة	TRUE
+بئر النخلة	Wadi Qirdan	FALSE
+Dannūn	Majin az Zatat	FALSE
+Qararat al Khuwaytirat	Dūr Turkīyah	FALSE
+Suq as Sabt	Sūq as Sabt	TRUE
+وادي مقارين	Qur al Muthaylim	FALSE
+Bi’r Sūsītah	Al Mislak	FALSE
+`Aynan al Qasabah	`Aynan al Qasabah	TRUE
+Bi'r al Harash	Bi’r al Ḩarash	TRUE
+Wadi Fashyah	Hajaj an Nazurah	FALSE
+Haqfat Bu Shudayq	Tariq al `Abd	FALSE
+وادي أكاكوس	وادي أكاكوس	TRUE
+Qabīlat al Khitnah	Qabīlat al Khitnah	TRUE
+Ra's al Makhbaz	Ra's al Makhbaz	TRUE
+‘Ayn Ḩusayn	العَزيزية	FALSE
+Bi'rr Dawud	Bi'rr Dawud	TRUE
+Shu‘bat Abū Sa‘dah	ديار القدافي	FALSE
+Bi’r al ‘Araj	Wādī al Ḩalaq	FALSE
+Ra's al Bid	Ra’s al Bīḑ	TRUE
+Saqifat al Gharabat	Saqīfat al Gharābāt	TRUE
+Quwayrat al Watiyah	Quwayrat al Watiyah	TRUE
+Bi’r ‘Īsá Ţūwār	Wādī al Ḩalabī	FALSE
+Bi’r as Suţayl	Bi'r as Sutayl	TRUE
+Wadi al Ghurab	Wadi al Ghurab	TRUE
+Bi’r al Khuraybah	Bi’r al Khuraybah	TRUE
+Qarārat Maşna‘ al Jārūsh	Ţawīl al ‘Astakīyah	FALSE
+Wādī Khalfūn	Wadi Umm al Qalat	FALSE
+Ma‘ţan Bū ‘Aţţāf	Ma‘ţan Bū ‘Aţţāf	TRUE
+Mājin Abū Gharārah	Majin Umm Rukbah	FALSE
+Wadi al Mukaymin	Wādī al Mukaymin	TRUE
+Abyar al `Aysh	Abyar al `Aysh	TRUE
+Ru'us al `Aqrab	Bi'r Mahani	FALSE
+Wadi Talamis	معطن الدلمية	FALSE
+Hun	Hun	TRUE
+Tabaqat as Sini	Ţabaqat aş Şīnī	TRUE
+Qarat al Baddadah	Qarat al Baddadah	TRUE
+Sāniyat ‘Ayt Bū Marāghah	Al ‘Ulaym an Nāfiḑ	FALSE
+Bi’r Bū Juhaym	Bi'r Bu Juhaym	TRUE
+Wādī Faqīq	`Aqilat al Khurash	FALSE
+Al `Ulaym al Usaywid	Masaḩ ar Rujaylah	FALSE
+Ra’s as Sallūm	Ra's as Sallum	TRUE
+Marsa Qasr Ahmad	Marsá Qaşr Aḩmad	TRUE
+Saniyat ar Rashad	وادي أهرام	FALSE
+Minţaqat Tibyāz̧ū	Mintaqat Wadi ad Disah	FALSE
+قرية البياضة	قرية البياضة	TRUE
+‘Ayn Balkhtah	Wādī Bū ash Shiqāf	FALSE
+Wadi Tajamut	Wādī Tājamūt	TRUE
+Wādī as Sawdā’	Al Qawālīsh	FALSE
+Qarat ar Ramlah	Wadi al Jisr	FALSE
+Qabilat Awlad Ahmad	Qabilat Awlad Ahmad	TRUE
+Wādī Bū Jadīd	Wadi Bu Jadid	TRUE
+Bi'r al Kubayshah	Shu`bat Bin `Imran	FALSE
+وادي امشوجي	وادي امشوجي	TRUE
+Ra’s al Hilālīyah	Ra's al Hilaliyah	TRUE
+Az Zintan	Wadi Hawd al `Arkah	FALSE
+Wadi al Bab	Wadi al Bab	TRUE
+Bi'r Bazzu	Bi’r Bazzū	TRUE
+Mintaqat ad Daghdughi	Mintaqat ad Daghdughi	TRUE
+Minqār ‘Ayyād	Minqar `Ayyad	TRUE
+جبل الرويسات	جبل الرويسات	TRUE
+Bi'r an Nu`ut	Bi'r an Nu`ut	TRUE
+Bi'r Hubayrah	Bi'r Hubayrah	TRUE
+Shu‘bat ar Raghāyah	Mājin Sha‘bān	FALSE
+Wadi Bu Dindin	Qar‘ ‘Anqā’	FALSE
+Balţat aş Şayf	Balţat aş Şayf	TRUE
+Miskah	Ţawīl al Ḩaddād	FALSE
+Ghurūd al Muqaryaf	Wadi Bu Bakr	FALSE
+Abyār ‘Ayt Mardī	Abyar `Ayt Mardi	TRUE
+Bi’r Iasco	Khashm aţ Ţīn	FALSE
+Wadi Dumyah	Ghawt Listus	FALSE
+Al Qarah al Bayda'	Qa`rat Sidi Badran	FALSE
+Al Ma`qil	Al Ma`qil	TRUE
+Bi'r al Hajj Hamid	Bi’r al Ḩājj Ḩāmid	TRUE
+Wādī al Qanādī	Ra’s ar Rūmīyah	FALSE
+Wādī al Madhkūr	Abyar `Abbas	FALSE
+محافظة سرت	Wadi Bi'r Khashm adh Dhi'b	FALSE
+Qabīlat al Hayyāj	Qabīlat al Hayyāj	TRUE
+Buḩayrat al Muzayri‘	Buḩayrat al Muzayri‘	TRUE
+Ra's al Wadi	Ra’s al Wādī	TRUE
+Wādī al Ḩawījah	Shaţīb an Nā’ilī	FALSE
+Ţawīl Bū Malīm	Bi’r Hūkah	FALSE
+Shutban az Zahaliq	Shutban az Zahaliq	TRUE
+Naqb Sālimah	Haram	FALSE
+Ath Thanīyah al Ḩamrā’	Ghawt al Khirwa`ah	FALSE
+Balţat al ‘Ijlah	Bi'r Mirshan	FALSE
+Wadi al Khadim	Bi’r Murāq	FALSE
+Wadi Bu Taqah	Wādī Bū Ţāqah	TRUE
+Al Butayyinah	Al Butayyinah	TRUE
+Mafraq at Turuq	Abyār ‘Ayt al Jadīdah	FALSE
+Al Maţaflah	Al Maţaflah	TRUE
+`Uyun al Birat	Mişr Malīl	FALSE
+Ra’s al Miqţā‘	Az Zāwīyah	FALSE
+Wādī Abū Janāḩ	Wadi al Kha'ib	FALSE
+Bi'r al Qulay`at	Wadi Sulay`ah	FALSE
+وادي عيسى	وادي عيسى	TRUE
+Qūr Umm ash Shutayrāt	Lāllatī Ma‘mūrah	FALSE
+Shu‘bat ash Shiqqah	Saqīfat Qubbah	FALSE
+حي دمشق	Al Khalitah	FALSE
+Wadi Timsan	بئر غرسة	FALSE
+Bi’r Sa‘d	Bi'r Sa`d	TRUE
+Al Mutrad	Al Mutrad	TRUE
+Shu‘bat Subaysib	Shu`bat Subaysib	TRUE
+Bi'r Qawta ar Ramadiyah	Wadi Dun	FALSE
+Wadi Jannawan	Wādī Jannāwan	TRUE
+Wadi Jadaf	Abyar `A'ilat al Mashibah	FALSE
+Ghawţ ar Rasm	Ghawt ar Rasm	TRUE
+Jandūbah	‘Urqūb Bū Jīd	FALSE
+Qarat al `Ushsh	جبل جرمة	FALSE
+Bi'r ar Rawini	Quwayrat Ma‘dhīyat ash Shi‘b	FALSE
+Shu‘bat al Qadaḩ	Shu`bat al Qadah	TRUE
+Ra's Zallaf	Khawr al Muraydimah	FALSE
+Al Qarah as Suwayda'	Wadi Zatikah	FALSE
+Bi’r Fallājah	Bi’r Fallājah	TRUE
+Qulayb an Nusf	Qulayb an Nuşf	TRUE
+Wādī Darbūk	Wadi Sidi Hamid	FALSE
+Ţarīq ar Rijl	Tariq Mugharghar	FALSE
+Wadi Judad ad Damkh	Wādī Judad aḑ Ḑamkh	TRUE
+قرارة الجيفة	Qar`at al Jifah	FALSE
+Shu`bat Ra's al Himarah	Ghawt ash Shararah	FALSE
+Sabkhat al Qusur	Bi'r Nasirah	FALSE
+Ru'us Umm ad Daffah	Ru’ūs Umm ad Daffah	TRUE
+Zahr Quwayrat ath Tha`alib	Zahr Quwayrat ath Tha`alib	TRUE
+وادي العقيلة	وادي العقيلة	TRUE
+قويرات الضبيبات	Ma‘āţin al Jufayrah	FALSE
+Bi’r Bū Jarrārah	Bi’r Umm al Farā’	FALSE
+Qabilat al `Abadilah	Qabīlat al ‘Abādīlah	TRUE
+Bi’r Qullat ar Ra’s	Bi’r Qullat ar Ra’s	TRUE
+Wadi Bu Haqfah	Wadi Bu Haqfah	TRUE
+Qulūb Dughayj	Bi’r az Zamīlah	FALSE
+Bi'r Jubaybinah	Qarat Saraya al `Allaqi	FALSE
+سانية السودانية	Wadi al `Ajalat	FALSE
+Dayr Hamdan	Ghawt Aranib	FALSE
+Bi’r ‘Awaḑ	وادي تراب	FALSE
+Wādī Bū Ya‘qūb	Ra's al Misann	FALSE
+Bi'r al Karak	Bi'r al Karak	TRUE
+خلة الذهيبة	Abyar Bu Asatayn	FALSE
+Al Mallāḩah al Wasaţīyah	Wādī ath Thanīyah	FALSE
+Kahf az Zarār	As Sulaytah al Hamra'	FALSE
+ماجن عبد الواحد	قرارة الفريسة	FALSE
+Shatib Dughayj	Shatib Dughayj	TRUE
+Wādī ash Shiqqah	Hayy as Salam	FALSE
+Khashm al Bal‘azī	Bi’r Awlād Karīm	FALSE
+Qaryat ad Dararifah	Qaryat ad Dararifah	TRUE
+Jabal Waddān	Jabal Waddān	TRUE
+Qabilat as Salalimah	Ghawţ Tibbis	FALSE
+Saniyat ar Ratiwiyah	Qur Ra's Tawurgha'	FALSE
+Wadi Shaqqat al Hamam	Aḩqāf al Jandal	FALSE
+Ghawt Buraybir	Ghawt Buraybir	TRUE
+Ḩasy al Jalīdīyāt	Ḩasy al Jalīdīyāt	TRUE
+الهروج الأسود	Wadi Hasan	FALSE
+Zahrat al `Inad	Qaryat al Muşallá	FALSE
+Al Qārah al Bayḑā’	Al Qarah al Bayda'	TRUE
+Wadi Haziz	Al Ḩasy al Ḩamrā’	FALSE
+قوز الحمر	Sāniyat al Mismārīyah	FALSE
+Ghawt Satlunah	Farzughah	FALSE
+Ra’s al Maqrūn	Shu`bat al Halfa'	FALSE
+Jabal Awsīd	Bi’r Hāghiyah	FALSE
+Khanabah	Khanābah	TRUE
+Raqubah	Raqūbah	TRUE
+Wādī Yāsīn	Majin Yadam al Jabali	FALSE
+`Urqub al `Ajram	`Urqub al `Ajram	TRUE
+Halq al Matfalah	Ḩalq al Maţfalah	TRUE
+Qārat Ḩuţaybah	Qārat Ḩuţaybah	TRUE
+Qaryat Suluq	Qaryat Sulūq	TRUE
+Bi'r ath Thulayb	Habit al Malihah	FALSE
+Qarat ath Thimad	Baltat al Huwayshat	FALSE
+Wadi Ighladin	Wādī al ‘Uqayb	FALSE
+Wadi az Zighan	ﻏﺪﺍﻤﺲ	FALSE
+Quray‘at al Wadaḩ	Quray‘at al Wadaḩ	TRUE
+Wadi Qararat Sa`id	Wādī Qarārat Sa‘īd	TRUE
+Thamad Bu Maras	Qabīlat al Ḩumrah	FALSE
+Al Kulaybah	Wādī Bayt Şāliḩ	FALSE
+Bi’r Sūsītah	Ra’s al Marasah	FALSE
+Ra’s at Tarwānīyah	Ra's at Tarwaniyah	TRUE
+داود الغربي	Qaţ‘āyat an Na‘jah	FALSE
+Shiyāb al Mutamanni‘āt	Shiyāb al Mutamanni‘āt	TRUE
+Qarat al Basur	Bi'r al Haramat	FALSE
+Qarat Dalma Saghirah	Khashm al Jarrarah	FALSE
+Sawani al Ikhwan	Zaqahīsh	FALSE
+Minţaqat Sāniyat al Māliḩah	Bi’r Khalīl Habīyah	FALSE
+Nashgh ath Tha`lab	Qulayb al Mā’	FALSE
+وادي الأبيتر	Ghawt ash Shuhaybat	FALSE
+Ra’s Gharīb Zalwāz	Bi'r Sidi Khalid	FALSE
+At Tawrikat	At Tawrīkāt	TRUE
+Bi’r ‘Alī Dakhīl	Bi’r ‘Alī Dakhīl	TRUE
+`Urayqat al Fatil	`Urayqat al Fatil	TRUE
+Al Khanabah	Al Khanabah	TRUE
+Wādī al Baţţūm	Wadi al Battum	TRUE
+Bi'r an Nazurah	Bi’r an Nāz̧ūrah	TRUE
+Wadi `Utayr	Wadi `Utayr	TRUE
+Bi’r Sīdī ‘Alī	Bi'r Sidi `Ali	TRUE
+Wadi Wan Maskiki	دور الناقة	FALSE
+Mintaqat Tabirin	Bi'r al Qar`ah	FALSE
+Z̧ahr an Nāz̧ūrah	Al Kharif	FALSE
+Quwayrat aş Şabāyā	Quwayrat aş Şabāyā	TRUE
+Waw an Namus	Bi'r Mayfiri	FALSE
+Wādī al Ba‘r	Wadi al Ba`r	TRUE
+Al Wādī al Kabīr	Al Wādī al Kabīr	TRUE
+Murzuk	Murzuk	TRUE
+Kaf Fassanu	Kaf Fassanu	TRUE
+Qar‘at Dhi’āb	Qar‘at Dhi’āb	TRUE
+Wadi at Tuffah	Wādī at Tuffāḩ	TRUE
+Tawil Zaltan	Wadi al `Aylan	FALSE
+Bi’r al Maqţūf	Bi’r al Maqţūf	TRUE
+Wādī al Bunayyah	Wadi al Bunayyah	TRUE
+Wādī al Khashānah	Wadi al Khashanah	TRUE
+Bi’r Bū at Tuyūs	Bi'r Bu at Tuyus	TRUE
+Wadi Barburish	Wādī Barbūrish	TRUE
+Bi'r Kaddad	شعبية المرقب	FALSE
+Masrab Bu `Ajinah	Dhira` Bin ar Rakawi	FALSE
+قارة الملفة	Bi'r Bu at Tuyus	FALSE
+Al Madinah al Qadimah	Al Madīnah al Qadīmah	TRUE
+‘Ilwat Sulaymān Ḩalīmah	`Ilwat Sulayman Halimah	TRUE
+Suq al `Alaliqah	Suq al `Alaliqah	TRUE
+Bi'r as Salik	Sāniyat ad Daffān	FALSE
+بئر أبو لطفة	قرارة الثل	FALSE
+Wadi Sawf al Jin	Wadi Sawf al Jin	TRUE
+Qīzān al Muqaryaf	Al Qanāfidh	FALSE
+Qarat Tarmas	Qārat Tarmas	TRUE
+Batn Bu Raghwah	Baţn Bū Raghwah	TRUE
+وادي رجيلات الماجن	Madwar az Zaytun	FALSE
+Minqar al Hallab	Bi’r Miţrāw	FALSE
+شعبة الغدير	قويرات النصف	FALSE
+Ar Rābiţah al Gharbīyah	Wādī Mahdūlah	FALSE
+وادي زية	وادي زيان	TRUE
+Shu‘bat al Marāḩ	‘Ayn al Wazghah	FALSE
+Balţāt Muḩammad	Balţāt Muḩammad	TRUE
+جبل أبو مهزية	Wadi ar Rukab	FALSE
+Minţaqat al Kuwayfīyah	Awlad Qalasi	FALSE
+Al Matba`ah al Bayda'	Bi’r al ‘Amārīyah	FALSE
+Marfaq Wādī as Siḩn	Marfaq Wādī as Siḩn	TRUE
+Ghawt Shirfad	Great Man-Made River	FALSE
+Zanzūr	Jabal an Nusf	FALSE
+Wadi Bu ar Rawakh	Wadi al Faqirah	FALSE
+Aqar al `Atabah	Āqār al ‘Atabah	TRUE
+Haqfat at Tarshah	Ḩaqfat aţ Ţarshah	TRUE
+Ru'us ad Dababin	Shatib as Salyah	FALSE
+Wadi Yasin	Khashm at Tamriyat	FALSE
+Wadi Tin Sharuma	Wādī Tīn Shārūmā	TRUE
+Wadi al Jahr	Wādī al Jahr	TRUE
+Wādī aş Şafrā’	Wādī aş Şafrā’	TRUE
+Wān Zawātin	Zazamt	FALSE
+Dūr al Miḩrār	Bi'r Jarjir	FALSE
+Shatib ash Shuwaymirah	Shaţīb ash Shuwaymirah	TRUE
+Wādī Bū Mushayfah	Wadi Bu Mushayfah	TRUE
+Wadi ar Riyaliyah	الحمادة الحمراء	FALSE
+Jabal Maryū	Jabal Maryū	TRUE
+Bi'r Ghandalis	Bi’r Ghandalis	TRUE
+`Ayn al Maghmum	Qaryat Şarkhah	FALSE
+Al ‘Adam	Al `Adam	TRUE
+Tariq `Azizah	Ţarīq ‘Azīzah	TRUE
+Bi'r al Mastutah	Bi’r al Mastūtah	TRUE
+Haqfat at Tarshah	Haqfat at Tarshah	TRUE
+Qaryat az Zarruq	Wādī Bījān	FALSE
+Qabilat al Jawabir	Qabīlat al Jawābir	TRUE
+Ghadir al Buwayqilah	Ghadir al Buwayqilah	TRUE
+‘Ayn Bāqiyah	Saniyat al Qubur	FALSE
+Al Budayr	وادي قرارة بو عجينة	FALSE
+Asaghsar	Wādī Bū Ma‘īţ	FALSE
+Bi'r Abu al Khunfus	Dūr Bū Ḩashīsh	FALSE
+ثمد دكان بو رتم	Wadi Wan Maynah	FALSE
+Ḩaqfat ‘Ayt az Zuway‘il	Ḩaqfat ‘Ayt az Zuway‘il	TRUE
+‘Urūq aţ Ţiwāl	‘Urūq aţ Ţiwāl	TRUE
+Ra’s Baybūk	Wadi al Hadlul	FALSE
+قبر أم الهيشة	قبر أم الهيشة	TRUE
+Al Kish Number 1	Bi'r az Zasar	FALSE
+Qārat aḑ Ḑab‘ al Bārik	Wadi Bin Sabi`	FALSE
+Kāf al Manārī	وادي أبو الخرفان	FALSE
+Oued Zar	Hun	FALSE
+Birqāyat ‘Umar Bin Mīlād	Birqāyat ‘Umar Bin Mīlād	TRUE
+Qarat `Atash	وادي مسعودة	FALSE
+Bi’r Zākim	Bi’r Zākim	TRUE
+Qarat al Marqab	Qārat al Marqab	TRUE
+Wādī Bū ar Ruşayf	Wādī Bū ar Ruşayf	TRUE
+Tenut Mellet	Al `Alawi al Humr	FALSE
+Dur al Bashashim	Shu`bat Badarthan	FALSE
+Ḩarf Markū	Mintaqat as Sabkhat bil Hamadah	FALSE
+Sabkhat Awlad Hamid	Sabkhat Awlad Hamid	TRUE
+وادي السيح الدف	وادي السيح الدف	TRUE
+Al Maslulah	Sabkhat ash Shām	FALSE
+Ru’ūs al Maḩaţţah	Wādī Sulaymān	FALSE
+Wadi al Halq	شعبة البئر	FALSE
+Qaryat `Ayn Abu Ghulah	Wādī az Zubaydāt	FALSE
+Wādī al Karmūsah	Zanzur	FALSE
+Wādī ar Rimth	Wādī ar Rimth	TRUE
+Ghawţ Barsīs	Ghawţ Barsīs	TRUE
+Qarat `Abd al Jalil	Wadi Sarirah	FALSE
+Abyar al `Uwayniyah	Qarat Darb Ghayzal	FALSE
+Wādī al Qurayrah	Nashgh al ‘Arfaj	FALSE
+وادي سواقي الماجن	Wadi ar Ruwayl	FALSE
+Sāniyat al Jarbū‘īyah	Saniyat al Jarbu`iyah	TRUE
+Khashm ar Rih	Khashm ar Rīḩ	TRUE
+Wādī Umm ‘Umūs	Wādī al Ḩasy al Aḩmar	FALSE
+قويرات السدر	Hawa ar Rabidi	FALSE
+Qarat Taslemet	Qarat Taslemet	TRUE
+Bi'r Qulayyah	Bi’r Qulayyah	TRUE
+Wādī Barākit	بئر الشراب	FALSE
+Wādī az Zubaydāt	Wadi az Zubaydat	TRUE
+Shu`bat an Nakhlah	Mintaqat Nafakh	FALSE
+Wadi al Mukaymin	Wadi al Mukaymin	TRUE
+Tāsūnī	Qar‘āt al Ma‘līq	FALSE
+Dhira` Bal`adam	Bu Washkah	FALSE
+Wadi ad Dawaw	Abyar al Muwaylih	FALSE
+Qulayb al Barrūţ	Al Qurdah	FALSE
+Wadi al Fallaq	Ra’s Diqqīs	FALSE
+Wadi Hablas	Hawa `Ali	FALSE
+Anāy an Nāhiyah	Qabīlat Awlād Zā’id	FALSE
+Shu‘bat al Ḩalfā’	Shu‘bat al Ḩalfā’	TRUE
+Ilāgh Naql	Ilāgh Naql	TRUE
+Shaykh al Kifan	Shaykh al Kifan	TRUE
+Wadi al Kudwah	Wādī al Kudwah	TRUE
+Qaryat Sidi Shahir ad Din	Qaryat Sidi Shahir ad Din	TRUE
+Zahr Sumaydah	Qārat at Tamr	FALSE
+Wadi Muna	Ţarīq Umm al Bāqil	FALSE
+Bi’r Maghārat al Wadaḩ	Bi'r Magharat al Wadah	TRUE
+Al Kuthban ar Ramliyah al Hamra'	Al Kuthbān ar Ramlīyah al Ḩamrā’	TRUE
+Marqab adh Dhi'b	Marqab adh Dhi'b	TRUE
+`Ayn Zayyanah	Wadi al Qurnah	FALSE
+Dahman	Dahman	TRUE
+Al Mislāk	Al Mislak	TRUE
+`Ilwat al Maraghan	Sawani al Ball	FALSE
+Ḩalq aḑ Ḑab‘	Halq ad Dab`	TRUE
+Wadi Qarashib	Wadi Qarashib	TRUE
+Wādī al Qirmīyah	Wadi al Qirmiyah	TRUE
+Widyan Bannanah	Widyan Bannanah	TRUE
+Bi'r Saniyat Awlad as Sayyid	Bi'r Saniyat Awlad as Sayyid	TRUE
+Qar`at Musa	Qārat Hanzaba	FALSE
+Ghawt Listus	Ghawt Listus	TRUE
+Ash Sha‘rāyah	Ash Sha`rayah	TRUE
+Ţarīq Bi’r al Ḩakīm	Ţarīq Bi’r al Ḩakīm	TRUE
+جبل الغلالن	جبل الغلالن	TRUE
+Wadi Tilal	Milamm al Luwah	FALSE
+Ghawţ Bū al Gharīzah	Ghawţ Bū al Gharīzah	TRUE
+Bi'r Bu Talhah	Hawá al Khamsah	FALSE
+Ţawq an Nitshah	الزنتان‎	FALSE
+Bi'r ad Daraj	Wadi Timawin	FALSE
+Wādī Bū Kuraymīs	Sāniyat ar Rashād	FALSE
+Ghadir Durayrib	Ghadir Durayrib	TRUE
+Qārat al Basūr	Bi’r Bū Ţalmah	FALSE
+Minqār an Nasr	Shu`bat al Ma'isah	FALSE
+Wadi at Tallah	Bi'r al `Awsaji	FALSE
+Daqqat al Hurayshat	Daqqat al Hurayshāt	TRUE
+Majin Umm al Madas	Majin Umm al Madas	TRUE
+`Urqub al Jubayhat	‘Urqūb al Jubayhāt	TRUE
+Birqayat `Umar Bin Milad	Birqayat `Umar Bin Milad	TRUE
+Jabal al Qulayb	Shatib as Salyah	FALSE
+Bi'r ash Shuraydat	Bi'r ash Shuraydat	TRUE
+وادي لبيض	وادي لبيض	TRUE
+وادي الأزرت	Ma`tan Bint Tifl	FALSE
+Sāniyat ash Shāḩim	Sāniyat ash Shāḩim	TRUE
+Wadi ar Rumaylat	Wādī ar Rumaylāt	TRUE
+Qulayb Umm Dab`ah	Qur ar Ruhaybat	FALSE
+وادي العقر	Ghawt Bikhatiri	FALSE
+Wadi ash Shana`inah	Wādī ash Shanā‘inah	TRUE
+Wādī ar Ramād	Wādī ar Ramād	TRUE
+رأس خشم الطارمة	Ḩaţīyat Jubnah	FALSE
+لود علاق	Wadi al Mahallah	FALSE
+بئر أبو عبيد	بئر أبو عبيد	TRUE
+Mājin Ḩaqfat ar Ratam	المسلاك	FALSE
+Wādī al Marqab	Wādī al Marqab	TRUE
+Minţaqat Wādī Harāwah	Minţaqat Wādī Harāwah	TRUE
+Şayyād	Sayyad	TRUE
+Wādī aţ Ţawq	Qabīlat ‘Uzaymī	FALSE
+Sabkhat Bu Jirah	Wādī Umm al Qā‘	FALSE
+وادي الخضر	وادي الخضر	TRUE
+Bi’r ath Thawr	Baltat Mani	FALSE
+`Ayn as Sayih	Wādī al Ghabī	FALSE
+Bi'r al Maqquz	Bi’r al Maqqūz	TRUE
+Wādī Sūq al Khamīs	Ghawţ ash Shīras	FALSE
+Jāddat Sīlās	Al Muhayshi	FALSE
+بئر سانية بن كريم	قار المزود	FALSE
+Mawājin al Kamāmishah	Mawājin al Kamāmishah	TRUE
+Wadi Harun	Wadi Harun	TRUE
+ترهونة	ﺑﻠﺪﻴﺔ ترهونة	TRUE
+Wadi Battah	Wādī Baţţah	TRUE
+Bi’r Insif	Bi'r Kuhaylah	FALSE
+Bi’r Qabr Maḩmūd	Cyrenaica	FALSE
+قارة الليفة	Ḩaqfat ‘Umar	FALSE
+Wādī Umm al Afrān	Bi’r Ḩaqfat Khalīfah	FALSE
+محرز	Wādī ash Shaqq	FALSE
+Al `Aqabah	Ţawīl ar Rashādah	FALSE
+Wādī al Hayyirah	Bāb Ta’ Jūra‘	FALSE
+Ramlat ar Raqūbah	Qārat Duraysah	FALSE
+Wadi al Maqarr	Wādī al Maqarr	TRUE
+Bi’r as Suwayḩilīyah	Bi'r as Suwayhiliyah	TRUE
+وادي الخرب	Barq al Jidariyah	FALSE
+وادي أم التبايع	Ghawt Umm al Mughr	FALSE
+`Uqlat Sidi Muhammad	‘Uqlat Sīdī Muḩammad	TRUE
+Wādī Ghānim	Wādī Ghānim	TRUE
+Jazirat Umm al Qurami	Wadi Ghuzayyil	FALSE
+Bi’r al Ma‘āşir	Bi’r al Ma‘āşir	TRUE
+Wadi ad Duraybat	Wadi ad Duraybat	TRUE
+Wādī ar Ruşayfah	Madwar az Zaytun	FALSE
+Ghawt al Humayrat	Ghawt al Humayrat	TRUE
+Wadi Umm al Qindil	Ghawt ar Rih	FALSE
+Wadi Bu Mu`ayt	Wādī Bū Mu‘ayţ	TRUE
+Ghawt al Hawiyah	Ghawt al Hawiyah	TRUE
+وادي العوسن	Qarārat Umm al Athāl	FALSE
+Wadi al Mis	Wadi al Mis	TRUE
+بئر زغرار	Majin al `Aqib	FALSE
+Ghawţ ash Sharārah al Kabīrah	Wadi Mazghiyun	FALSE
+Wādī Fāsāt	Ra’s an Niqāb	FALSE
+Tammat `Ayt Umm Shurfah	Tammat `Ayt Umm Shurfah	TRUE
+Khashm Umm al Qarqāz	Khashm Umm al Qarqaz	TRUE
+Qararat Ibrahim	Qarārat Ibrāhīm	TRUE
+Sabkhat ash Sham	Sabkhat ash Shām	TRUE
+Shu`bat ar Ratam	Shu`bat ar Ratam	TRUE
+Ghawţ Shībū	Marsá Zuwārah	FALSE
+Minţaqat Maḩjūb Mīlād	Wadi ath Thiran	FALSE
+Wādī ash Sha`fah	Wādī ash Sha`fah	TRUE
+Wādī az Zuwayyah	Wādī az Zuwayyah	TRUE
+Aş Şafşaf	Quwayrat al Masannat	FALSE
+Saqifat Qusay`at	Qarat Hutaybah	FALSE
+Wādī Fam al Baqarah	Wadi Fam al Baqarah	TRUE
+Wadi Maritah	Wadi Maritah	TRUE
+Bi’r Sulaymān	Bi’r Sulaymān	TRUE
+‘Ayn Bū Najīlah	Rijl Maţrātīn	FALSE
+Tariq Masus	Qārat az Za‘lūţī	FALSE
+Bi'r ad Dabbah	مرسى العويجاء	FALSE
+Mintaqat Lamludah	Mintaqat Lamludah	TRUE
+Wādī ‘Ammār	Wadi `Ammar	TRUE
+Ḩajāj az̧ Z̧āhir	Hulayq ash Shalatit	FALSE
+Qabilat al Qazzir	Qabilat al Qazzir	TRUE
+Wadi Barsis	Ra's Kurkurah	FALSE
+Ra’s Tītī	Ghawt Bikhatiri	FALSE
+Ghawţ as Sūs	Bi’r Umm al Gharānīq	FALSE
+Al Maghāsil	Al Maghāsil	TRUE
+Ra’s Bībāş	Qararat al Hatiyah	FALSE
+Qūr aḑ Ḑubayyāt	Wādī ‘Azīzah	FALSE
+Abū al Khunfus	Bi'r Ru'us al Aslah	FALSE
+Wadi Qadam	Al Masna`	FALSE
+Ra's Abu Magharah	Wadi Tiklah	FALSE
+قارة تزقيارة	قارة تزقيارة	TRUE
+Huwayrat al Mazawil	‘Ayn Gharībah	FALSE
+Bi'r Ra's al `Uqab	Mudīrīyat al Maḩjūb	FALSE
+Quwayrāt al Hayyirah	Ar Rajbān	FALSE
+Zawiyat Umm Hufayn	Zāwiyat Umm Ḩufayn	TRUE
+Qarat ar Raqubah	Qarat ar Raqubah	TRUE
+Qarārat Wādī	Qararat Wadi	TRUE
+Ash Shawashinah	Wadi al Mirdan	FALSE
+Bi’r Awlād ‘Īsá	Bi'r Awlad `Isa	TRUE
+Bi'r al Jawami`	Qabilatal `Ashashi	FALSE
+Ḩaţīyat al ‘Āmirah	Al ‘Adhrā’	FALSE
+وادي الزيتون	وادي الزيتون	TRUE
+Wadi al `Aflah	Wādī Bū Na‘āmah	FALSE
+Saqīfat Khurayjah	Saqifat Khurayjah	TRUE
+Wadi Wuraymahat	Qarat as Sidr	FALSE
+‘Ilwat az Zawwām	‘Ilwat az Zawwām	TRUE
+Bi'r Shu`aydan	Wādī al Qandūl	FALSE
+Wādī al Ḩijbah	Wadi al Hijbah	TRUE
+Wadi al Hayah	Sabkhat Zughbah	FALSE
+Al Huwayyat	Al Huwayyāt	TRUE
+وادي الشاطئ	شعبية وادي الشاطئ	TRUE
+Bi’r az Zakkār	Mahraz	FALSE
+Lawlab al Jifah	Lawlab al Jīfah	TRUE
+شعبة قريزة	Wādī an Narmān	FALSE
+Ar Ra's al Ma`zul	Shatib al Mizyar	FALSE
+Karmūsat al Hawādij	Karmūsat al Hawādij	TRUE
+Ḩamrāyat Anqāb Abū ash Shawk	Ḩamrāyat Anqāb Abū ash Shawk	TRUE
+Idhan Murzuq	Haqfat Makayil	FALSE
+Al Murayḩilah	Al Murayḩilah	TRUE
+قويرات الضبيبات	قويرات الضبيبات	TRUE
+Tabaqat Basil	Ţabaqat Bāsil	TRUE
+Wadi az Zaytun	Wādī az Zaytūn	TRUE
+Wadi Umm al Hidan	Wādī Umm al Ḩīḑān	TRUE
+Shu‘bat al Bilād	Shu`bat al Bilad	TRUE
+Bi'r Duhaym	Bi’r al Majādhīb	FALSE
+Bi’r al Yahūdīyah	‘Ayn al ‘Afw	FALSE
+Bi’r Ţawīlat az Zāwiyah	Bi'r Tawilat az Zawiyah	TRUE
+Rurayat al Maraghid	Rurayat al Maraghid	TRUE
+Qabīlat Kammūn	Qabīlat Kammūn	TRUE
+Sayh al `Adid	Qarārāt al Marqab	FALSE
+Wādī Muná	Wādī Muná	TRUE
+Al Khurmah al Hamra'	Al Khurmah al Hamra'	TRUE
+عرقوب المقريف	عرقوب المقريف	TRUE
+Umm al Mitmar	Bi’r Tūhāb	FALSE
+Minqar `Ayyad	Wādī Umm ash Shalātīt	FALSE
+Wadi al Huraqi	Wādī al Ḩurāqī	TRUE
+Fasqiyat al Farjan	Fasqiyat al Farjan	TRUE
+Harf al Qubayrat	Ḩarf al Qubayrāt	TRUE
+Wadi al Kilayah	رأس بو مداد	FALSE
+Wādī Tmissān	Wadi Tmissan	TRUE
+Bi’r Ḩalab	Mudīrīyat al Ḩanīyah	FALSE
+Wadi Ilfere	Marsá Mashāwish	FALSE
+Ra’s Burayqat aḑ Ḑab‘	Ghawţ al Ḩamrah	FALSE
+Qararat `Abd al Fadil	فسكية الحاج	FALSE
+Wadi at Tarfawi	Wadi at Tarfawi	TRUE
+Al Mirkaz	Al Mirkāz	TRUE
+Lawlab Umm Shuyut	Lawlab Umm Shuyūt	TRUE
+Wadi al Buqayr	وادي العساف	FALSE
+Quwayrāt al Bāqil	Ma‘būs al Jarād	FALSE
+Bi’r az̧ Z̧ayy	Bi'r az Zayy	TRUE
+Wādī al Ḩumayrah	Wadi al Humayrah	TRUE
+Mintaqat Targhalat	Minţaqat Targhalāt	TRUE
+Wādī al Qūrá	Wadi an Nizamat	FALSE
+دور الموقف	Bi'r Mahmud	FALSE
+Al Ḩadd	Al Ḩadd	TRUE
+Wādī Ba‘īrah	Wādī Ba‘īrah	TRUE
+Wādī Baţţūmah	Wadi Battumah	TRUE
+Shatib al Maharah	Manqa` al Maslaqun	FALSE
+Qabilat Awlad Hamad	Qabilat Awlad Hamad	TRUE
+Wadi al Akhdar	وادي التاقة	FALSE
+Shatib Dammus	Shatib Dammus	TRUE
+وادي العقاب	وادي العقاب	TRUE
+قرية القداحية	Qabīlat Ḩawātim at Tallah	FALSE
+Z̧ahr Şumaydah	Jazīrat Bū Shu‘ayfah	FALSE
+Nuqrat al Faras	Murur Barak	FALSE
+Khushaym Ramlat Sīlās	Bi'r al Baha'ir	FALSE
+`Unqud al Yasirat	`Unqud al Yasirat	TRUE
+Al Hashiyah al Hamra'	Sāniyat Dūshīn	FALSE
+‘Ayn az Zarūq	‘Ayn az Zarūq	TRUE
+Wādī as Saḩābah	Wadi as Sahabah	TRUE
+Al `Amrusiyah	Al `Amrusiyah	TRUE
+Al Farsh	Al Farsh	TRUE
+Mājin al Jalhah	Mājin al Jalhah	TRUE
+Haraf al `Awwam	Qandafurah	FALSE
+Ra’s Daf‘ al Minsāz	Ra’s Daf‘ al Minsāz	TRUE
+Al Majaghah	Al Majāghah	TRUE
+Bushaytī	Al Hananat	FALSE
+‘Ilwat al Qadhdhāfī	تين الخرمة	FALSE
+Wadi Bu Jadid	Wādī al Bināyā	FALSE
+Wādī Khalīfah	Wadi Khalifah	TRUE
+Bi’r at Tīshīyah	Wadi an Nakhlah	FALSE
+Bi'r al Hawal	Wadi al Bumah	FALSE
+Bi’r Amāsīn	Bi’r Amāsīn	TRUE
+لوذ جوف الحمار	لوذ جوف الحمار	TRUE
+وادي بي الخائب	Qarat Tizul	FALSE
+Mintaqat Shalamuniyah	Wādī `Usaylah	FALSE
+Qārat al Qadqādīyah	Qārat al Qadqādīyah	TRUE
+Wādī al Farjūfah	Wadi al Farjufah	TRUE
+Saqifat al Quwaytinat	وادي المهري	FALSE
+Qabīlat al ‘Abābisah	Funduq al Jahsh	FALSE
+Habīţ ash Shaykh	Habit ash Shaykh	TRUE
+‘Ilwat at Tumayr	‘Ilwat at Tumayr	TRUE
+وادي النعاج	وادي النعاج	TRUE
+Al Maqrūn	Al Maqrun	TRUE
+شعبات السويدات	شعبات السويدات	TRUE
+Wādī Bū Raniyah	Wadi Bu Raniyah	TRUE
+Al Muqazzaḩah	Qaryat Şūr A‘rābī	FALSE
+Nazwāt al ‘Arkah	Nazwat al `Arkah	TRUE
+Halq Marmar	Wādī aş Şurayrīq	FALSE
+Idri	Ra's al Kilayah	FALSE
+غوط العلبة	غوط العلبة	TRUE
+Barqat Tījī	Wadi al `Atrani	FALSE
+Shu`bat Umm as Sabt	Bi’r al Hādī Bin ‘Ammār	FALSE
+Ḩalbat al ‘Izbah	Halbat al `Izbah	TRUE
+Hatiyat al Fenneh	Ghallābat ‘Alyah	FALSE
+Wādī al Musharrak	Wadi al Musharrak	TRUE
+Bi'r al Haba	Bi'r al Haba	TRUE
+`Aqirat al Washkah	‘Aqīrat al Washkah	TRUE
+Wādī Ḩalq Rāshid	Wadi Halq Rashid	TRUE
+Bi’r al Ḩaz̧z̧ayn	Wadi Shuqran	FALSE
+جبل إيراون	جبل إيراون	TRUE
+Shāri‘ al Andalus	Jabal Aghram Nūd Adin	FALSE
+Khashm at Tamrīyāt	Wādī Bū al Khinfis	FALSE
+Shu`bat al `Ajuz	Qar`at Hanzaba	FALSE
+Saqiyat al Mukhayzin	Sāqiyat al Mukhayzin	TRUE
+Wadi al Khusayn	وادي الظليم	FALSE
+Bi’r Yūsufīyah	Bi'r Yusufiyah	TRUE
+Sawani Bin Adam	Sawānī Bin Ādam	TRUE
+Abyār al Azwāf	Wādī Talghazah	FALSE
+Wadi al Qattarah	Wadi al Qattarah	TRUE
+Wādī Zaghwān	Wadi Zaghwan	TRUE
+Aghţās	بئر الحمرة	FALSE
+Bi’r Shaqqāq	Bi’r Shaqqāq	TRUE
+سيح العلندة	معطن بن الراوي	FALSE
+Minqar ash Shahwan	Minqar ash Shahwan	TRUE
+As Silmiyat	‘Alam adh Dhi‘b	FALSE
+Umm al Asqaf	Umm al Asqaf	TRUE
+Wadi Sahil Qabw al Ibil	Wadi Sahil Qabw al Ibil	TRUE
+Dūr Umm al Milḩ	Wādī Bū Ḩajar	FALSE
+Wādī Khiyār	Wadi Khiyar	TRUE
+Wādī al Māliḩ	Wādī al Māliḩ	TRUE
+Qabīlat al ‘Arīq	Qabīlat al ‘Arīq	TRUE
+حمادة تنغرت	حمادة تنغرت	TRUE
+Bi'r Salih `Umar	Wadi `Adwan	FALSE
+Saniyat al Khanqah	Sāniyat al Khanqah	TRUE
+Ra's as Sanam	Qannīn	FALSE
+Qarat as Sab`ah	Qarat as Sab`ah	TRUE
+Ghawţ as Sadīdah	Wadi an Nahabi	FALSE
+Bi’r Bū Rīshah	Bi'r Bu Rishah	TRUE
+جبل أميد راجن	Qabilat Awlad Murghum	FALSE
+Aţ Ţarīq ad Dā’irī ath Thālith	Qabilat ar Rawabih	FALSE
+Wādī Bin al Abkam	`Urqub al Arbad	FALSE
+Tariq Kabbutsu	Ţarīq Kabbūtsū	TRUE
+Wadi Sabsib as Saghir	عرقوب الحائلة	FALSE
+Bi’r Uoigh	Bi’r Uoigh	TRUE
+Bi’r Sarīr	Bi'r Qahtan	FALSE
+قرارة بن سهبان	Shaţīb al Ghiryān	FALSE
+Hawá Bū an Nāşir	Ra's Magoran	FALSE
+Daffat aḑ Ḑabāb	Wadi al Mash`ub	FALSE
+Bi'r ar Ramadiyah	Wadi as Sultan	FALSE
+وادي الدبي	وادي الدبي	TRUE
+Wadi al Ghani al Kabir	وادي الأجرب	FALSE
+بئر الأنقاض	Saqifat ash Shuway`irat	FALSE
+قويرات زكير	Al Buqaraqa	FALSE
+Mīdal	Mīdal	TRUE
+Abyār Ziblāw	Abyār Ziblāw	TRUE
+Hishan al `Aryat	Ḩīshān al ‘Aryāt	TRUE
+Maḩrūqah	Maḩrūqah	TRUE
+Wadi Shati al Ikhwan	Abyār al Yahūdīyah	FALSE
+‘Ayn Gharībah	Qabilat al Lutfah	FALSE
+Qabilat al Khums	Qabīlat al Khums	TRUE
+Kum Majīd	Kum Majīd	TRUE
+Bi’r Umm Surratayn	Bi'r Duhaym	FALSE
+Wādī Bi’r al Ghanam	Wādī Bi’r al Ghanam	TRUE
+Bi’r al ‘Uqlah	`Urqub Fazzan	FALSE
+Daf` Wadi Lasufah	Daf` Wadi Lasufah	TRUE
+Wādī ar Rīḩ	Wadi ar Rih	TRUE
+Wadi al Maslulah al Ghawiyah	Qaryat Sur A`rabi	FALSE
+Ra’s Khashīrah	Ra’s Khashīrah	TRUE
+Wādī Ḩanīth Bin Khālid	Wādī ash Shaţīb aţ Ţa‘ām	FALSE
+Bi'r Raqabat an Naqah	Bi’r Raqabat an Nāqah	TRUE
+Karmusat Umm Shalnaq	Bi’r ar Rayyān	FALSE
+As Suwayrāt	Baţţat Umm aţ Ţalḩ	FALSE
+Wādī al Misţāwī	Wādī al Misţāwī	TRUE
+Wādī Uri Dross	Ţarīq Mugharghar	FALSE
+`Alam al `Izam	Bi'r Yunus	FALSE
+Wadi al Manshi	Bi’r as Salḩah	FALSE
+وادي المعقور	Ḩurayshah	FALSE
+Wādī al Ḩamāmah	Bi’r aş Şafaq	FALSE
+Ghawţ al Qubbī	الببسى	FALSE
+Ash Shabb	Qārat al Qaţ‘	FALSE
+Ra’s Bībāş	Wadi Bu Duwayshah	FALSE
+Bi'r az Zaqilat	Bi’r az Zaqīlāt	TRUE
+Qarār al ‘Alālif	Wādī Bilḩumayḑāt	FALSE
+Wādī al ‘Uqbah	Qārat at Taw’amah	FALSE
+Tajmūt	Tajmūt	TRUE
+Wadi Jadaqiya	Ra’s al Qabw	FALSE
+Dayr Bū Rakhīş	Wadi Bu Ma`it	FALSE
+Qārat ash Sha‘lā’	Qarat ash Sha`la'	TRUE
+Quwayrat al Qati`ah	Quwayrat al Qati`ah	TRUE
+Wādī aţ Ţalaḩ	سانية ساق عبد الله	FALSE
+Ra’s Wādī Bū as Su‘ūd	Qabilat Tayyib al Ism	FALSE
+Wadi Jadawi	Al Abyār	FALSE
+Qarārat Qaşr at Turāb	Wadi Qiham	FALSE
+Bi’r Ţawīl ash Shārif	Bi'r Tawil ash Sharif	TRUE
+Wadi al Istatah	Quwayrat el Gella	FALSE
+Wadi Simal al Jallabah	Wādī Sīmāl al Jallābah	TRUE
+Tawilat as Suq	Ţawīlat as Sūq	TRUE
+Masrab Bū ‘Ajīnah	Masrab Bu `Ajinah	TRUE
+Shu`bat at Talah	‘Ayn al Faras	FALSE
+Bi'r al Muqarranat	Bi'r al Muqarranat	TRUE
+Rurayat Sayd al Layl	Wādī Fuzayr	FALSE
+Wadi al Qurayrah	Abyār at Turghul	FALSE
+زاوية التريت	Qārat Bi’r Māsin Bin Jarjīr	FALSE
+وادي يونس	Abar Bu at Tibn	FALSE
+Tījī	Wadi al Milazz	FALSE
+Wadi al Hulqumah	Wādī al Ḩulqūmah	TRUE
+Al Firtasah	Al Firtasah	TRUE
+Wadi az Zahibah	Wadi az Zahibah	TRUE
+Wadi Buruk	Khashm Umm al Ghirbal	FALSE
+Bi’r al Qulay‘āt	Bi’r al Qulay‘āt	TRUE
+Wadi al Waddan	Wādī al Waddān	TRUE
+Minţaqat Lafşakāt	Mintaqat Lafsakat	TRUE
+Bi'r al Muqayrin	Bi’r al Muqayrīn	TRUE
+Mājin al Jā’if	Bi’r al Qarīn	FALSE
+Wadi al Wadah	Wādī Mughrān al Kabīr	FALSE
+Qabīlat Bishārah	معطن الشائبة	FALSE
+بئر النغيرات	بئر النغيرات	TRUE
+Bi'r Intalkhata	Wādī Umm al Qimam	FALSE
+Bi'r ash Shafshaf	Bi'r ash Shafshaf	TRUE
+قرارة تقرفت	الهروج الأسود	FALSE
+Wadi Thamad Kabaw	‘Ayn al Bayt	FALSE
+Shi`ab as Sutayl	Shi`ab as Sutayl	TRUE
+Wadi Umm ar Rawahil	Wādī Umm ar Rawāḩil	TRUE
+Bi'r Bu Raghwah	Bi'r Bu Raghwah	TRUE
+Bi'r al Fatimi	Wadi ar Ruzah	FALSE
+Bi'r Tasantunin	Daf‘ al Laḩm	FALSE
+Ţarīq ash Shaţţ	Ţarīq ash Shaţţ	TRUE
+As Sabkhah al Hamra'	As Sabkhah al Hamra'	TRUE
+`Ayn ash Shisu	`Ayn ash Shisu	TRUE
+Ghawt al Walib	Ghawt al Walib	TRUE
+Quray‘ al Laban	Quray` al Laban	TRUE
+وادي شعبة الطريق	وادي شعبة الطرق	TRUE
+Ghawt al Karam	Abyār Ḩalq Barqah	FALSE
+Wadi Isrul	Ghawţ al Ḩaşşunah	FALSE
+Bi’r Karmūsat Qaşşābah	Bi’r Karmūsat Qaşşābah	TRUE
+ماجن القطفة	ﺑﻠﺪﻴﺔ ﻏﺪﺍﻤﺲ	FALSE
+Minqar az Zariziyah	Minqār az Zārizīyah	TRUE
+Sabkhat al Quşūr	Sabkhat al Quşūr	TRUE
+Wādī Mughrān al Kabīr	Wādī Mughrān al Kabīr	TRUE
+Qarat al Qunnah	Qarat al Qunnah	TRUE
+Wadi al Mudaywir	Wādī al Mudaywir	TRUE
+Wādī al ‘Aqūrah	Wādī al ‘Aqūrah	TRUE
+Wadi al Lakdah	Wādī al Lakdah	TRUE
+Hawá ‘Abd al Qādir	Hawá ‘Abd al Qādir	TRUE
+Umm al Ajlāf	Khawr as Sufan	FALSE
+`Ayn Hutaybah	Ra’s Wādī al Amīn	FALSE
+At Tala'i`iyah	At Tala'i`iyah	TRUE
+Bi’r Qaşr al Buwayt	وادي شقامة	FALSE
+Mudiriyat al Bawanis	Mudiriyat al Bawanis	TRUE
+Wādī Bū Rīfah	Wadi al Mukayhin	FALSE
+Quwayrāt aḑ Ḑubayyib	Sawani Shahawi	FALSE
+Wādī al Wābirī	Kudwat al Halfa'	FALSE
+Halq ar Ruhaybah	Halq ar Ruhaybah	TRUE
+Bi’r Muḩammad ash Shāmikh	وادي بزرة	FALSE
+Qa`r al Bayd	Ma`tan al Khariqah	FALSE
+Misratah	Misratah	TRUE
+Marsa Zuwarah	Marsá Zuwārah	TRUE
+بئر القمح	‘Ayn Burūr	FALSE
+Ra’s Bū al Jarāf	Ra's Bu al Jaraf	TRUE
+Al Hīshah	Al Hīshah	TRUE
+Mājin Daf‘ az Zarq	Majin Daf` az Zarq	TRUE
+Hufrat Wadi Masliqun	Ḩufrat Wādī Masliqūn	TRUE
+Bi'r Umm ar Raml	قرارة سي أحمد	FALSE
+Hutaylat al Manshi	Hutaylat al Manshi	TRUE
+Qarārat al Kūk	Hajaj Shawmar	FALSE
+Haqfat al Jarbi	Haqfat al Jarbi	TRUE
+Bi’r al Qarmāzī	Bi’r al Qarmāzī	TRUE
+Shatib al Barahimah	Shatib al Barahimah	TRUE
+Bi'r al Ḩatīwah	Bi'r al Ḩatīwah	TRUE
+Wādī al Ḩamrā’	Wadi al Hamra'	TRUE
+Bi’r Tajamal	Bi'r ar Rakha'	FALSE
+Wadi az Zir	Wādī az Zīr	TRUE
+Ghadir Umm al Baryuf	Ru'us ar Rijal	FALSE
+Al Mirkāz	Al Mirkaz	TRUE
+Wadi Sulayman	Sāniyat ash Shaqqah	FALSE
+Shaţīb adh Dhibbānah	زاوية جنزور	FALSE
+Dur ad Darratah	Dur ad Darratah	TRUE
+Al Jabal al Baḩrī	Murayqib an Na‘ām	FALSE
+Qarat al Kilab	Qarat al Kilab	TRUE
+Najilat al Bayabah	Bi'r Abu al Ghurab	FALSE
+Bir Kat al Mu`aybidi	Bir Kat al Mu‘aybidī	TRUE
+Shatib al Jununah	Bi'r Bu al Khatir	FALSE
+Wādī al Ḩaddādīyah	Wādī al Ḩaddādīyah	TRUE
+Ra’s al Wādī	Wadi `Azizah	FALSE
+‘Urqūb al Jubayhāt	`Urqub al Jubayhat	TRUE
+Bi'r an Nuri	Ra's al Hamra'	FALSE
+Buḩayrat al Muzayri‘	Wadi as Sultan	FALSE
+Shu`bat Khalifah	Shu`bat Khalifah	TRUE
+Wādī Jalāl	Qarārat al Qar‘ah	FALSE
+Bi'r Hakim	Bi’r Ḩakīm	TRUE
+Wadi al Ghuwayl	Wādī al Ghuwayl	TRUE
+Bi'r al Juhfah	‘Ayn at Turk	FALSE
+Wādī Bilḩumayḑāt	Aş Şafşāf	FALSE
+Z̧ahr Umm Khuwayţ	Z̧ahr Umm Khuwayţ	TRUE
+Qabilat Awlad Shukr	Bi’r al Milḩah	FALSE
+Minţaqat Tamūrī	Qararat Bu Qussah	FALSE
+Shu`bat al `Asn al Ahmar	Shu‘bat al ‘Asn al Aḩmar	TRUE
+Ghawt Bandis	Ghawt Bandis	TRUE
+Bi'r al Yahudiyah	Bi’r al Yahūdīyah	TRUE
+Wadi al Maqta	Bi'r al `Umayrah	FALSE
+Secca Bu al `Ifrit	Secca Bu al `Ifrit	TRUE
+Nazwāt al ‘Arkah	جبل حواز	FALSE
+Ghawţ al Karam	Ghawt al Karam	TRUE
+Al Wā‘irah	Al Wā‘irah	TRUE
+Hatiyat Zaydan	Al `Aqabah	FALSE
+Ḩajāj Ţarshah	Al Qabil	FALSE
+Ghawţ Listūs	Wadi ad Dasiyah	FALSE
+Wadi Bisharah	Wadi Bisharah	TRUE
+Wādī Miridin	Wadi Miridin	TRUE
+Abyār Ghuwayţ Mu’min	Ḩalq ar Ruḩaybah	FALSE
+Qarn al Hisan	Qarn al Hisan	TRUE
+Marsá al ‘Awdah	Marsá al ‘Awdah	TRUE
+Wadi ar Rimthayah al Gharbiyah	Ra's `Abbu	FALSE
+Bi'r al Farid	Sabat al Lababid	FALSE
+طويل الزربة	Bi’r Raf‘ah	FALSE
+Bi’r Bū Qurayn	Jabal as Sibat	FALSE
+Bi’r Umm Shuwayshah	Ra’s al ‘Unuq	FALSE
+Al Wasadinah	Abyar Bu al Qaddahah	FALSE
+Dayr Ḩamdān	وادي أم الرتم البتيرة	FALSE
+Z̧ahrat al Ghār	Z̧ahrat al Ghār	TRUE
+Qarbū ‘Ayt Ḩammād	Majin al Madhun	FALSE
+Bi'r Awlad `Isa	Bi’r Awlād ‘Īsá	TRUE
+Siyāḩ Bū Dīnār	Wādī Warjīn	FALSE
+‘Urqūb al Ḩalīb	قرية جيتال	FALSE
+Shatt ad Din	Shaţţ ad Dīn	TRUE
+قرارة بوكار	قرارة بوكار	TRUE
+Bi'r Zar	Bi’r Zār	TRUE
+محافظة النقاط الخمس	Nakhl `Abd al Jalil	FALSE
+Shari` `Umar al Mukhtar	Shari` `Umar al Mukhtar	TRUE
+Wādī Tilamsīn	Wādī Tilamsīn	TRUE
+Bi'r Mirshan	Bi'r Mirshan	TRUE
+Bi'r as Sabaya	Bi’r aş Şabāyā	TRUE
+Wadi Masin	Wādī ash Shalākhāt	FALSE
+قار شلوغ	Qaltat al ‘Azzāzīyah	FALSE
+Cirene	Cyrène	TRUE
+Ma`tan Mazuz	Ru’ūs al Ḩammādīyah	FALSE
+Dur Abu al Ashlam	Qalb Tar Bu Qihf	FALSE
+‘Ayn al Khuḑar	`Ayn al Khudar	TRUE
+وادي البيض	وادي البيض	TRUE
+Wādī In Bataygh	Wādī In Bataygh	TRUE
+Bi’r Musā‘id	Wadi Luqmah	FALSE
+`Ilwat ath Thalm	Wadi Talghazah	FALSE
+Qararat Umm al Laban	Wādī Bū Ghadīr	FALSE
+Tādūt	Abyār Bū al Qaddāḩah	FALSE
+سرى الصلح	Wadi al Hayshan	FALSE
+وادي التلهية	Ma`tan Bint Tifl	FALSE
+Wādī Umm ‘Illah	Wadi Umm `Illah	TRUE
+Mintaqat Hadid	Bi’r ‘Uthmān	FALSE
+Wādī Jurayjīf	Wadi al Ghubi	FALSE
+Ru’ūs al ‘Akkārī	Bi’r Umm al Gharānīq	FALSE
+Bu Halasat al Harari	Qaryat Falt al Jall	FALSE
+Bi’r Bū Ashnāf	Bi'r Bu Ashnaf	TRUE
+وادي محرار	Qulaybāt al Ḩināk	FALSE
+وادي دبدب	وادي دبدب	TRUE
+Shu`bat al Hawas	رأس الحشانا	FALSE
+داود البحري	Wadi al Murayghah	FALSE
+Wadi ar Radi`	بئر بوغريس	FALSE
+Dūr Ummahāt al Milḩ	Ghawţ al ‘Abd	FALSE
+Suq al `Alaliqah	محافظة غات	FALSE
+Zahr as Salib	Ghawt al Karmihi	FALSE
+Wādī al Muwayliḩ	Wadi al Muwaylih	TRUE
+Wādī Terhen	Mudaywir Sammalus	FALSE
+‘Urqūb Ţawq	Al Qizan ath Thalathah	FALSE
+Bi'r ar Rakb	وادي الرجل	FALSE
+Qararat Taqrifat	Qararat Taqrifat	TRUE
+‘Ilwat Bū Qarshūdah	Wadi al Kaf	FALSE
+Al Jabal al Akhdar	Al Jabal al Akhdar	TRUE
+Bi'r Istatah	Bi'r Istatah	TRUE
+Bi'r Abu al Karaki	Abyār al Baqarah	FALSE
+Wādī Wān Tibrīt	Al Qarārah al Ḩumayrā’	FALSE
+‘Uyūn Khawlān	Bi’r Bū ‘Aţīyah	FALSE
+Qarat Umm al Milh	Qarat Umm al Milh	TRUE
+Sāniyat al Māliḩah	Saniyat al Malihah	TRUE
+Al Jazirah	Al Jazirah	TRUE
+Habīţ an Nāqah	Habit an Naqah	TRUE
+Wādī Mīrzayn	Ra's Sidi Hakam	FALSE
+لوذ أم النعام	لود أم النعام	TRUE
+Ḩaqfat an Nāz̧ūrah	Ḩaqfat an Nāz̧ūrah	TRUE
+Milamm al Luwah	Milamm al Luwāḩ	TRUE
+Wadi Umm an Nashf	Baltat ash Shakhatir	FALSE
+Wadi al `Unnab	Jalu	FALSE
+Qaryat at Tanasiyah	Qaryat at Tanāsīyah	TRUE
+Wādī Awbarakāt	Shaţīb al Munbalaţah	FALSE
+Ra's al Farafit	Minţaqat al Qaţţārah	FALSE
+Bi’r Kuḩaylah	قارة الملفة	FALSE
+Wadi Bid az Zawiyah	Wādī Ibrāhīm	FALSE
+Wadi Analalin	Minqar Ihqas	FALSE
+Quţţah	Quţţah	TRUE
+Abyār Ḩufrat al Qaţā	Ghawt Fatinis	FALSE
+Wadi at Tawati	Wādī Lukk	FALSE
+Ar Rābiţah al Gharbīyah	Shu‘bat al Jalāliţah	FALSE
+`Ayn Bu Karmusah	‘Ayn Bū Karmūsah	TRUE
+Ḩaqfat al Aşfar	Widyān Zalţan	FALSE
+Wādī al Maḩrūqah	Wadi al Mahruqah	TRUE
+Bi'r `Uwaynat al Azhar	Bi’r ‘Uwaynat al Azhar	TRUE
+`Aqirat al Manasib	Jabal Rukn	FALSE
+Umm Shuwayl	قرارة الدغيلية	FALSE
+Wādī al Battār	Dhira` Jaytal	FALSE
+Wadi az Zabbuzah	Ḩajāj as Sidrah	FALSE
+Haqfat Umm ad Daraj	Haqfat Umm ad Daraj	TRUE
+Shu`bat Umm al Baqil	Shu`bat Umm al Baqil	TRUE
+Mazra`at Saqil	Mazra`at Saqil	TRUE
+Marsá Mashāwish	Marsá Mashāwish	TRUE
+Ras Abaydah	Ras Abaydah	TRUE
+Bi’r al Ghardaqah	Bi'r `Ayt as Sa`idi	FALSE
+Wadi ar Rujaylat	Wādī Ḩamāmah	FALSE
+`Ayn ath Tha`lab	Bi’r al Khūbīyah	FALSE
+Wādī Mayyār	Wādī Mayyār	TRUE
+Wādī Sāqāwah	Wadi Saqawah	TRUE
+Wādī Ikmilladah	Tawil al `Asal	FALSE
+Mintaqat al `Azm	Mintaqat al `Azm	TRUE
+خلة الذهيبة	Bi'r Bu al `Amad	FALSE
+Wādī ash Shafaţ	Wādī ash Shafaţ	TRUE
+Wādī Ḩashāsh	Wadi Hashash	TRUE
+Wadi al Qasabah	Wādī al Qaşabah	TRUE
+Wadi al Hatiyah	Wadi al Hatiyah	TRUE
+المقارين	Wadi al Hawsh	FALSE
+Ḩasy Abū ‘Uwayjah	Ghīţān Shaghīlān	FALSE
+Bi'r al Muzayri`at	Wādī al Kibr	FALSE
+Wadi al Maqatil	Wadi al Maqatil	TRUE
+قويرات عبد الجليل	Waddan	FALSE
+Lībiyā	Sabkhat Mawalih	FALSE
+Kaf al `Uwayja'	Ḩaqfat Wādī ‘Aţīyah	FALSE
+Al Hashāsh al Abyaḑ	Al Hashāsh al Abyaḑ	TRUE
+Ramlat Funduq al Khums	Darb al Jabruni	FALSE
+Wādī al Qahāsh	Wadi al Qahash	TRUE
+Wadi Bu Dulaylah	Wadi Bu Dulaylah	TRUE
+Qabilat ash Shanazah	Qabilat ash Shanazah	TRUE
+Ghawt Bu al Hamid	Masak Mastafat	FALSE
+Bi’r Kuḩaylah	Bi’r Kuḩaylah	TRUE
+As Sakkarin	Minţaqat Bū Manās	FALSE
+Sabkhat al Mafrūth	Sabkhat al Mafrūth	TRUE
+Sawānī Sawkanah	‘Urqūb ash Shawā‘ir	FALSE
+Qarārat Abū Ḩawwā’	Bi’r al A‘waj	FALSE
+Ra's ash Shuwayyilah	Ra's ash Shuwayyilah	TRUE
+Tariq al Hamamah	Ţarīq al Ḩamāmah	TRUE
+Khirbat al Barāhimah	Buhayrat al Muzayri`	FALSE
+Wādī al Gharbīyāt	Wādī al Gharbīyāt	TRUE
+Wādī al Qallū	Wadi al Qallu	TRUE
+Wadi Sayh al Lathiq	Wādī Sayḩ al Lathīq	TRUE
+Al Ḩamrā’	Al Ḩamrā’	TRUE
+Ghurayb al Farid	Ghurayb al Farīd	TRUE
+Quwayrat Bū ‘Amūd	Shaţīb adh Dhibbānah	FALSE
+Wādī ‘Ayn Almās	Wādī ‘Ayn Almās	TRUE
+Bi'r Mayfiri	وادي محقن	FALSE
+رملة زقوط	Bi'r Bu `Asakir	FALSE
+Abyār Khayrah	Barqat Tījī	FALSE
+Wadi Bi'r al Wa`ir	Shu`bat Umm al Jidari Sitrah	FALSE
+Wadi al Fayini	Wadi Bu Ruqay`ah	FALSE
+Hajaj Batrunah	Ḩajāj Baţrūnah	TRUE
+حسي الفرد	حسي الفرد	TRUE
+Qa‘rat Bin Sanās	Bi'r as Samhudiyah	FALSE
+Zahr al Ghabah	Zahr al Ghabah	TRUE
+وادي الفارغ	وادي الفارغ	TRUE
+Chatham	‘Ayn al Bāqah	FALSE
+Qarat ash Shush	Sirat al Anqal	FALSE
+Wudayy al `Amad	Wudayy al `Amad	TRUE
+Bi’r Ḩajar	Raqābat al Harīsah	FALSE
+Ḩaqfat ad Durbāk	Ḩaqfat ad Durbāk	TRUE
+Dār al Kīsh	Dar al Kish	TRUE
+‘Ayn Abū ‘Ayyād	Wadi Adaranjilku	FALSE
+Bi'r al Majdhubi	Bi'r al Majdhubi	TRUE
+Wādī az Zaḩīf	Abyār Bū Farwah	FALSE
+Qabilat Maqasibah	طويل الحداد	FALSE
+Bi'r Muhammad Humayd	Ghawţ Barsīs	FALSE
+`Aqirat al Khadim	‘Aqīrat al Khādim	TRUE
+Bi'r Awlad Jarbu`	Wadi Mihrar	FALSE
+Wādī Bū al Farsh	Ra's al Qattar	FALSE
+Awlad Bin Ahmad	Qabilat ash Shuraydat	FALSE
+Bi'r al Jamal	Bi’r al Jamal	TRUE
+Wadi al Baqar	Wādī al Baqar	TRUE
+Mintaqat Bu Thin	Wādī an Naffāth	FALSE
+سانية طويل الرشادة	سانية طويل الرشادة	TRUE
+Sarw aţ Ţalḩ	Bi'r al Ghuraybiyah	FALSE
+Qarat ar Raqubah	Qārat ar Raqūbah	TRUE
+الشاويش	Jabal Faḑīl	FALSE
+ماجن علوب	ماجن العلوب	TRUE
+Wādī al Kashālifah	Wadi al Kashalifah	TRUE
+Raqabat al Basriyah	Raqabat al Basriyah	TRUE
+Wadi Bu Shubayrim	Wadi Bu Shubayrim	TRUE
+As Sakkārīn	As Sakkarin	TRUE
+Kaf Zarzun	Kāf Zarzūn	TRUE
+Shu`bat as Sibt	Shu`bat as Sibt	TRUE
+Wadi al Khurduq	Wādī al Khurduq	TRUE
+An Nabishah	An Nabishah	TRUE
+Ghawţ Fattāḩ	Ghawt Fattah	TRUE
+Wadi an Nahabi	Wādī an Naḩābī	TRUE
+Wādī Bā al ‘Arīḑ	Majin Ra's al Hisan	FALSE
+Suwayniyat Ya`qub	Suwayniyat Ya‘qūb	TRUE
+Qabīlat Ibrāhīm Wasaţ	Qabilat Ibrahim Wasat	TRUE
+Māzūzah	Tawil al Qanadi	FALSE
+Wadi at Tabibah	Tuquţţah	FALSE
+Bi'r al Wa`ir	Abyār Bū Māni‘	FALSE
+Bi’r al Maşbagh	Bi'r al Masbagh	TRUE
+Majin Baqqi	Majin Baqqi	TRUE
+وادي ناكاكة	Suwayniyāt Yaḩmad	FALSE
+Qannin	Wadi Juwayli	FALSE
+Kaf Abu `Ubayd	Kāf Abū ‘Ubayd	TRUE
+وادي بو ذهيبة	وادي بو ذهيبة	TRUE
+Saniyat al Mutaymir	برقاوي	FALSE
+Marsa Zawaghah	Marsa Zawaghah	TRUE
+Wadi Qaddas	وادي التاقة	FALSE
+Ra’s al Abkhar	Ra’s al Abkhar	TRUE
+Dur al Hayqat	Dūr al Hayqāt	TRUE
+Ri'asat Difa` Barqah	Ri'asat Difa` Barqah	TRUE
+Wadi Saqi at Tariq	Wādī Sāqī aţ Ţarīq	TRUE
+Wādī as Sirrī	Qarat Umm Za`but	FALSE
+`Ayn al Qazmat	Shu‘bat Ḩarakāt	FALSE
+Zahr al Jall	Mājin ar Rukbah	FALSE
+Saniyat Bin Dakhil	العتلا	FALSE
+Wādī al Ḩayāt	Wādī al Ḩayāt	TRUE
+بئر طوافة	بئر طوافة	TRUE
+Qar`at Bu Layla	Qar‘at Bū Laylá	TRUE
+Sawānī al Mallāḩah	Mājin ‘Aqīlat Maḩmūd	FALSE
+Wadi Umm az Zartib	Wadi Umm az Zartib	TRUE
+Ra's Umm Quzaym	Minţaqat Sayḩ al Muhrah	FALSE
+Kaf az Zahirah	Kaf az Zahirah	TRUE
+Wadi ash Shuhubiyin	قرارة السويكنة	FALSE
+Bi’r ‘Usaylah fī Daf‘ al Gharbīyah	Majin ad Dumanah	FALSE
+وادي تين تاناي نات	`Ayn Nazayit	FALSE
+Wadi az Zarqa'	Wādī az Zarqā’	TRUE
+Bi’r Fu’ād	Bi'r Fu'ad	TRUE
+‘Arḑ Dūr al Muwaqqaf	`Ard Dur al Muwaqqaf	TRUE
+Ar Rajutiyah	Ar Rajutiyah	TRUE
+Qarārat Ibrāhīm	Qararat Ibrahim	TRUE
+Qur al Fata'im	وادي إبراهيم	FALSE
+Al Ḩumayrah	Majin al Halfawi	FALSE
+Bi’r al Qalb	Bi’r al Qalb	TRUE
+Qararat Tarhuni	Qarārat Tarhūnī	TRUE
+Birkat al Mu‘awwaj	Wadi Tarbah	FALSE
+‘Irq al Khādim	‘Irq al Khādim	TRUE
+Bi'r ash Shiyyab	Bi'r ash Shiyyab	TRUE
+Ţawīl Bū ‘Ajājah	Wudayy at Tamam	FALSE
+Bi’r ar Rashīdīyah	Wādī Bū Sūnīyah	FALSE
+Sāniyat ash Shārif	Safil Tawil `Ali Bin `Ali	FALSE
+Al Qārāt ar Rabdā’	Qararat Wudayy al Hunayti	FALSE
+Shu`bat Zanah	Sāniyat al Mallāḩ	FALSE
+Al Maţāmīr	Suluntah	FALSE
+Wadi Umm ar Ramlah	Wadi Umm ar Ramlah	TRUE
+Sawaqi Naji	Minţaqat al Baghlah	FALSE
+Wādī Sārah	Mintaqat Quwaydir	FALSE
+Khurmat al Marqad	Bi’r Shaţīb al Qawālīsh	FALSE
+Minţaqat al Lathāmah	Minţaqat al Lathāmah	TRUE
+Tawil as Sifar	Ţawīl as Sīfar	TRUE
+Wadi al Hudiyah	Qarārat ‘Abd al Fāḑil	FALSE
+Bi’r Mathāb	Bi'r Mathab	TRUE
+سبخة حفيرة	Ad Dakari	FALSE
+Mazuzah	هون	FALSE
+Wādī Sawf al Jīn	Wadi Sawf al Jin	TRUE
+Bi’r Umm al Jawābī	Bi’r Umm al Jawābī	TRUE
+Wadi Marraghah	Wādī al Muntashiḩ	FALSE
+Wadi ad Daydaban	Wadi ad Daydaban	TRUE
+حفيرة الخور	Ramlat Umm as Subat	FALSE
+Mintaqat al Maharim	‘Urf Qaddūm	FALSE
+Khashm Rami	قرية أبو قرين	FALSE
+Bi'r Bu Rishah	Kaf Mazuzah	FALSE
+Bi’r al ‘Amā’idīyah	Bi'r al `Ama'idiyah	TRUE
+Sabkhat al Milh	Sabkhat al Milh	TRUE
+Qarā’in al Judad	Bi’r Bū Bulaylīţah	FALSE
+Ra’s aḑ Ḑab‘	Ra's ad Dab`	TRUE
+Bi'r al Juyuma	Sāniyat al Fahdīyan	FALSE
+Bi'r Bawahi	Wadi ath Thamad	FALSE
+Ma`atin as Sama'	Ma‘āţin as Samā’	TRUE
+Wādī Awāl	Quwayrat al Marbaḩ	FALSE
+Wādī Sarkah	Wādī Sarkah	TRUE
+Ghawţ aţ Ţīrah	Ghawt at Tirah	TRUE
+Khashm Rahab	Khashm Rahab	TRUE
+Bi’r al Khazākhizah	Bi’r al Khazākhizah	TRUE
+Wādī Lawfah	Wadi Lawfah	TRUE
+Bi’r al Jāff	Bi'r al Jaff	TRUE
+Bi'r al Hubay`ah	Bi’r al Hubay‘ah	TRUE
+Wādī al Karrāth	Wadi al Karrath	TRUE
+Qabīlat al Farjān	Qabilat al Farjan	TRUE
+Sabkhat Kuḩaylah	Sabkhat Kuḩaylah	TRUE
+Qarārat as Sā‘idī	Wādī al ‘Iqāb	FALSE
+وادي محرار	وادي محرار	TRUE
+Bi'r al Qusayr	Bi’r al Quşayr	TRUE
+Bi'r Tuhab	Tammat ar Raşīfīyah	FALSE
+Awlad Mubarak	Awlad Mubarak	TRUE
+Dur Sufan	Dūr Sūfān	TRUE
+Qārat at Tamr	Qarat at Tamr	TRUE
+`Ayn al Maylah	Bi’r Musaywil	FALSE
+Şalab al Ḩadd	سيح الرمل	FALSE
+قرارة وادي	قرارة وادي	TRUE
+Marghaniyat as Saqa'if	Mintaqat al Bayda'	FALSE
+Sayh Nasrah	Zahr Sidi Kurayyim	FALSE
+Al Jawsh aş Şaghīr	Al Jawsh as Saghir	TRUE
+Saniyat Fasatah	Saniyat Fasatah	TRUE
+Muharshamat as Sawāqī	Muharshamat as Sawaqi	TRUE
+حقفة المقينص	حقفة المقينص	TRUE
+Majin `A'ilat Jidran	سبخة غزيل	FALSE
+Wadi Masir	Wādī az Zuhayrī	FALSE
+Qaltat al Ḩaddādīyah	Qar`at al Handaqut	FALSE
+Lubb Bū al Fuhūd	Lubb Bū al Fuhūd	TRUE
+Ghawt al Qataf	Ghawţ al Qaţaf	TRUE
+Qarārat ash Shīḩ	Wadi Sallun	FALSE
+Qārat Dhirā‘ Bin Māsin Bin Jarjīr	Qārat Dhirā‘ Bin Māsin Bin Jarjīr	TRUE
+‘Urqūb al Qaş‘āwī	‘Urqūb al Qaş‘āwī	TRUE
+Bi’r Wuḩaydī	Wādī aḑ Ḑamrān	FALSE
+As Sanburat	Aş Şanbūrāt	TRUE
+Bi’r Jufrah	Abyār al Hawwārah	FALSE
+وادي العصمة	وادي العصمة	TRUE
+Wadi Mindas	شعبة بويب الدلول	FALSE
+Wādī al ‘Akkī	Wādī al ‘Akkī	TRUE
+Thamad Umm Arbā‘	Kaf al Aghlaq	FALSE
+Saniyat Rahmah	Sāniyat Raḩmah	TRUE
+Wadi Taqzir	Wādī Taqzīr	TRUE
+طبقة رماح	طبقة رماح	TRUE
+Jawf Muzetta	Al Maslulah	FALSE
+Wadi Bin Hindi	Wādī Bin Hindī	TRUE
+Bi'r Salamah	‘Aqīrat Murḑīyah	FALSE
+Mājin ar Raqabah	Majin ar Raqabah	TRUE
+Khirwa`	Khirwa‘	TRUE
+Bi’r al Barakīyah	Bi'r al Barakiyah	TRUE
+Ghawt al Baqar	Quwayrāt ar Rabī‘	FALSE
+Wadi al `Aqubiyah	Wādī al ‘Aqūbīyah	TRUE
+Wādī Bū Maras	Qatar Neighborhood	FALSE
+Maraqib Shawat	Maraqib Shawat	TRUE
+Wadi Rubayh	Wadi Rubayh	TRUE
+Qabu as Suwayrat	Bi’r al ‘Amārīyah	FALSE
+Ra’s Rukbat al Furaysh	Hawa al Haramisah	FALSE
+Abyār Marrīz	Sawānī Bū Ibrīq	FALSE
+Wadi al Humar	Wādī al Ḩumar	TRUE
+Tariq al `Alaqah	Sawānī ad Dawrānīyah	FALSE
+Bi’r Quzzāḩ	Bi’r Quzzāḩ	TRUE
+‘Aqīrat ash Shadīd	`Aqirat ash Shadid	TRUE
+Shu‘bat al Kāsiḩ	Shu‘bat al Kāsiḩ	TRUE
+Wādī Umm aţ Ţalḩah	Wādī Umm aţ Ţalḩah	TRUE
+Wadi ar Rumaymin	Wadi ar Rumaymin	TRUE
+‘Ayn Wīf	Ra’s Banghal	FALSE
+Bi’r Mas‘ūd	Bi'r Mas`ud	TRUE
+Qararat al Athl	Qarārat al Athl	TRUE
+Bi'r Maraji` al Miyar	Bi’r Marāji‘ al Miyār	TRUE
+وادي فرس	Bi’r al Qar‘ah	FALSE
+Wadi al Jarrah	Halq al `Abd	FALSE
+Bi'r al Wati'	Bi'r al Wati'	TRUE
+Bi'r ar Rati`at	Shu`bat at Talhah	FALSE
+Saniyat Saqin	Sāniyat Saqīn	TRUE
+Wādī Umm ar Raml	Wadi Umm ar Raml	TRUE
+Wadi az Zirdab	Wadi az Zirdab	TRUE
+Qabīlat ‘Aţāyāt	Qur ar Rusayf	FALSE
+Qarat al Awdad	Wadi al `Atifi	FALSE
+Wādī Abū Hanshīr	Wadi Abu Hanshir	TRUE
+Kahf as Sayyah	Wadi ad Daraji	FALSE
+Wādī Umm adh Dhibbān	Wadi Umm adh Dhibban	TRUE
+Qūr al Quşūd	Abar az Zuwayyil	FALSE
+Siyāḩ Şurrah	Siyah Surrah	TRUE
+Qārat al Burşah	Wadi Bu `Akrah	FALSE
+Bi'r al Ma`aqil	Bi'r al Ma`aqil	TRUE
+Wādī Tīn Tānāy Nāt	Abyār Bū Surūz	FALSE
+Jabal Bū Khushaybah	Ard as Sarr	FALSE
+Wadi al Ghabi	Ar Rasīm	FALSE
+Baqqālah	Baqqalah	TRUE
+Qārat Rizq	Qārat Rizq	TRUE
+Bi'r at Tawiyah	Bi'r at Tawiyah	TRUE
+Bu Daqil	Wadi Abna' Rahumah	FALSE
+Wadi Qaraqir	Thidyān al Khādim	FALSE
+Qarat al Kalbah	Qarat al Kalbah	TRUE
+وادي رتمة الجلابة	وادي رتمة الجلابة	TRUE
+Dūr Farītah	Dūr Farītah	TRUE
+Qarārat Wān Jawl	كاف الرتم	FALSE
+Wadi al `Uqbah	Majin Awlad `Ali	FALSE
+Wadi at Ta'i`	Wadi at Ta'i`	TRUE
+Khashm al Qubayr	Khashm al Qubayr	TRUE
+Abyār al Muhashhash	`Ilwat Nufi	FALSE
+Wādī Latil	Wadi Latil	TRUE
+Minţaqat ‘Ulayyān	Minţaqat ‘Ulayyān	TRUE
+`Urqub al Muznah	بئر النقازة	FALSE
+Wādī al Qabā’ilī	Wadi al Qaba'ili	TRUE
+Qarārat al Ḩumaymīs	Bi'r Sahab	FALSE
+Wadi Tunaynir	Abyār Qaşr al ‘Aţash	FALSE
+Abyār Bū Ḩunayyah	Wādī as Sidr	FALSE
+Wādī Lukk	Wadi Lukk	TRUE
+Bi’r Bū Rīshah	Qarat as Sultan	FALSE
+Wādī al Maslūlah al Ghāwiyah	Wadi al Maslulah al Ghawiyah	TRUE
+Al Balla`ah	Feuet	FALSE
+Ghawţ al Maqārīn	Ra's Sibaqah	FALSE
+Durayb al Qannāşah	Durayb al Qannasah	TRUE
+Khurmat Waw	Khurmat Waw	TRUE
+Shu‘bat ash Sharīf	Shu`bat ash Sharif	TRUE
+الرحيبات	Qararat al Falazlaz	FALSE
+Shu‘bat Umm ar Raml	Shu`bat Umm ar Raml	TRUE
+Shaţīb al Karm	Abyār Khurayş	FALSE
+Wādī al ‘Uşayyah	Wadi al `Usayyah	TRUE
+Ra’s al Muhr	Abyar Umm al A`was	FALSE
+Bi'r Yunus	Bi'r Yunus	TRUE
+Barq an Nişf	Barq an Nisf	TRUE
+شطيب أم النوع	شطيب أم النوع	TRUE
+Barqat Tiji	Barqat Tiji	TRUE
+Harf Marku	Harf Marku	TRUE
+Qarārat Sayḩ al ‘Abd	Wadi Fam al Baqarah	FALSE
+Bū Majdah	وادي دويرة	FALSE
+‘Ilwat Sulaymān Ḩalīmah	Zahrat Ard Mazir	FALSE
+Bi'r al Birak	Bi’r al Birak	TRUE
+Al Athrūn	Al Athrūn	TRUE
+Bi'r al Kazuziyah	Bi’r al Kāzūzīyah	TRUE
+Wadi al Jiladi	Wādī al Jīlādī	TRUE
+In Tahtut	In Tahtut	TRUE
+Qārat al Murayzīqah	Az̧ Z̧ahr al Abyaḑ	FALSE
+Wadi Nusayriyah	Wadi Nusayriyah	TRUE
+Majin Bahhah	Wadi al `Usmah	FALSE
+Ru'us al Ma`arik	Wadi Tamaghrawit	FALSE
+Bi'r Suwaysi	Mājin al Kanshīyah	FALSE
+Bi’r Ḩaqfat ar Raml	ثماد كوبات حبيل	FALSE
+Ghawţ adh Dhayl	Ghawt adh Dhayl	TRUE
+In Ghalzan	Shu`bat ar Ru'ays	FALSE
+Wādī adh Dhi’bah	Wādī adh Dhi’bah	TRUE
+Bi'r al Ahmar	Bi'r al Ahmar	TRUE
+Bi’r el Hayqah	Bi’r el Hayqah	TRUE
+‘Ayn Ḩabbūn	‘Ayn Ḩabbūn	TRUE
+Bi'r al Maslulah al Wa`irah	Bi’r al Maslūlah al Wā‘irah	TRUE
+Wadi al Malihah	Wādī al Māliḩah	TRUE
+Ḩaţīyat al Ḩīfān	Ḩaţīyat al Ḩīfān	TRUE
+Wadi Fikkirin	Wādī Fikkīrīn	TRUE
+Sāḩil al Mīlī	Sayh ar Rijl	FALSE
+Qabilat Jawawibah	Qabīlat Jawāwibah	TRUE
+Bi’r aş Şabāt	Bi'r as Sabat	TRUE
+Qaryat Jītāl	Qaryat Jital	TRUE
+Bi'r Shaqluf	Ghitan al Munsharib	FALSE
+Abu Qura`i	Qarārat al Farīsah	FALSE
+Tahūghatīn	Tahughatin	TRUE
+Al Magharibah	Al Magharibah	TRUE
+Wadi az Zalimah	Zahrat al Kandarah	FALSE
+Wadi ar Rijl	Wādī ar Rijl	TRUE
+Sāniyat Ibrāhīm ‘Ubayshah	Bi’r Muḩārib	FALSE
+القصاص	القصاص	TRUE
+سياح الشهوب	Bi’r Ţāhir	FALSE
+Ash Sharif	Shu`bat al Ghuzaylah	FALSE
+Sāniyat al Kalāl	Saniyat al Kalal	TRUE
+Al `Urqub al Ahmar	Al `Urqub al Ahmar	TRUE
+Wadi `Abd as Samad	وادي غربية	FALSE
+المزور	Qabilat al Khawaliq ma`a al Wadi	FALSE
+Wādī al Ḩamrā’	Wādī al Ḩamrā’	TRUE
+Wādī al Ghazāl	Al Mushaqqaq al Muwaqqaf	FALSE
+Shiyab ad Daydaban	Shiyab ad Daydaban	TRUE
+Mutuşarrifīyat Ghadāmis	Mutuşarrifīyat Ghadāmis	TRUE
+Bi'r Umm Qal`ah	Şaḩrā‘ Rabyānah	FALSE
+Jibāl al Waji‘ah	Zahrat al `Atash	FALSE
+Al Qawāfil	Al Qawafil	TRUE
+Wādī aş Şayyāḩ	Wādī aş Şayyāḩ	TRUE
+Za‘mūţ Bū Hūn	Za`mut Bu Hun	TRUE
+وادي المطيرة	Al Gharīq	FALSE
+Ghawt al Munayqi`	Ghawţ al Munayqi‘	TRUE
+Khashshat ad Dūdah	Qabīlat az Zintān	FALSE
+Kāf al Furūq	Dūr az̧ Z̧alīm	FALSE
+Kharramat Bu `Ayn	Kharramat Bu `Ayn	TRUE
+Mintaqat Jardas	Mintaqat Jardas	TRUE
+وادي النقازة	Mintaqat al Hawwash	FALSE
+Tawil at Tahir	Tawil at Tahir	TRUE
+Qar‘at al Ma‘mūrah	Qar`at al Ma`murah	TRUE
+فيلات الملك إدريس	Qararat as Suwayyih	FALSE
+Mintaqat al Jarajib	Mintaqat al Jarajib	TRUE
+Wadi Nabit	Ghafūn	FALSE
+Wādī al Jurfān	Bi'r Sayh al Hawd	FALSE
+Tanīţīn	Tanīţīn	TRUE
+سانية المحروقة	Ghawt Kashanu	FALSE
+Martūbah	Martubah	TRUE
+Tariq Ghuzayyil	Tariq Ghuzayyil	TRUE
+Shaţīb Jardā‘	Shaţīb Jardā‘	TRUE
+Minţaqat al Khalā’ifah	Minţaqat al Khalā’ifah	TRUE
+Wadi Ghalatah	Wadi Ghalatah	TRUE
+Qaryat al Qusaybat	Qaryat al Qusaybat	TRUE
+Jabal al Ḩufayrah	Ra's Wannah	FALSE
+Qarārāt ash Shurfah	Khashm Murād	FALSE
+Tawil an Nuwar	Ru’ūs Mannā‘ah	FALSE
+Sīdī Bin Zīnah	Ghawţ Ţūţāḩ	FALSE
+Wadi al Qirqab	غيطان المفاطيم	FALSE
+Wādī Ghazāl	Wadi Ghazal	TRUE
+Wadi al Khadim	Wadi al Khadim	TRUE
+Wādī Tibyāz̧ū	وادي بو ذهيبة	FALSE
+Wādī al Majābirah	Bū Khurayshīfah	FALSE
+Ghawţ al Ja‘āfir	Ghawt al Ja`afir	TRUE
+Qarat Ummi `A'ishah	Qarat Ummi `A'ishah	TRUE
+Hamrayat Ra's Umm al Baqar	Wādī Ghawţ Şāliḩ	FALSE
+Zahr Umm Khamir	Sāniyat ash Shārif	FALSE
+Cyrene	Qarārat al Balāţah	FALSE
+Al Qārah aş Şafrā’	Al Qarah as Safra'	TRUE
+وادي بو الهاشم	Bi’r Bū Qadqūd	FALSE
+Bi'r al Ghazal	Bi'r al Ghazal	TRUE
+Ḩaqfat Z̧ahr al Ḩallāb	Al Marmūtah	FALSE
+‘ilwat al Ghūlah	`ilwat al Ghulah	TRUE
+Sirat al Haffan	Sīrat al Ḩaffān	TRUE
+Thamad Naqb aţ Ţīn	Thamad Naqb aţ Ţīn	TRUE
+Wādī ar Rujbān	Wadi ar Rujban	TRUE
+Shu‘bat Umm al ‘Arjam	‘Aqīlat al Khurash	FALSE
+Wādī Tilzim	Wadi Tilzim	TRUE
+Wadi at Talh	Wadi at Talh	TRUE
+شعبة أم اللبد	شعبة أم اللبد	TRUE
+Bi'r al Khurb	وادي رقراق	FALSE
+Wadi al Hanaya	Ghawţ al ‘Izāzī	FALSE
+Bi'r Zuzab	Wādī ash Sharāf	FALSE
+شياب المتمتياب	شياب المتمتياب	TRUE
+Wādī ar Rughl	Wādī ar Rughl	TRUE
+‘Urqūb al Muqaryif	بئر الذكور	FALSE
+Al Kuthbān ar Ramlīyah al Ḩamrā’	Antalat	FALSE
+وادي الحاد	وادي الحاد	TRUE
+Haqfat Sidi at Tayyib	Haqfat Sidi at Tayyib	TRUE
+Qararat `Utayyiqah	Qarārat ‘Utayyiqah	TRUE
+Wādī Aghlāl	Wādī Aghlāl	TRUE
+Ramlat al Qazzūn	Ramlat al Qazzun	TRUE
+Wādī Suţābah	Ra’s as Sa‘dānīyah	FALSE
+بئر النقدية	Qabīlat an Naţţāţāt	FALSE
+Wadi al Jarrush	Wadi al Jarrush	TRUE
+Al Hulayq	Ra's al Mu`allaq	FALSE
+Saniyat Miqraf	Saniyat Miqraf	TRUE
+Dur Hayashim	Dūr Hayāshim	TRUE
+Baltat as Sayf	Balţat as Sayf	TRUE
+Majin `A'ilat Jidran	Majin `A'ilat Jidran	TRUE
+Minţaqat aţ Ţawīl	Mintaqat at Tawil	TRUE
+معطن فريدحة	معطن فريدحة	TRUE
+Majin Daw' Bin Ramadan	Mājin Ḑaw’ Bin Ramaḑān	TRUE
+Bi'r Umm al Wasan	Bi'r Umm al Wasan	TRUE
+وادي الرجيلات	Taffayah	FALSE
+Qarārat Anqāb al Mājin	Wādī al Mughaysīl	FALSE
+حتية مراق	حطية مراق	TRUE
+Sabkhat ash Shuwayrib	Bi'r al Khudubiyah	FALSE
+Sabkhat Daf‘ Wudayy Aḩmad	Sabkhat Daf` Wudayy Ahmad	TRUE
+لوذ الحمادة	لوذ الحمادة	TRUE
+طويل الرتمة	Shu`bat al Faras	FALSE
+Wadi Qadrur	Wadi Qadrur	TRUE
+Shu‘bat al ‘Azzābīyah	‘Urqūb al Ḩalīb	FALSE
+Wadi az Zalilat	Wādī az̧ Z̧alīlāt	TRUE
+Ramlat al Khaymah	Ramlat al Khaymah	TRUE
+Masrab an Nāzilah	Bi'r al Husayyat	FALSE
+Qararat al Hazazah	Qarārat al Ḩazāzah	TRUE
+شعبية سبها	شعبية سبها	TRUE
+Qurji	Qurji	TRUE
+Ghawţ Nişf ad Dunyā	Ghawt Nisf ad Dunya	TRUE
+Mājin al Khurjah	Tasāwah	FALSE
+Saniyat al Haddadiyah	Saniyat al Haddadiyah	TRUE
+Wadi an Naqad	Wādī an Naqad	TRUE
+Qararat Husayn	قلب القزاح	FALSE
+Ad Dawāyah	خشم الذئب	FALSE
+وادي الشعيرة	Khurmat Tashshah	FALSE
+Wādī Umm as Sabţ	Wadi Iqrizib	FALSE
+Minţaqat al Ḩiqfah	وادي زازة	FALSE
+Wadi as Sidrah	Wādī as Sidrah	TRUE
+Bi’r al Gharrānīyah	‘Ayn Rālis	FALSE
+Wādī as Saqy	Wādī as Saqy	TRUE
+Ra's az Zur Reef	Ra's az Zur Reef	TRUE
+Minţaqat Māziz	Ghawt al Hawa	FALSE
+Tawmal az Zayt	Qarat al Mazzalah	FALSE
+Ghawţ al Barā‘işah	Bi'r an Nuwayjiyah	FALSE
+Qarat al `Asidah	Qārat al ‘Aşīdah	TRUE
+Bi'r Sarani	Bi'r Sarani	TRUE
+Jaddat al Bajil	Wādī Lam‘ah	FALSE
+Al Ḩarābah	Wādī ‘Umar	FALSE
+Wadi Salqin	Zurayzirah	FALSE
+جليانا	Qaşr Barrūrū	FALSE
+Khallat al Farjān	Kūbāt Ḩubayl	FALSE
+Bi’r al ‘Abādilah	Bi’r al ‘Abādilah	TRUE
+Ma`tan al Fuqayriyah	Ma‘ţan al Fuqayrīyah	TRUE
+Wadi Ghanimah	المواشيمة	FALSE
+Wadi al Qasabah	Sayḩ Naşrū	FALSE
+Shuţbān al Ḩimārah	Wādī al Baqar	FALSE
+`Aqirat al `Ajram	Khashm ‘Abd aş Şamad	FALSE
+Wadi al Qurayn	Wādī an Nazrāt	FALSE
+Shaţīb al Barāhimah	Al ‘Usaylah	FALSE
+‘Ayn al Bayt	بئر حبش	FALSE
+Bi’r Awlād Abū Dalāl	Bi'r Awlad Abu Dalal	TRUE
+دور تركية	دور تركية	TRUE
+Wadi al Qattar	Wadi al Qattar	TRUE
+Ra's al Jamal	Qarat Jab Allah	FALSE
+Kahf as Sayyah	Kahf as Sayyah	TRUE
+Wadi Tifran	Wādī Tīfrān	TRUE
+Wādī al Karūs	Wādī al Karūs	TRUE
+Wadi ash Shantir	Wādī ash Shantīr	TRUE
+Wadi al `Asr	Wādī al ‘Aşr	TRUE
+Mājin al Ma‘qarah	Majin al Hajj `Umar	FALSE
+حوش أبو شربية	حوش أبو شربية	TRUE
+Naqb Qirbah	Wādī Harārhī	FALSE
+Wadi Umm Rukbah	Wādī Umm Rukbah	TRUE
+Wādī ‘Abd ash Shafī‘	Majin al `Aqraban	FALSE
+دور بو رقيبة	Majin Umm al Madas	FALSE
+Ţayyibat al Ism	Ţayyibat al Ism	TRUE
+Wādī al Jarwalah	Wādī al Jarwalah	TRUE
+Widyān ad Dakhīlah	Widyān ad Dakhīlah	TRUE
+Qarār al Kawādīsh	Qarar al Kawadish	TRUE
+شعبية إجدابيا	Qararat Sarw ar Ratamah	FALSE
+Wadi Habbasat	Wādī Ḩabbāsāt	TRUE
+Wādī Sīdī al Qabw	Wādī Sīdī al Qabw	TRUE
+Bi’r Wādī al Libd	Quwayrāt aş Şayyād	FALSE
+Qasr Khulayf	Qasr Khulayf	TRUE
+قرية قاريونس	قاريونس	TRUE
+Wādī Umm al ‘Arfaj	Minqār ar Raḩīnah	FALSE
+سبخة أم لحية	صبخة أم لحية	TRUE
+Quwayrāt Tabū	`Ilwat Malikah	FALSE
+Shu`bat at Tuwayqah	Saniyat al Haki	FALSE
+ماجن الخاملة	ماجن الخاملة	TRUE
+Wadi Bu Haybah	Wādī Bū Haybah	TRUE
+Al Asabi`ah	Wadi al Mu`ayliq	FALSE
+Qarat as Satut	Qārat as Satūt	TRUE
+Wadi Mazah	Wādī Māzah	TRUE
+Mājin Bū Qu‘ayqīş	Wadi Qararat Bu `Ajinah	FALSE
+Qabilat at Tawrah	Qabilat at Tawrah	TRUE
+Sabkhat Qararat ash Shakandi	Sabkhat Qarārat ash Shakandī	TRUE
+Ruqbat aş Şahanjīyah	Ruqbat aş Şahanjīyah	TRUE
+Wādī aş Şufī	Wadi Umm al `Adaf	FALSE
+Ghawt al Maradisah	Ghawt al Maradisah	TRUE
+Wadi ar Rumaymin	Widyan Bu Jiraq	FALSE
+Wādī Jirmat al Qudrah	Wadi Rujaylat al Majin	FALSE
+Bi'r Sha`ufah	Ra's ad Dandah	FALSE
+Māsāk as Sawdā’	‘Ayn al Qāḑī	FALSE
+Sāniyat Sāk Māl	Bi’r ‘Utayyiqah	FALSE
+Qulayb al `Iljiyah	Ma`tan ash Sha'ibah	FALSE
+Wadi al `Atrani	Wadi al `Atrani	TRUE
+Bi'r al Hajj Ahmad al Ghulah	Bi’r al Ḩājj Aḩmad al Ghūlah	TRUE
+Ghawţ al Ḩamrah	Ghawţ al Ḩamrah	TRUE
+Ma`tan Satlunah	Qannīn	FALSE
+Wādī Lāmūt	Wādī Lāmūt	TRUE
+Qarat Daf` Gharbiyat Zukayr al `Akkari	Qārat Daf‘ Gharbīyat Zukayr al ‘Akkārī	TRUE
+Wādī al Fiţās	Qarārāt Bin ‘Abd Allāh	FALSE
+Haqfat Bu ash Sha`r	Wadi al Fakhkh	FALSE
+Hawiyat al Kawiri	Bi'r al Mehemmesa	FALSE
+Bi’r Shalghūm	Tariq `Awniyat Wanin	FALSE
+خرمة أم العجرم	خرمة أم العجرم	TRUE
+Shu`bat ash Shiqqah	Saniyat ash Shamili	FALSE
+Majin `Ayt Bu `A'ishah	Mājin ‘Ayt Bū ‘Ā’ishah	TRUE
+Qulaybāt al Wā‘ir	Khashm al Jubayl	FALSE
+Ḩayy Sīdī Yūnus	Hayy Sidi Yunus	TRUE
+Kirbasah	Qararat Bin ash Shutaywi	FALSE
+Mintaqat al `Aql	Mintaqat al `Aql	TRUE
+Sāniyat al ‘Ilāb	Sāniyat al ‘Ilāb	TRUE
+قرية هنشير البدور	قرية هنشير البدور	TRUE
+Wadi Tanajir	Wādī Tanājir	TRUE
+Bi’r Ḩaqfat al ‘Aqqah	Bi'r Haqfat al `Aqqah	TRUE
+Bi'r ash Shararah	Bi'r ash Shararah	TRUE
+Sayḩ al Qufūl	Sayḩ al Qufūl	TRUE
+Abyar Raqabat Masikh	Abyār Raqabat Māsikh	TRUE
+وادي أبو الخرفان	Qarat Mabrukah	FALSE
+Sabkhat Qarat Bu `Ajinah	Sabkhat Qārat Bū ‘Ajīnah	TRUE
+Minţaqat Sīdī al Ḩumrī	Ḩaqfat al Munsharib	FALSE
+Bi’r Sabīyah	Bi'r Sabiyah	TRUE
+Wādī al Kharīţ	Wadi al Kharit	TRUE
