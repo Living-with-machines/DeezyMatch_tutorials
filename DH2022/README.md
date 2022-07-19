@@ -24,7 +24,7 @@ These datasets were created in Jupyter Notebook: `prepare_dataset`.
 
 ---
 
-Next, we will go to [libyan_gazetteer](libyan_gazetteer) tutorial:
+Next, we go to [libyan_gazetteer](libyan_gazetteer) tutorial:
 
 1. Go to [libyan_gazetteer](libyan_gazetteer) directory:
 
@@ -34,7 +34,7 @@ cd DH2022/libyan_gazetteer
 
 2. Open Jupyter Notebook: `tutorial_hgl`.
 
-Here, we use already created datasets (i.e., queries/candidates/pairs) for training and using a DeezyMatch model. This includes training a pair classifier and using the trained model for candidate ranking.
+Similar to the previous tutorial, we use already created datasets (i.e., queries/candidates/pairs) for training and using a DeezyMatch model. This includes training a pair classifier and using the trained model for candidate ranking.
 
 These datasets were created in Jupyter Notebook: `prepare_dataset`. 
 
