@@ -1,14 +1,61 @@
 # DH2022: Digital Humanities conference
 
-- [Introduction](#introduction)
 - [Installation and setup](#installation)
+- [Introduction](#introduction)
 - [Download data](#download-data)
 - [Credits and re-use terms](#credits-and-re-use-terms)
 
+---
+
+## Installation and setup
+
+We strongly recommend installation via Anaconda (refer to [Anaconda website and follow the instructions](https://docs.anaconda.com/anaconda/install/)).
+
+* Create a new environment
+
+```bash
+conda create -n py39deezy python=3.9
+```
+
+* Activate the environment:
+
+```bash
+conda activate py39deezy
+```
+
+* Install DeezyMatch via [PyPi](https://pypi.org/project/DeezyMatch/):
+      
+```bash
+pip install DeezyMatch
+```
+
+* Install other dependencies:
+
+```bash
+pip install "thefuzz"
+pip install "gensim"
+pip install "nltk"
+```
+
+:warning: (optional) You can also install `thefuzz[speedup]` which provides a 4-10x speedup in String Matching (reference: https://github.com/seatgeek/thefuzz):
+
+```bash
+pip install "thefuzz[speedup]"
+```
+
+Clone the DeezyMatch tutorials repository:
+```bash
+git clone https://github.com/Living-with-machines/DeezyMatch_tutorials.git
+```
+
+
 ## Introduction
 
-We have prepared two sets of tutorials for the DH2022 conference:
-- [ocr_with_w2v](ocr_with_w2v): Fuzzy string matching and ranking between OCR queries and a set of candidates.
+We have prepared three sets of tutorials for the DH2022 conference:
+- [DM_101](DM_101): Dummy string matching and ranking between a small number of queries and candidates
+- [ocr_with_w2v](ocr_with_w2v): Fuzzy string matching and ranking between:
+    - queries: tokens in English containing OCR errors
+    - candidates: list of words in the English language
 - [libyan_gazetteer](libyan_gazetteer): Toponym matching and ranking between:
     - queries: toponyms obtained from the Heritage Gazetteer of Libya (HGL)
     - candidates: list of toponyms (and alternate names) belonging to places in current-day Libya, from Geonames.
@@ -45,42 +92,6 @@ Similar to the previous tutorial, we use already created datasets (i.e., queries
 
 These datasets were created in Jupyter Notebook: `prepare_dataset`. 
 
-
-## Installation
-
-We strongly recommend installation via Anaconda (refer to [Anaconda website and follow the instructions](https://docs.anaconda.com/anaconda/install/)).
-
-* Create a new environment
-
-```bash
-conda create -n py39deezy python=3.9
-```
-
-* Activate the environment:
-
-```bash
-conda activate py39deezy
-```
-
-* Install DeezyMatch via [PyPi](https://pypi.org/project/DeezyMatch/):
-      
-```bash
-pip install DeezyMatch
-```
-
-* Install other dependencies:
-
-```bash
-pip install "thefuzz"
-pip install "gensim"
-pip install "nltk"
-```
-
-:warning: (optional) You can also install `thefuzz[speedup]` which provides a 4-10x speedup in String Matching (reference: https://github.com/seatgeek/thefuzz):
-
-```bash
-pip install "thefuzz[speedup]"
-```
 
 ## Download data
 
