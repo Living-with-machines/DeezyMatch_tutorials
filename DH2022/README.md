@@ -83,7 +83,21 @@ We have prepared three sets of tutorials for the DH2022 conference:
 
 ---
 
-We start with the [ocr_with_w2v](ocr_with_w2v) tutorial:
+We start with the [DM_101](DM_101) tutorial:
+
+1. Go to [DM_101](DM_101) directory:
+
+```bash
+cd DH2022/DM_101
+```
+
+2. Open Jupyter Notebook: `tutorial_101`.
+
+Here, we use already created datasets (i.e., queries/candidates/pairs) for training and using a DeezyMatch model. This includes training a pair classifier and using the trained model for candidate ranking.
+
+---
+
+We continue with the [ocr_with_w2v](ocr_with_w2v) tutorial:
 
 1. Go to [ocr_with_w2v](ocr_with_w2v) directory:
 
