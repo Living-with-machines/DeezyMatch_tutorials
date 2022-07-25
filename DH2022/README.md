@@ -1,5 +1,12 @@
 # DH2022: Digital Humanities conference
 
+- [Introduction](#introduction)
+- [Installation and setup](#installation)
+- [Download data](#download-data)
+- [Credits and re-use terms](#credits-and-re-use-terms)
+
+## Introduction
+
 We have prepared two sets of tutorials for the DH2022 conference:
 - [ocr_with_w2v](ocr_with_w2v): Fuzzy string matching and ranking between OCR queries and a set of candidates.
 - [libyan_gazetteer](libyan_gazetteer): Toponym matching and ranking between:
@@ -24,7 +31,7 @@ These datasets were created in Jupyter Notebook: `prepare_dataset`.
 
 ---
 
-Next, we will go to [libyan_gazetteer](libyan_gazetteer) tutorial:
+Next, we go to [libyan_gazetteer](libyan_gazetteer) tutorial:
 
 1. Go to [libyan_gazetteer](libyan_gazetteer) directory:
 
@@ -34,7 +41,7 @@ cd DH2022/libyan_gazetteer
 
 2. Open Jupyter Notebook: `tutorial_hgl`.
 
-Here, we use already created datasets (i.e., queries/candidates/pairs) for training and using a DeezyMatch model. This includes training a pair classifier and using the trained model for candidate ranking.
+Similar to the previous tutorial, we use already created datasets (i.e., queries/candidates/pairs) for training and using a DeezyMatch model. This includes training a pair classifier and using the trained model for candidate ranking.
 
 These datasets were created in Jupyter Notebook: `prepare_dataset`. 
 
