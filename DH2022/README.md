@@ -1,8 +1,7 @@
 # DH2022: Digital Humanities conference
 
 - [Installation and setup](#installation)
-- [Introduction](#introduction)
-- [Download data](#download-data)
+- [Tutorials](#tutorials)
 - [Credits and re-use terms](#credits-and-re-use-terms)
 
 ---
@@ -48,8 +47,30 @@ Clone the DeezyMatch tutorials repository:
 git clone https://github.com/Living-with-machines/DeezyMatch_tutorials.git
 ```
 
+**Download data:**
 
-## Introduction
+For the `libyan_gazetteer` tutorial, we need to download data from `download.geonames.org` and `slsgazetteer.org` (see [Credits and re-use terms](#credits-and-re-use-terms) for info on licenses). 
+
+```bash
+python prepare_dirs.py
+```
+
+This will create the following files/directories in `libyan_gazetteer/data`:
+
+```bash
+libyan_gazetteer
+├── data
+│   ├── LY.txt
+│   ├── alternateNamesV2.txt
+│   └── hgl_data.json
+├── inputs
+│   └── ... 
+└── ...
+```
+
+---
+
+## Tutorials
 
 We have prepared three sets of tutorials for the DH2022 conference:
 - [DM_101](DM_101): Dummy string matching and ranking between a small number of queries and candidates
@@ -92,27 +113,6 @@ Similar to the previous tutorial, we use already created datasets (i.e., queries
 
 These datasets were created in Jupyter Notebook: `prepare_dataset`. 
 
-
-## Download data
-
-For the `libyan_gazetteer` tutorial, we need to download data from `download.geonames.org` and `slsgazetteer.org` (see [Credits and re-use terms](#credits-and-re-use-terms) for info on licenses). 
-
-```bash
-python prepare_dirs.py
-```
-
-This will create the following files/directories in `libyan_gazetteer/data`:
-
-```bash
-libyan_gazetteer
-├── data
-│   ├── LY.txt
-│   ├── alternateNamesV2.txt
-│   └── hgl_data.json
-├── inputs
-│   └── ... 
-└── ...
-```
 
 ## Credits and re-use terms
 
