@@ -1,6 +1,6 @@
 # DH2022: Digital Humanities conference
 
-- [Installation and setup](#installation)
+- [Installation and setup](#installation-and-setup)
 - [Tutorials](#tutorials)
 - [Credits and re-use terms](#credits-and-re-use-terms)
 
